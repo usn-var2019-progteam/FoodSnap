@@ -220,7 +220,7 @@ function analyzeImage() {
             {
                 var sFoodname = aImageData[i].name;
                 var dProbibility = aImageData[i].value*100;
-                var dProbibility = dProbibility.toFixed(2);
+                //var dProbibility = dProbibility.toFixed(2);
 
                 if (parseFloat(dProbibility) >= 80.00)
                 {
@@ -236,8 +236,18 @@ function analyzeImage() {
                     /*sHtml += "<td>";
                         sHtml += " " + dProbibility;
                     sHtml += "</td>";*/
-                    sHtml += "<td>";    
-                        sHtml += "<input type='checkbox' id=\""+sMat+"\" onclick='innhold(\""+sMat+"\");'/><br />";
+                    sHtml += "<td>";   
+                    
+                        sHtml += '<div class="pretty p-icon p-smooth">';
+                            sHtml += '<input type="checkbox" />';
+                            sHtml += '<div class="state p-success">';
+                                sHtml += '<i class="icon material-icons"></i>';
+                                sHtml += '<label></label>';
+                            sHtml += '</div>';
+                        sHtml += '</div>';
+                    
+                    
+                        //sHtml += "<input type='checkbox' id=\""+sMat+"\" onclick='innhold(\""+sMat+"\");'/><br />";
                     sHtml += "</td>";
                     sHtml += "</tr>";
                     
@@ -245,7 +255,7 @@ function analyzeImage() {
                 }
             }
             sHtml += "</table>";
-            //console.log(sHtml);
+            console.log(sHtml);
             $("#imageInfo").show();
             $("#imageInfo").html(sHtml);
         },
