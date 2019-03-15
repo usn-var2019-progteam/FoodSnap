@@ -1,0 +1,1721 @@
+﻿01.013;Geitmelk, langtidsholdbar;89;254;61;3,6;4;3,1
+01.001;Helmelk, 3,5 % fett;88;264;63;3,5;4,5;3,4
+01.272;Helmelk, 3,5 % fett, laktosefri;89;237;57;3,5;3;3,3
+01.235;Helmelk, 3,9 % fett;87;278;67;3,9;4,6;3,3
+01.283;Helmelk, 4,1 % fett, økologisk;87;287;69;4,1;4,6;3,4
+01.236;Helmelk, uspesifisert;88;267;64;3,6;4,5;3,4
+01.109;Kaffemelk, 3,5 % fett;87;260;62;3,5;4,4;3,3
+01.196;Kakao, med lettmelk, tilberedt;79;365;87;2,3;12;4
+01.230;Lettmelk, 0,5 % fett, vitamin D;91;156;37;0,5;4,6;3,5
+01.231;Lettmelk, 0,5-0,7 % fett, vitamin D, uspesifisert;91;162;38;0,7;4,5;3,5
+01.192;Lettmelk, 0,7 % fett, vitamin D;91;162;38;0,7;4,5;3,5
+01.274;Lettmelk, 0,7 % fett, vitamin D, laktosefri;91;138;33;0,7;3,1;3,5
+01.285;Lettmelk, 0,7 % fett, økologisk;91;162;38;0,7;4,6;3,4
+01.228;Lettmelk, 1,0 % fett;91;175;41;1;4,6;3,5
+01.002;Lettmelk, 1,2 % fett;90;180;43;1,2;4,5;3,5
+01.215;Lettmelk, 1,2 % fett, laktosefri;90;157;37;1,2;3,1;3,5
+01.118;Lettmelk, 1,2 % fett, laktoseredusert;90;180;43;1,2;4,7;3,3
+01.119;Lettmelk, 1,2 % fett, langtidsholdbar;90;180;43;1,2;4,7;3,3
+01.268;Lettmelk, 1,2 % fett, økologisk;90;180;43;1,2;4,6;3,4
+01.229;Lettmelk, 1-1,2 % fett, uspesifisert;90;180;43;1,2;4,5;3,5
+01.227;Lettmelk, kakao, vitamin D, skolemelk;88;187;44;0,8;4,9;3,4
+01.292;Lettmelk, uspesifisert;91;173;41;1;4,5;3,5
+01.291;Melk, uspesifisert;90;188;45;1,4;4,5;3,5
+01.104;Milkshake, jordbærsmak;83;300;71;1,4;10,6;4
+01.079;Milkshake, sjokoladesmak;81;331;78;1,5;12;4,1
+01.197;Sjokolademelk, av pulver og lettmelk;84;296;70;1,6;10,3;3,4
+01.280;Sjokolademelk, laktosefri, uten tilsatt sukker, Litago Uten;88;201;48;1,3;4,7;3,3
+01.127;Sjokolademelk, laktoseredusert, Litago;86;251;59;1,2;8,4;3,6
+01.008;Sjokolademelk, Sjokomelk;86;252;60;1,2;8,8;3,3
+01.288;Sjokolademelk, Styrk Kakao;88;193;45;0,2;5,5;5,4
+01.003;Skummet melk;91;140;33;0,1;4,5;3,5
+01.289;Skummet melk, Styrk;89;172;40;0,1;4,6;5,3
+01.277;Syrnet melk, blåbær, laktosefri, Biola;86;224;53;0,1;9,9;3
+01.171;Syrnet melk, blåbær, mager, Biola;87;214;50;0,1;9,4;3
+01.237;Syrnet melk, blåbær/bringebær, BioQ;85;238;56;0,1;10,3;2,9
+01.214;Syrnet melk, bringebær, Biola;86;216;51;0,1;9,4;3,1
+01.213;Syrnet melk, jordbær, Biola;82;222;52;0,1;9,7;3,1
+01.083;Syrnet melk, Kulturmjølk;88;254;61;3,5;4;3,3
+01.170;Syrnet melk, naturell, Biola;90;182;43;1,2;4,8;3,3
+01.082;Syrnet melk, naturell, økologisk, Cultura;90;168;40;1,2;3,8;3,5
+01.278;Syrnet melk, rødbete/eple/lime, Biola;88;203;48;1,1;6,5;3
+01.085;Syrnet melk, Skumma Kulturmjølk;91;139;33;0,4;4,1;3,2
+01.084;Syrnet melk, økologisk, Kefir;88;248;59;3,5;3,7;3,3
+01.233;Skyr, med smak, kunstig søtet;83;248;58;0,2;4;10
+01.234;Skyr, naturell;82;314;74;1;4,3;12
+01.172;Yoghurt, Biola Mild;82;300;72;1,9;8,2;4,5
+01.174;Yoghurt, frukt, 0,1 % fett, lett, Yoplait;85;221;52;0,1;8,9;3,9
+01.281;Yoghurt, Gresk Sitron;81;337;80;1,8;8,2;7,7
+01.096;Yoghurt, jordbær;81;370;88;3;11,5;3,7
+01.222;Yoghurt, med müsli og skogsbær,  Go` Morgen;67;529;126;3,4;19;4,2
+01.011;Yoghurt, naturell;86;292;70;3,4;5,6;4,1
+01.275;Yoghurt, naturell, laktosefri;86;286;68;3,4;5,3;4,1
+01.290;Yoghurt, naturell, økologisk;86;272;65;3,4;4,6;4
+01.279;Yoghurt, vanilje, laktosefri;82;337;80;2,9;10;3,5
+01.089;Crème Fraîche, 35 % fett;59;1382;335;35;2,9;2,2
+01.176;Fløteerstatning, pulver, Coffeemate;3;2286;548;34,5;57,3;2,1
+01.178;Fløteerstatning, husholdningshvitt;88;368;89;8,2;2,9;0,9
+01.177;Fløteerstatning, kaffehvitt;85;442;107;10,2;2,9;0,9
+01.179;Fløteerstatning, topping på boks;66;1075;260;25;7,3;1,5
+01.189;Fløteerstatning, whipping;85;428;103;8,3;6,4;0,7
+01.108;Kaffefløte, 10 % fett;82;494;119;10;4,3;3
+01.225;Krem, pisket, på boks;56;1342;325;33;5,1;2
+01.015;Kremfløte, 38 % fett;56;1491;362;38;2,9;2,1
+01.273;Kremfløte, 38 % fett, laktosefri;56;1493;362;38;3;2,1
+01.284;Kremfløte, 38 % fett, økologisk;56;1489;361;38;2,9;2
+01.036;Kvarg, 1 % fett, Kesam;84;280;66;1;4,3;10
+01.276;Kvarg, 1 % fett, laktosefri, Kesam;84;279;66;1;4,3;10
+01.226;Kvarg, 7 % fett, Kesam;79;449;108;7,1;4;7
+01.088;Lettrømme, 10 % fett;82;492;119;10;4,1;3,1
+01.087;Lettrømme, 18 % fett;75;776;188;18;3,7;2,8
+01.286;Lettrømme, 18 % fett, økologisk;75;763;185;18;3,1;2,6
+01.175;Matfløte, 20 % fett;73;852;206;20;3,9;2,7
+01.180;Rømmedressing, med urter;80;564;136;11,8;4,7;2,8
+01.086;Seterrømme, 35 % fett;59;1382;335;35;2,9;2,2
+01.136;Brie, hvitmuggost;47;1490;360;32;0;18
+01.027;Cheddar, gulost;37;1725;416;34,9;0,1;25,4
+01.062;Crème Chérie, mykost;50;1385;335;31;0;14
+01.248;Geitost, hvit, Balsfjord;40;1649;398;34;0;23
+01.261;Gorgonzola, blåmuggost;42;1486;359;31,2;0,1;19,4
+01.262;Gruyere, ost;33;1709;412;32,3;0,4;29,8
+01.038;Gräddost;39;1729;418;38;0;19
+01.263;Mascarpone, kremost;46;1798;436;44,5;4,3;4,6
+01.042;Norzola, blåmuggost;46;1584;383;35;0;17
+01.048;Ridderost;40;1746;422;38;0;20
+01.264;Roquefort, blåmuggost;42;1470;355;31;0;19
+01.144;Royal Blue, blåmuggost;38;1866;452;44;0;14
+01.252;Selbu blå, blåmuggost;41;1735;420;40;0;15
+01.287;Selbu blå, blåmuggost, økologisk;41;1698;411;39;0;15
+01.265;Stilton, blåmuggost;38;1700;410;35;0,1;23,7
+01.282;Østavind, gulost;38;1641;395;32;0;27
+01.186;Brunost, uspesifisert;21;1824;437;26,2;39,7;10,6
+01.025;Camembert, hvitmuggost;50;1359;328;28;0;19
+01.251;Chevre, geitost, naturell;49;1308;316;28;1;15
+01.030;Edamer, gulost;41;1475;355;27;0;28
+01.188;Feta, ost med geitmelk;56;1038;250;20,2;1,5;15,6
+01.053;Fløtemysost, brunost;21;1761;422;26;36;11
+01.052;Geitost, brunost;19;1832;439;27;36;13
+01.249;Geitost, hvit, Snøfrisk;40;1518;366;30;0;24
+01.257;Geitost, smørbar, dill, Snøfrisk;66;984;238;23;2;5,8
+01.260;Geitost, smørbar, kantarell, Snøfrisk;66;987;239;23;2;6
+01.117;Geitost, smørbar, naturell, Snøfrisk;65;1071;259;25;2;6,6
+01.258;Geitost, smørbar, rødløk og timian, Snøfrisk;66;987;239;23;2;6
+01.055;Gudbrandsdalsost, brunost;21;1818;436;28;35;11
+01.185;Gulost, uspesifisert;42;1447;348;26,7;0;27
+01.270;Halloumi, ost;48;1204;290;21,9;0,9;22,3
+01.035;Jarlsberg, gulost;41;1458;351;27;0;27
+01.253;Kremost, krydder;61;1143;277;27;2,6;5,9
+01.150;Kremost, naturell;61;1142;277;27;2,7;5,7
+01.254;Kremost, pepper;61;1142;277;27;2,7;5,7
+01.269;Kremost, Philadelphia;63;1160;281;27,3;2,7;6,1
+01.212;Kremost, urter;61;1145;277;27;2,7;5,9
+01.066;Mozzarella;45;1320;317;23;0,6;27
+01.037;Normanna, blåmuggost;46;1393;336;28;0;21
+01.247;Norvegia, gulost, fyldig;41;1535;370;30;0;25
+01.039;Norvegia, gulost;42;1458;351;27;0;27
+01.245;Norvegia, gulost, vellagret;40;1495;360;28;0;27
+01.246;Norvegia, gulost, økologisk;41;1458;351;27;0;27
+01.043;Nøkkelost;41;1458;351;27;0;27
+01.200;Parmesan, ost;28;1730;416;29,7;0,9;36,2
+01.219;Pizzaost, revet;40;1475;355;27;0;28
+01.046;Port Salut, kittmodnet ost;46;1333;321;25;0;24
+01.267;Raclette, ost;41;1481;357;27,9;0;26,4
+01.050;Sveitserost, gulost;39;1512;364;28;0;28
+01.161;Taffelost, tomat;47;1301;313;24;0,3;24
+01.190;Ystet vegetabilsk fett, ostesubstitutt;41;1516;366;30;0,9;23
+01.063;Baconost, smørbar;64;887;214;17;0,2;15
+01.028;Cottage Cheese;80;406;97;4,3;1,5;13
+01.054;Fløtemysost, brunost, lettere;23;1544;368;16;44;12
+01.032;Gamalost;46;940;221;0,6;0;54
+01.058;Gomme, Namdal;40;1209;288;12;35;10
+01.072;Gudbrandsdalsost, brunost, lettere;24;1527;364;16;43;12
+01.071;Jarlsberg, gulost, lettere;47;1119;268;16;0;31
+01.271;Kremost, mager, Philadelphia;72;782;189;16;3,4;7,8
+01.204;Magerost, smørbar, 10 % fett;68;676;162;10;0;18
+01.202;Magerost, smørbar, 3 % fett;75;421;100;3;0;17
+01.064;Magerost, smørbar, 7 % fett;71;546;130;6,5;0;18
+01.138;Mozzarella, lettere;49;1119;268;16;1;30
+01.040;Norvegia, gulost, lettere;48;1119;268;16;0;31
+01.142;Nøkkelost, lettere;48;1136;272;16;0;32
+01.059;Prim;35;1192;283;8;46;6,7
+01.060;Prim, mager;37;1083;256;4;48;7
+01.220;Prim, med jern, Sprett;35;1197;284;8;46;7
+01.250;Pultost, Hedmark;55;717;169;1;0;40
+01.047;Pultost, Løiten;65;547;129;1;0;30
+01.266;Ricotta, ferskost;72;676;163;13;0,3;11,3
+02.001;Egg, rå;76;620;149;10,6;0,3;13
+02.030;Egg, økologisk, rå;77;606;146;10,5;0,3;12,5
+02.010;Eggedosis;59;869;207;8,2;23,3;10
+02.002;Eggehvite;88;180;42;0;0,4;10,2
+02.003;Eggeplomme;56;1330;321;28,5;0,2;16
+02.026;Egg, kokt;76;593;143;10,2;0,3;12,4
+02.025;Egg, stekt i fett;70;874;211;16,9;0,4;14,2
+02.037;Egg, økologisk, kokt;77;596;143;10,4;0;12,4
+02.038;Egg, økologisk, stekt;70;849;205;16,7;0;13,6
+02.008;Eggerøre, stekt i fett;67;970;234;20,7;0,6;11,4
+02.009;Eggerøre, stekt uten fett;75;662;159;12;0,7;12,1
+02.006;Omelett, stekt i fett;73;765;184;14,7;0,7;12,3
+02.007;Omelett, stekt uten fett;75;674;162;12,1;0,6;12,7
+03.001;And, kjøtt med skinn, rå;50;1603;388;37,3;0;13,1
+03.231;And, kjøtt uten skinn, rå;74;551;132;6,5;0;18,3
+03.002;Gås, kjøtt med skinn, rå;50;1514;366;33,6;0;15,9
+03.305;Gås, kjøtt uten skinn, rå;68;651;155;7,1;0;22,8
+03.224;Høne, bryst, filet, uten skinn, rå;73;451;106;0,7;0;25
+03.003;Høne, kjøtt med skinn, rå;59;1095;264;21;0;18,7
+03.237;Høne, kjøtt uten skinn, rå;71;590;141;6,3;0;21
+03.204;Kalkun, bryst, filet, uten skinn, rå;72;483;114;1,4;0;25,3
+03.004;Kalkun, kjøtt med skinn, rå;73;560;133;5,2;0;21,6
+03.239;Kalkun, kjøtt uten skinn, rå;75;443;105;1,6;0;22,6
+03.205;Kylling, filet, uten skinn, rå;75;467;111;2,1;0;23
+03.373;Kylling, hel, med skinn, landkylling, rå;68;747;179;11;0;20
+03.006;Kylling, hel, med skinn, rå;69;690;165;10,2;0;18,2
+03.292;Kylling, hel, uten skinn, rå;76;452;107;3;0;20
+03.225;Kylling, lår (overlår og lårklubbe), med skinn, rå;70;712;171;11,5;0;16,9
+03.332;Kylling, lår (overlår og lårklubbe), uten skinn, rå;75;550;131;6,6;0;18
+03.331;Kylling, lårklubbe (underlår), med skinn, rå;73;624;149;9;0;17,2
+03.334;Kylling, lårklubbe (underlår), uten skinn, rå;77;481;114;4,7;0;18
+03.330;Kylling, overlår (lår uten lårklubbe), med skinn, rå;68;808;194;14,2;0;16,7
+03.333;Kylling, overlår (lår uten lårklubbe), uten skinn,  rå;73;615;147;8,3;0;18
+03.390;Kyllingskinn, rå;46;1582;383;37,4;0;11,7
+03.008;Rype, bryst, uten skinn, rå;72;512;122;4,5;0;20,3
+03.233;And, kjøtt med skinn, ovnsstekt;33;2136;517;49,7;0;17,5
+03.232;And, kjøtt uten skinn, ovnsstekt;65;737;176;8,7;0;24,4
+03.234;Gås, kjøtt med skinn, ovnsstekt;33;2018;488;44,8;0;21,2
+03.245;Gås, kjøtt uten skinn, ovnsstekt;57;868;207;9,5;0;30,4
+03.236;Høne, filet, kokt;61;652;154;1;0;36,2
+03.206;Høne, kjøtt med skinn, kokt;42;1585;382;30,4;0;27,1
+03.241;Kalkun, brystfilet, uten skinn, ovnsstekt;65;604;143;1,8;0;31,6
+03.005;Kalkun, kjøtt med skinn, ovnsstekt;64;745;177;6,9;0;28,8
+03.240;Kalkun, kjøtt uten skinn, ovnsstekt;69;555;131;2;0;28,3
+03.418;Kylling, filet, kokt;63;678;160;3;0;33,3
+03.242;Kylling, filet, stekt i fett;66;657;156;4,7;0;28,4
+03.391;Kylling, hel, med skinn, landkylling, ovnsstekt;60;934;224;13,8;0;25
+03.007;Kylling, hel, med skinn, ovnsstekt;62;861;206;12,7;0;22,9
+03.246;Kylling, hel, uten skinn, ovnsstekt;70;556;132;3,6;0;25
+03.244;Kylling, lår (overlår og lårklubbe), med skinn, ovnsstekt;61;978;235;16,8;0;20,9
+03.392;Kylling, lår (overlår og lårklubbe), uten skinn, ovnsstekt;66;767;184;10,5;0;22,2
+03.395;Kylling, lårklubbe (underlår), med skinn, ovnsstekt;64;862;207;13,5;0;21,2
+03.396;Kylling, lårklubbe (underlår), uten skinn, ovnsstekt;69;673;161;8;0;22,2
+03.393;Kylling, overlår (lår uten lårklubbe), med skinn, ovnsstekt;58;1094;263;20,1;0;20,7
+03.394;Kylling, overlår (lår uten lårklubbe), uten skinn, ovnsstekt;65;838;201;12,4;0;22,2
+03.249;Rype, bryst uten skinn, ovnsstekt;65;732;174;6,1;0;29,8
+03.029;Fenalår;45;1098;263;16,8;0;28
+03.215;Lam, bogstek, rå;68;781;187;12,6;0;18,5
+03.343;Lam, fett fra lammekjøtt, rå;21;2888;702;76;0;4,5
+03.211;Lam, flatbiff, rå;75;440;104;2,1;0;21,3
+03.218;Lam, fårikålkjøtt, rå;64;954;230;17,7;0;17,6
+03.217;Lam, grytekjøtt, rå;68;801;192;13,2;0;18,4
+03.213;Lam, indrefilet, rå;75;487;116;3,8;0;20,4
+03.266;Lam, kotelett og sadel, kjøtt med fettrand, rå;61;1066;257;20,4;0;18,3
+03.342;Lam, kotelett og sadel, kjøtt uten fettrand, rå;71;609;145;6,5;0;21,7
+03.015;Lam, lår med mørbrad, rå;69;754;181;11,6;0;19,1
+03.014;Lam, lår, stek, rå;70;676;162;9,3;0;19,5
+03.017;Lam, ribbe, side med ben, rå;59;1181;285;24,2;0;16,8
+03.013;Lam, sadel, rå;64;944;227;17,1;0;18,3
+03.212;Lam, ytrefilet, rå;74;506;120;3,9;0;21,3
+03.214;Lammerull;50;1040;251;20,3;0,2;16,8
+03.032;Pinnekjøtt, råvare;31;1876;452;37;0;29,8
+03.031;Sau, fårekjøtt, lettsaltet, rå;45;1533;371;35;0;14
+03.267;Lam, kotelett, stekt;52;1258;303;22,8;0;24,4
+03.265;Lam, lårstek med mørbrad, ovnsstekt;57;966;231;13,3;0;27,9
+03.039;Kalv, koteletter, rå;74;493;117;3;0;22,5
+03.037;Kalv, stek, rå;75;452;107;2,4;0;21,4
+03.051;Storfe, bankekjøtt, rå;73;524;124;4,1;0;21,9
+03.052;Storfe, bibringe, rå;66;869;209;14,8;0;18,9
+03.053;Storfe, bog, uten knoke, rå;70;669;160;8,8;0;20,2
+03.221;Storfe, bogstek, rå;74;507;120;3,7;0;21,8
+03.344;Storfe, entrecôte, synlig fett skåret vekk, rå;72;592;141;5,7;0;22,4
+03.054;Storfe, entrecôtekam, rå;67;834;200;13,1;0;20,5
+03.345;Storfe, fett fra storfekjøtt, rå;17;3011;732;80;0;3
+03.068;Storfe, filetkam, rå;72;692;165;9;0;21,1
+03.056;Storfe, flatbiff, rå;75;445;105;1,7;0;22,5
+03.057;Storfe, høyrygg, rå;70;679;162;9,2;0;19,9
+03.058;Storfe, indrefilet, rå;74;497;118;3,7;0;21,2
+03.222;Storfe, kam, rå;70;677;162;8,6;0;21,1
+03.060;Storfe, kotelettkam, rå;69;710;170;9,9;0;20,2
+03.064;Storfe, mørbrad, rå;74;462;109;2,3;0;22,2
+03.219;Storfe, rundstek, rå;74;451;107;2;0;22,2
+03.066;Storfe, ytrefilet, rå;75;462;109;2,3;0;22,2
+03.151;Bankekjøtt, salt;70;429;102;4,3;0;15,9
+03.268;Storfe, entrecôtekam, stekt;56;1112;267;17,5;0;27,3
+03.280;Storfe, kjøtt, kokt;57;957;229;12,6;0;28,9
+03.281;Storfe, stek, roastbiff, rosa stekt;68;634;151;4,6;0;27,3
+03.271;Storfe, ytrefilet, stekt;71;524;124;2;0;26,5
+03.349;Svin, 70 % skinke, 30 % flatbiff, strimlet, rå;73;515;122;3,8;0;22
+03.099;Svin, bacon med svor, rå;51;1402;339;31,5;0;13,9
+03.095;Svin, bogstek, kjøtt uten fettrand, rå;72;605;144;6,7;0;21
+03.347;Svin, bogstek, med fettrand, rå;64;915;220;16,1;0;18,7
+03.291;Svin, familieribbe, rå;54;1357;328;29,5;0;15,6
+03.350;Svin, fettrand, rå;15;3049;741;80,5;0;4,2
+03.208;Svin, flatbiff, rå;74;437;103;1,7;0;22
+03.201;Svin, grillben, rå;63;1025;247;19,9;0;17
+03.209;Svin, indrefilet, rå;74;489;116;3,1;0;22
+03.207;Svin, kjøtt fra knoke, rå;72;631;151;8,1;0;19,5
+03.096;Svin, kotelett, kam, svinekotelett, uten fettrand, rå;69;703;168;8,9;0;22
+03.082;Svin, kotelett, kam, svinekoteletter, inntil 5 mm fettrand, rå;62;1012;243;18,3;0;19,8
+03.089;Svin, midtribbe, med kam og svor, rå;54;1357;328;29,5;0;15,6
+03.086;Svin, mørbrad, rå;65;895;215;15,7;0;18,5
+03.083;Svin, nakkekoteletter, rå;64;935;225;17;0;18
+03.100;Svin, sideflesk, lettsaltet, rå;57;1245;301;27,4;0;13,6
+03.090;Svin, sideflesk, uten ben, rå;50;1585;384;36,6;0;13,6
+03.091;Svin, skinke, med knoke, rå;66;911;219;16,4;0;17,9
+03.346;Svin, skinkestek med fettrand, uten svor, rå;64;919;221;16;0;19,2
+03.098;Svin, skinkestek, rå;73;548;130;4,7;0;22
+03.087;Svin, tynnribbe, med svor, rå;50;1533;371;35,1;0;13,8
+03.210;Svin, ytrefilet, rå;74;467;110;1,6;0;24
+03.275;Svin, bacon med svor, stekt;41;1867;452;43,1;0;16
+03.283;Svin, familieribbe, stekt;34;1937;468;42,1;0;22,3
+03.272;Svin, flatbiff, stekt;65;583;138;2,3;0;29,3
+03.273;Svin, koteletter, kam med fettrand, stekt;46;1447;348;26,1;0;28,3
+03.297;Svin, koteletter, kam uten fettrand, stekt;56;1004;240;12,7;0;31,4
+03.274;Svin, nakkekoteletter, stekt;49;1336;321;24,3;0;25,7
+03.285;Svin, sideflesk, lettsaltet, stekt;41;1863;451;42,9;0;16,2
+03.296;Svin, stek uten fettrand, ovnsstekt;61;782;186;6,7;0;31,4
+03.282;Svin, stek, med fettrand, ovnsstekt;51;1301;313;23,4;0;25,6
+03.117;Blod, okse, rå;81;327;77;0,2;0;18,8
+03.112;Elg, ytterlår, stek, rå;74;424;100;1,3;0;22,1
+03.132;Hamburger, rå;70;697;167;11,2;0;16,6
+03.113;Hare, kjøtt, rå;73;544;129;5;0;21,1
+03.118;Hjerte, rå;77;450;107;3,9;0;18
+03.114;Hjort, stek, rå;76;417;98;1,3;0;21,7
+03.033;Hval, kjøtt, rå;73;506;120;2,1;0;25,2
+03.044;Kanin, kjøtt, rå;73;522;124;4;0;22
+03.126;Karbonadedeig, rå;75;437;103;2,2;0;20,9
+03.139;Karbonadedeig, stekt uten fett;61;809;193;7,8;0;30,6
+03.366;Kjøttdeig, kylling, rå;73;605;145;8,1;0;18
+03.138;Kjøttdeig, storfe, stekt uten fett;51;1197;288;20;0;26,9
+03.127;Kjøttdeig, storfe, med salt og vann, rå;68;770;185;12,4;0;18,3
+03.397;Kjøttdeig, storfe, uten salt og vann, rå;67;819;196;13,2;0;19,4
+03.348;Kjøttdeig, svin, rå;72;605;144;6,7;0;21
+03.141;Kjøttdeig, svin, stekt uten fett;60;848;202;9,7;0;28,8
+03.129;Kjøttfarse, rå;71;687;165;11,2;5;11
+03.259;Lever, kylling, rå;75;476;113;4,1;0;19,1
+03.120;Lever, lam, rå;72;538;128;4,1;2;20,7
+03.121;Lever, rein, rå;72;539;128;4,1;3,3;19,5
+03.122;Lever, storfe, rå;72;524;124;3,2;3,5;20,3
+03.123;Lever, svin, rå;73;504;120;3,4;0,8;21,4
+03.128;Medisterdeig, rå;66;857;206;15,5;0;16,7
+03.115;Reinsdyr, bog, stek, rå;74;495;118;3,6;0;21,3
+03.362;Rådyr, kjøtt, rå;77;401;95;1,2;0;21
+03.365;Villsvin, kjøtt, rå;74;446;105;1,5;0;23
+03.252;Wienersnitzel, rå;57;1018;244;15,8;5,8;19,7
+03.170;Blodpudding;27;1542;369;20,4;30,5;14,2
+03.188;Bogskinke, hermetisk;71;564;135;7,2;0;16,8
+03.358;Elg, stek, ovnsstekt;64;606;143;1,8;0;31,6
+03.177;Kjøttboller, hermetisk;73;575;138;8,2;5,8;10,1
+03.133;Kjøttkaker, stekt;65;829;199;13,5;6;13,3
+03.171;Lungemos, kjøpt;76;500;120;7,1;0,5;13,4
+03.260;Reinsdyr, kjøtt, røkt;70;480;114;3,1;0;21,5
+03.352;Reinsdyr, kjøtt, tørket, rå;33;1331;318;17,6;0;40
+03.181;Reinsdyrkaker, hermetisk;69;629;151;8,4;5,1;13,6
+03.351;Reinsdyrskav, fryst, rå;72;606;145;7,5;0;19,3
+03.363;Chorizo, pølse;37;1494;360;29,1;3,4;20,7
+03.152;Falukorv;60;1067;257;21,2;5,3;11,3
+03.153;Fleskepølse;46;1514;366;34,6;0,5;13,2
+03.154;Fårepølse;43;1407;339;27,1;0,5;23,3
+03.144;Grillpølse;59;1082;261;21,4;5,5;11,5
+03.318;Grillpølse, kalkun og kylling;66;804;193;13,4;4,9;12,7
+03.199;Grillpølse, med mindre fett;71;669;161;10,7;5,9;10,1
+03.146;Kjøttpølse, med mindre fett;66;793;191;13,5;6,4;10,8
+03.145;Kjøttpølse, røkt/urøkt;61;868;209;15,8;5,1;11,5
+03.147;Knakkpølse;58;1060;256;21,1;5,5;10,9
+03.356;Kylling- og kalkunpølse, med mindre fett;70;700;168;10,6;5;13,1
+03.361;Kylling- og kalkunpølse, med ost;64;836;201;14,1;4,6;13,4
+03.148;Medisterpølse, røkt/urøkt, kokt;55;1100;265;22,5;5,1;10,6
+03.357;Ostegrill, ostewiener;59;1018;245;19,3;5,1;12,4
+03.162;Reinsdyrpølse;27;1764;426;38,5;0;20
+03.364;Salsiccia, italiensk pølse;51;1128;271;18,3;4,7;21,8
+03.149;Sosisser, små pølser;57;1069;258;21,3;5,4;11,1
+03.150;Wienerpølse;59;1062;256;21,2;5,4;10,9
+03.198;Wienerpølse, med mindre fett;71;667;160;10,7;5,8;10,1
+03.103;Bayonneskinke, kokt;60;949;228;15,9;0;21,2
+03.323;Kalkunfilet, naturell/røkt;73;374;88;0,5;0;20,9
+03.322;Kalkunrull, krydderskinke;73;420;100;3,5;0;17,1
+03.155;Kalverull;72;600;144;8,2;2;15,4
+03.136;Karbonader, okse, rå;66;858;206;15,4;4,4;12,5
+03.137;Karbonader, okse, stekt;63;928;223;16,7;4,7;13,5
+03.134;Kjøttpudding, stekt;66;808;194;13,6;6,2;11,7
+03.106;Kokt skinke;74;399;95;2,8;0,7;16,7
+03.421;Kokt skinke, First Price;73;436;104;4;0,9;16
+03.419;Kokt skinke, Gilde;72;422;100;2,7;0,9;18
+03.420;Kokt skinke, Nordfjord;76;340;80;1,7;0,3;16
+03.438;Kyllingpostei;72;561;134;7,8;5,8;10,1
+03.437;Kyllingpostei, hermetisk, Stabburet;73;543;130;7,9;5,3;9,4
+03.436;Kyllingpostei, ovnsbakt, Prior;72;580;139;7,8;6,3;10,8
+03.289;Leverpostei, hermetisk;61;1067;257;22;4,9;10
+03.435;Leverpostei, hermetisk, First Price;58;1153;278;24;5,5;10,1
+03.434;Leverpostei, hermetisk, Stabburet;63;981;237;20;4,3;9,9
+03.157;Leverpostei, ovnsbakt;63;959;231;19;5,5;9,3
+03.432;Leverpostei, ovnsbakt, Gilde;64;901;217;17;6,2;9,8
+03.433;Leverpostei, ovnsbakt, Mills;61;1017;246;21;4,8;8,8
+03.135;Medisterkaker, stekt;51;1330;321;27,3;6,2;12,6
+03.159;Morrpølse;31;1729;417;34,5;0,1;26,5
+03.161;Okserull;55;694;166;8,7;0,5;21,4
+03.353;Ribberull, skiver;64;805;193;13,5;0;18
+03.354;Roastbiff, skiver;71;544;129;2,7;0;26,1
+03.163;Salami;33;1776;429;39,5;0,9;17,6
+03.429;Salami, dansk, First Price;27;2092;507;50;0,1;14,2
+03.427;Salami, dansk, Tulip;28;2056;498;48;3,3;13,1
+03.426;Salami, Gilde spesialsalami;43;1241;298;22;0,1;25
+03.425;Salami, Grilstad jubelsalami;35;1713;414;38;0,1;18
+03.428;Salami, mager, Gilde;58;701;167;6,5;0,1;27
+03.164;Servelat;63;824;198;14,5;7,1;9,9
+03.423;Servelat, Folkets;61;821;197;14;8,2;9,6
+03.202;Servelat, mager, Gilde;70;603;145;9;4,5;11,4
+03.422;Servelat, Nordfjord;66;754;181;13,2;5,2;10,4
+03.424;Servelat, X-tra;61;898;216;16,2;7,8;9,7
+03.109;Skinkerull, Westfalerskinke;54;1192;286;20;0;26,6
+03.111;Spekeskinke;50;850;203;9,2;0;30
+03.431;Spekeskinke, Gilde;49;853;203;8,8;0;31
+03.430;Spekeskinke, Strandaskinke, Grilstad;51;848;202;9,6;0;29
+03.166;Stabburpølse;27;1967;475;42;3,6;20,7
+03.105;Svinekam, røkt;67;865;209;17,6;0,3;12,3
+03.167;Sylte;50;1265;304;23,2;0,3;23,6
+03.256;Biff stroganoff;60;1019;245;18,4;4,4;15,2
+03.309;Cheeseburger, med brød, dressing mv, kjøpt;46;1144;273;13,6;22,7;14,6
+03.251;Fårikål av lammekjøtt;78;473;113;6,7;3,5;9,1
+03.310;Hamburger, dobbel, med brød, dressing mv, kjøpt;54;1036;248;14,7;17,2;11,4
+03.311;Hamburger, ekstra kjøtt, med brød, dressing mv, kjøpt;55;983;235;13,2;13,4;15,4
+03.308;Hamburger, enkel, med brød, dressing mv, kjøpt;48;1069;255;10,8;26;12,9
+03.319;Kjøttboller, kalkun og kylling;63;808;194;12,7;4,9;15
+03.312;Kyllingburger, med brød, dressing mv, kjøpt;49;1048;250;11,4;24,8;10,8
+03.302;Kyllinggryte, med tomat, løk, sopp;82;331;79;2,9;3,1;9,6
+03.320;Kyllingnuggets, fritert, dagligvare;54;1124;269;16,7;13,1;16,7
+03.307;Kyllingnuggets, fritert, fastfood;52;1009;241;12,9;14,2;16,5
+03.257;Lammefrikassé;77;494;118;6,7;2,6;11,5
+03.288;Lapskaus, lys, storfekjøtt, 10 % fett;78;398;95;4,3;4,4;9,3
+03.315;Lasagne, med kjøttdeig, fryst, kjøpt;73;512;122;5,4;11,5;5,3
+03.254;Lasagne, med kjøttdeig;69;681;163;9,7;10;8,5
+03.250;Moussaka, med kjøttdeig;69;648;155;9,1;11;6,7
+03.321;Panetter, med kylling og ost;50;872;209;11,6;10,4;14,9
+03.313;Pasta med kalkun, ostesaus, fryst, kjøpt;75;423;101;3,3;12,6;4,4
+03.314;Pasta med kjøttsaus, bolognese, fryst, kjøpt;73;403;96;1,6;14,4;5,1
+03.317;Pytt i panne, stekte poteter med kjøtt og løk, fryst, kjøpt;68;590;141;5,2;16;6,3
+03.326;Sodd, med kjøttboller, hermetisk;89;189;45;2,1;3,6;2,5
+04.001;Blåkveite, rå/kaldrøkt;77;645;155;11;0;14
+04.003;Brisling, rå;51;862;208;17,6;0;12,4
+04.120;Havål, rå;75;498;119;5,2;0;18
+04.324;Kveite, hellefisk, oppdrett, rå;74;429;102;2,4;0;20
+04.014;Kveite, hellefisk, rå;71;515;123;6,1;0;17
+04.309;Kveite, hellefisk, skiver, røkt, rå;65;877;211;14,8;0;19,4
+04.325;Kveite, hellefisk, uspesifisert, rå;72;474;113;4,3;0;18,5
+04.220;Laks, oppdrett, rå;61;932;224;16;0;20
+04.015;Laks, vill, rå;66;760;182;11,5;0;19,7
+04.022;Makrell, mai-juni, rå;74;516;123;5,4;0;18,6
+04.023;Makrell, vill (høst), rå;55;1214;293;25;0;17
+04.111;Pigghå, håbrann, rå;76;541;129;6,4;0;17,9
+04.117;Røye, rå;73;536;128;7,1;0;16,1
+04.031;Sild, fetsild, sommersild, rå;56;1214;293;25;0;17
+04.032;Sild, storsild, vintersild, rå;66;776;187;14;0;15,2
+04.256;Ørret, oppdrett, rå;70;693;166;10;0;19
+04.047;Ørret, sjøørret, rå;74;462;110;3,3;0;20
+04.049;Ål, rå;46;1497;362;32,5;0;17,3
+04.223;Kveite, filet, melpanert, stekt i fett;58;826;198;11,4;3,6;20,1
+04.222;Kveite, skiver, kokt;65;613;146;7,3;0;20,2
+04.255;Laks, filet, gravet;61;748;179;9,2;2,8;21,2
+04.342;Laks, filet, ovnsstekt;58;1013;243;17,4;0;21,7
+04.343;Laks, filet, stekt i panne;54;1096;263;18,8;0;23,5
+04.225;Laks, oppdrett, skiver, kokt;54;1108;266;19;0;23,8
+04.226;Laks, oppdrett, skiver, stekt i fett;46;1304;314;22,7;3,6;23,6
+04.018;Laks, røkt;63;938;225;14,7;0;23,2
+04.224;Laks, vill, kokt;60;906;217;13,7;0;23,5
+04.227;Makrell, juli-sept (fet), kokt;46;1446;349;29,8;0;20,2
+04.228;Makrell, juli-sept (fet), stekt i fett;40;1629;393;33,1;3,6;20,1
+04.311;Makrell, kaldrøkt;58;1005;242;18,8;0;18,2
+04.229;Makrell, mai-juni, kokt;69;612;146;6,4;0;22,1
+04.230;Makrell, mai-juni, stekt i fett;61;829;198;10,6;3,6;22
+04.024;Makrell, varmrøkt;53;1223;295;24,1;0;19,5
+04.235;Røye, melpanert, stekt i fett;60;850;204;12,5;3,6;19,1
+04.234;Røye, stekt uten fett;68;632;151;8,4;0;18,9
+04.242;Sild, fetsild/sommersild, kokt;48;1446;349;29,8;0;20,2
+04.243;Sild, fetsild/sommersild, melpanert, stekt i fett;40;1668;402;34,1;3,6;20,2
+04.033;Sild, kryddersild;68;639;154;12;0;11,5
+04.123;Sild, røkt, bøkling;63;834;200;12,8;0;21,2
+04.244;Sild, storsild/vintersild, kokt;60;926;223;16,7;0;18,1
+04.245;Sild, storsild/vintersild, melpanert, stekt i fett;51;1164;280;21,4;3,6;18,2
+04.310;Spekesild, utvannet;65;872;210;16;0;16,5
+04.260;Ørret, filet, røkt;72;597;142;6,9;0;20,1
+04.257;Ørret, oppdrett, kokt;64;824;197;11,9;0;22,6
+04.267;Ørret, oppdrett, skiver, melpanert, stekt i fett;57;1028;247;15,8;3,6;22,4
+04.317;Ørret, sjøørret, kokt;70;549;130;3,9;0;23,8
+04.259;Ørret, sjøørret, melpanert, stekt i fett;63;764;182;8,1;3,6;23,6
+04.050;Ål, røkt;48;1453;351;30,5;0;19,1
+04.341;Alaska pollock, rå;84;305;72;0,7;0;16,4
+04.115;Blålange, rå;82;270;64;0,1;0;15,7
+04.211;Breiflabb, rå;83;272;64;0,1;0;15,8
+04.004;Brosme, rå;82;281;66;0,2;0;16,1
+04.006;Gjedde, rå;78;353;83;0,2;0;20,2
+04.008;Horngjel, rå;76;450;107;3,2;0;19,5
+04.009;Hvitting, rå;80;333;79;0,6;0;18,3
+04.011;Hyse, kolje, røkt, skiver, rå;78;345;81;0,6;0;19
+04.110;Hyse, kolje, rå;81;290;68;0,2;0;16,6
+04.116;Håbrann, rå;79;360;85;0,4;0;20,3
+04.019;Lange, rå;80;305;72;0,2;0;17,5
+04.113;Lomre, rå;81;283;67;0,3;0;16
+04.021;Lyr, rå;82;279;66;0,2;0;16
+04.344;Pangasius, rå;84;265;63;1,1;0;13,1
+04.112;Piggvar, rå;79;359;85;2,4;0;15,9
+04.005;Rødspette, rå;81;382;91;2,6;0;16,8
+04.029;Sei, rå;80;292;69;0,3;0;16,5
+04.030;Sik, rå;77;379;89;0,6;0;20,9
+04.118;Sjøtunge, rå;84;270;64;0,5;0;14,8
+04.119;Skate, rå;85;245;58;0,2;0;14
+04.037;Steinbit, rå;78;409;97;2,5;0;18,6
+04.039;Torsk, i skiver, rå;80;319;75;0,3;0;18,1
+04.042;Torsk, lettsaltet i skiver, rå;80;319;75;0,3;0;18,1
+04.326;Torsk, oppdrett, rå;79;358;84;0,5;0;20
+04.327;Torsk, uspesifisert, rå;81;344;81;1;0;18,1
+04.038;Torsk, vill, rå;81;343;81;1,1;0;17,9
+04.043;Tunfisk, makrellstørje, rå;74;445;105;1;0;24
+04.046;Uer, lettsaltet, rå;79;394;94;2,8;0;17,1
+04.045;Uer, rå;79;394;94;2,8;0;17,1
+04.048;Åbor, abbor, rå;78;359;85;0,6;0;19,8
+04.250;Breiflabb, filet, kokt;78;352;83;0,1;0;20,5
+04.218;Hyse, kolje, kokt;75;378;89;0,3;0;21,6
+04.221;Hyse, kolje, røkt, skiver, kokt;71;449;106;0,8;0;24,7
+04.253;Klippfisk, saltet og tørket;12;1149;271;1,2;0;65
+04.314;Lutefisk, kokt;83;302;71;1;0;15,6
+04.020;Lutefisk, tørr vare, rå;88;211;50;0,7;0;10,9
+04.068;Rødspette, filet, kavringpanert, rå;67;632;150;4,4;11,7;15,2
+04.233;Rødspette, filet, kavringpanert, stekt i fett;60;918;220;12,7;11,2;14,5
+04.231;Rødspette, filet, kokt;75;496;118;3,4;0;21,8
+04.232;Rødspette, filet, melpanert, stekt i fett;69;671;160;7,3;3,6;19,9
+04.200;Rødspette, fylt, forfritert, fryst;62;856;205;12,9;13,2;8,8
+04.278;Rødspette, panert, forfritert, fylt, ovnsstekt uten fett;60;902;216;13,6;13,9;9,3
+04.279;Rødspette, panert, forfritert, fylt, stekt i fett;56;1088;262;19,4;12,9;8,6
+04.069;Sei, filet, kavringpanert, rå;66;569;135;2,8;11,7;15
+04.241;Sei, filet, kavringpanert, stekt i fett;66;725;174;9,6;8,1;13,2
+04.320;Sei, filet, melpanert, stekt i fett;69;554;132;4,7;2,9;19,4
+04.238;Sei, filet, melpanert, stekt i hard margarin;70;543;129;4,4;2,9;19,4
+04.239;Sei, filet, melpanert, stekt i myk margarin;70;524;125;3,9;2,9;19,4
+04.237;Sei, filet, melpanert, stekt i smør;69;546;130;4,5;2,9;19,4
+04.240;Sei, filet, melpanert, stekt i soyaolje;69;576;137;5,3;2,9;19,4
+04.236;Sei, kokt;74;378;89;0,4;0;21,4
+04.349;Sei, panert, fryst, First Price;60;792;189;7,1;16,2;14,3
+04.351;Sei, panert, fryst, kjøpt;62;764;182;7,6;13,4;14,6
+04.350;Sei, pankopanert, fryst, Lerøy;65;735;175;8;10,6;14,8
+04.071;Seibiff, melpanert, med forstekt løk, fryst, kjøpt;76;436;103;1,4;6,7;15,6
+04.280;Seibiff, melpanert, med forstekt løk, kjøpt, stekt i fett;69;636;151;5,1;7,8;18,2
+04.247;Steinbit, filet, melpanert, stekt i fett;68;668;159;7,1;2,9;20,9
+04.246;Steinbit, kokt;71;530;126;3,2;0;24,2
+04.070;Torsk, filet, kavringpanert, rå;67;605;143;3,3;11,7;16
+04.251;Torsk, filet, kavringpanert, stekt i fett;61;844;202;10,1;11,4;15,6
+04.347;Torsk, filet, kokt;75;448;106;1,3;0;23,5
+04.249;Torsk, filet, melpanert, stekt i fett;70;614;146;5,6;2,9;21
+04.345;Torsk, filet, ovnsstekt;74;479;113;1,4;0;25,1
+04.346;Torsk, filet, stekt i panne;74;479;113;1,4;0;25,1
+04.203;Torsk, forfritert, fylt, fryst;70;598;143;6,8;9,6;10,6
+04.252;Torsk, lettsaltet, kokt;74;414;98;0,4;0;23,5
+04.348;Torsk, panert, Findus Steketorsk;67;571;135;0,5;17,6;14,3
+04.281;Torsk, panert, forfritert, fylt, ovnsstekt uten fett;68;632;151;7,2;10,1;11,2
+04.282;Torsk, panert, forfritert, fylt, stekt i fett;64;838;201;13,5;9,4;10,3
+04.306;Torsk, panert, forfritert, ovnsstekt uten fett;65;638;151;3,5;12,3;16,9
+04.284;Torsk, panert, forfritert, stekt i fett;61;844;202;10,1;11,4;15,6
+04.248;Torsk, skiver, kokt;76;399;94;0,4;0;22,6
+04.041;Tørrfisk;15;1386;327;1,4;0;78,5
+04.266;Uer, kokt;73;511;121;3,6;0;22,2
+04.261;Uer, lettsaltet, skiver, kokt;73;511;121;3,6;0;22,2
+04.075;Ansjos, hermetisk;53;903;216;13,1;12,1;12,5
+04.322;Brisling, i olje, avrent, hermetisk;59;1085;261;20,9;0;18,3
+04.321;Brisling, i tomat, hermetisk;67;845;203;14,7;2,7;15
+04.079;Fiskeboller, avrent, hermetisk;84;255;60;0,6;6,6;7,1
+04.210;Fiskeboller, kjølevare;81;289;68;0,9;5,5;9,5
+04.323;Fiskeburger, panert, med brød, ost, saus, kjøpt;50;1015;242;11,3;24,2;9,6
+04.270;Fiskefarse, mager fisk, rå;83;261;62;0,9;4,1;9,3
+04.356;Fiskekaker, Coop;72;516;123;5,3;6,7;11,9
+04.355;Fiskekaker, Fiskemannen;75;403;96;3,5;4,8;11,1
+04.354;Fiskekaker, Godehav;73;462;110;3,6;6,8;12,3
+04.061;Fiskekaker, kjøpt;74;461;110;4,2;5,9;11,8
+04.353;Fiskekaker, Lofoten;76;462;110;4,4;5,5;11,9
+04.359;Fiskekarbonader, Berggren;72;488;116;4,8;6,6;11,1
+04.358;Fiskekarbonader, Fiskemannen;76;377;89;2,5;4,2;12,3
+04.357;Fiskekarbonader, Godehav;72;484;115;3,8;8,6;11,2
+04.360;Fiskekarbonader, kjøpt;73;450;107;3,7;6,5;11,5
+04.272;Fiskekarbonader, laks;59;997;240;17,9;2,4;17,3
+04.062;Fiskekarbonader, mager fisk;71;624;150;9,4;5,9;10,3
+04.271;Fiskekarbonader, makrell;62;941;226;17,2;2,4;15,5
+04.268;Fiskekarbonader, sei;71;623;149;9,4;5,8;10,3
+04.273;Fiskekarbonader, sild;59;1050;253;20,8;2,4;14,1
+04.275;Fiskepaté, laks;60;960;231;16,9;4,2;15,5
+04.274;Fiskepaté, mager fisk;71;611;146;7,6;4,2;15,2
+04.063;Fiskepudding;81;303;72;1;7,5;8,1
+04.269;Fiskepudding, fløtepudding;78;429;102;4,6;7,2;8
+04.086;Gaffelbiter, sild, hermetisk;58;1000;240;16;8;16
+04.087;Kaviar, av lodderogn;74;457;109;5,5;0;14,9
+04.089;Kaviar, av torskerogn;32;1713;413;35,2;13,7;10,5
+04.307;Kaviarmix;26;2237;542;53,1;9,2;6,8
+04.289;Kryddersild, innlagt, avrent;51;938;224;10,6;24,5;7,6
+04.330;Laksepålegg, 70 % laks, i beger, Stabbur-Laks;51;887;213;16,3;0;16,7
+04.329;Makrellfilet, i tomat, 50 % makrell, i beger;65;737;177;11,9;6,7;9,7
+04.328;Makrellfilet, i tomat, 60 % makrell, hermetisk;60;1001;241;19,4;3,9;11,9
+04.097;Makrellfilet, i tomat, 70 % makrell, hermetisk;59;1049;253;20,5;3;13,4
+04.100;Rogn, torsk, presset, hermetisk;74;531;125;1,9;0;27,1
+04.101;Rognleverpostei, Svolvær-/Lofotpostei;46;1686;408;38,6;2,1;12,4
+04.286;Seilaks, i olje, avrent;69;663;159;11,4;0;14,2
+04.287;Sild, marinert, i majones/rømme;47;1283;309;22,6;20,8;5,5
+04.288;Sild, marinert, sennepssild;49;1044;250;13,6;25,5;6,1
+04.366;Surimi, LobNobs;45;388;91;0,5;11,3;10,4
+04.290;Sild, sursild, innlagt, avrent;54;793;190;11,7;11,1;9,9
+04.106;Tunfisk, i gele, hermetisk;81;296;70;0,4;0;16,5
+04.107;Tunfisk, i olje, avrent, hermetisk;58;1078;259;18,9;0;22,3
+04.285;Tunfisk, i olje, ikke avrent, hermetisk;62;878;211;13,5;0;22,2
+04.108;Tunfisk, i vann, avrent, hermetisk;74;447;105;1;0;24,1
+04.208;Akkar, innbakt, forfritert, fryst;57;887;212;10,1;18,6;11,2
+04.302;Akkar, tiarmet blekksprut, kokt;63;635;150;3,3;0;30,2
+04.363;Fiskegrateng, Coop X-tra Fiskegrateng;75;490;117;4,6;11,2;7,3
+04.362;Fiskegrateng, Enghav Fiskegrateng med makaroni;75;493;118;4,8;11;7,2
+04.361;Fiskegrateng, Findus Familiens fiskegrateng;71;566;135;4,7;14,5;8
+04.364;Fiskegrateng, First Price Fiskegrateng med makaroni;76;458;109;4,4;9,6;7,5
+04.365;Fiskegrateng, kjøpt;74;502;119;4,6;11,6;7,5
+04.292;Fiskegrateng, med egg og makaroni, ovnsstekt;70;668;160;9,3;7,6;11,3
+04.293;Fiskegrateng, med egg, ovnsstekt, kjøpt;75;483;115;3,9;10,3;9,6
+04.291;Fiskegrateng, med egg, ovnsstekt;71;650;156;9,2;4,4;13,8
+04.295;Fiskegryte, med sei, løk og paprikasaus;76;411;98;2,9;5;12,6
+04.296;Fiskegryte, med torsk og tomat;81;348;83;2,5;1,8;12,9
+04.352;Fiskepinner, Findus;63;756;180;7,9;15,5;11,1
+04.319;Fiskepinner, forfritert, stekt i fett;52;1009;241;11,4;19,6;14,6
+04.276;Fiskepinner, forfritert, stekt i hard margarin;62;810;194;9,6;15,2;10,8
+04.305;Fiskepinner, forfritert, stekt i matolje;61;828;198;10,1;15,2;10,8
+04.303;Fiskepinner, forfritert, stekt i myk margarin;62;815;195;9,8;15,2;10,8
+04.304;Fiskepinner, forfritert, stekt i smør;52;1007;240;11,3;19,6;14,7
+04.205;Fiskesuppe, med laks, fryst;83;273;65;4,3;2,1;4,6
+04.298;Fiskesuppe, med mager fisk;89;188;45;1,8;1;5,9
+04.204;Fiskesuppe, med mager fisk, fryst;74;517;124;6,3;8,6;7,9
+04.299;Fiskesuppe, med mager fisk, jevnet;88;200;48;1,7;2,2;5,6
+04.297;Kabaret, med fiskepudding og reker;86;199;47;1;1,9;7,4
+04.207;Reker, innbakt, forfritert, fryst;51;945;225;10;18,6;14,8
+04.277;Reker, innbakt, forfritert, stekt i soyaolje;44;1215;291;17,7;18,1;14,4
+04.318;Rogn, torsk, hermetisk, stekt i fett;63;959;230;13,8;0;26,4
+04.332;Sashimi, kveite;72;474;113;4,3;0;18,5
+04.331;Sashimi, laks;61;932;224;16;0;20
+04.333;Sashimi, tunfisk;74;445;105;1;0;24
+04.301;Sildesalat, med potet;80;322;77;2,6;9,4;3,2
+04.338;Sushi, maki, kveite;72;489;116;2,4;18,1;5,1
+04.337;Sushi, maki, laks;70;563;134;4,3;18,1;5,3
+04.339;Sushi, maki, tunfisk;72;485;115;1,9;18,1;5,9
+04.335;Sushi, nigiri, kveite;71;482;114;1,4;17,8;7,3
+04.334;Sushi, nigiri, laks;68;620;147;5;17,8;7,8
+04.336;Sushi, nigiri, tunfisk;72;474;112;0,5;17,8;9
+04.313;Akkar, innbakt, forfritert, stekt i soyaolje;50;1159;278;17,8;18,1;10,9
+04.262;Akkar, tiarmet blekksprut, rå;81;325;77;1,7;0;15,4
+04.076;Blåskjell, avrent, hermetisk;73;435;103;3,3;0;18,5
+04.053;Blåskjell, rå;85;229;54;1,4;0;10,4
+04.054;Hummer, kokt;78;280;66;0,6;0;15,2
+04.264;Kamskjell, kokt;73;432;102;1,4;0;22,4
+04.114;Kamskjell, rå;78;345;81;1,1;0;17,9
+04.340;Kongereke, rå;82;325;77;0,7;0;17,6
+04.055;Krabbe, kokt;72;456;108;1,8;0;22,9
+04.091;Krabbe, naturell, hermetisk;72;456;108;1,8;0;22,9
+04.265;Krabbepinner, crabsticks, fryst;68;438;103;0,7;11,2;12,9
+04.121;Kreps, kokt;85;230;54;1,3;0;10,7
+04.051;Lever, torsk, rå;37;2276;553;59;0;5,5
+04.098;Reker, i lake, avrent;82;246;58;0,6;0;13,2
+04.057;Reker, kokt;68;426;100;0,8;0;23,3
+04.312;Rogn, torsk, kokt;71;530;126;3,2;0;24,2
+04.052;Rogn, torsk, rå;72;490;116;2,6;0;23,2
+04.258;Snegler, hermetisk;79;325;77;1,4;0;16,1
+04.367;Strandsnegle, norsk;77;367;87;1,4;3,3;15,2
+04.058;Østers, rå;80;247;59;2,4;0;9,3
+05.388;Amaranth, tørr;11;1546;367;7;59;13,6
+05.132;Bokhvetemel, lyst;13;1493;353;3,6;65,1;13,5
+05.002;Byggmel;15;1279;302;1,1;60,6;8,6
+05.120;Finbakstmel;14;1462;345;2;70,5;10
+05.121;Grovbakstmel, 40 % sammalt;14;1365;323;2;60,8;11,6
+05.122;Havrekli;10;1519;361;7,5;54,6;12,3
+05.004;Havremel;10;1573;373;7;61,7;11,7
+05.007;Hvetekim;15;1384;330;9,3;25,1;27,4
+05.008;Hvetekli;12;1228;294;5;30,4;16,6
+05.006;Hvetemel, sammalt, fint/grovt;13;1345;319;2,4;54,4;13
+05.010;Hvetemel, siktet;13;1494;352;1,5;71,6;11,4
+05.351;Kakemiks, fin, glutenfri, pulver, Toro;11;1478;348;0,7;83,8;0,9
+05.383;Kikertmel;9;1581;375;5,4;53,8;22,7
+05.013;Maismel, polenta;12;1293;305;1,2;63,3;7,8
+05.015;Maisstivelse;12;1510;355;0;88,8;0
+05.420;Mandelmel;4;2492;603;53,1;4;22,4
+05.424;Mel, glutenfritt, grovt, Semper;11;1394;329;0;76;2,3
+05.251;Mel, glutenfritt, grovt, Toro;11;1455;344;2,8;72,4;3,7
+05.425;Mel, glutenfritt, Jyttemel Original;11;1442;340;1,4;71,7;6,9
+05.250;Mel, glutenfritt, lyst, Toro;11;1529;360;1,1;84,5;0,9
+05.426;Mel, glutenfritt, Schär;11;1393;328;0;77,4;2,5
+05.020;Potetmel, potetstivelse;15;1431;337;0;84,2;0
+05.223;Rismel, risstivelse;11;1527;360;1,3;79,3;7,3
+05.026;Rugmel, sammalt;14;1363;323;2,4;57,5;9,6
+05.027;Rugmel, siktet;12;1447;342;1,8;70,2;7
+06.087;Soyamel;6;1874;449;22,4;18,7;34,3
+06.196;Soyamel, mindre fett;5;1552;370;8,9;14,6;49,8
+05.231;Bokhvete, hele korn;14;1419;335;2;65,3;11,1
+05.233;Bulgurgryn, tørr;9;1383;327;2,3;61,9;10,8
+05.001;Byggryn;13;1384;327;1,1;65,4;8,6
+05.225;Couscous, tørr;8;1362;321;0,6;63,6;12,8
+05.003;Havregryn, lettkokte/store;6;1639;389;7,8;63,1;11,4
+05.005;Hirse, hele korn;14;1443;341;2,9;66,6;10,5
+05.009;Hvete, helkorn;13;1330;315;2,4;54,4;13
+05.331;Nudler av ris, tørr;12;1489;351;0,6;82,2;3,4
+05.379;Nudler, glass, tørr;13;1464;344;0,1;85,6;0,2
+05.330;Nudler, med egg, tørr;8;1521;359;2;72,6;12
+05.222;Nudler, uten egg, tørr;11;1451;343;3,3;66,4;10,2
+05.326;Pasta, fersk med kjøtt og ost, tortellini, rå;35;1191;282;4,1;48,8;11
+05.325;Pasta, fersk med kjøtt, tortellini, rå;31;1230;291;4,6;47,1;13,6
+05.327;Pasta, fersk med ost, ravioli, rå;29;1353;321;7,4;48,4;13,2
+05.332;Pasta, fullkorn, tørr;9;1533;362;2,5;68,3;12,6
+05.421;Pasta, glutenfri, av mais og ris, tørr, Barilla;9;1446;340;0;78,2;5,8
+05.423;Pasta, glutenfri, av ris og grønnsaker, tørr, Orgran tricolore;9;1440;339;1;75,2;6,2
+05.422;Pasta, glutenfri, spagetti, tørr, Semper;9;1470;347;2,4;72,6;6,8
+05.227;Pasta, grønn, fersk, rå;46;967;229;3,9;38,3;9,1
+05.226;Pasta, naturell, fersk, rå;42;1031;244;4;41,5;9,5
+05.016;Pasta, naturell, tørr;9;1471;347;1,3;69,8;11,9
+05.384;Ris, arborio, risottoris, tørr;13;1605;378;1;85,2;6,4
+05.023;Ris, grøtris, 1 times koketid, tørr;11;1516;357;0,8;80,5;6,4
+05.307;Ris, grøtris, 5-25 min koketid, tørr;10;1503;354;0,6;80;6,4
+05.304;Ris, hurtigris, 1 % salt, tørr;10;1483;349;0,2;78,2;7,9
+05.024;Ris, hurtigris, tørr;9;1523;359;0,7;78,4;8,5
+05.305;Ris, polert, Basmatiris, tørr;12;1504;354;1;76,8;9,2
+05.306;Ris, polert, Jasminris, tørr;13;1505;354;0,7;79,5;7,5
+05.212;Ris, polert, langkornet, tørr;13;1456;343;0,7;75,9;7,8
+05.022;Ris, polert, parboiled, langkornet, tørr;11;1474;347;1,2;75,7;7,7
+05.021;Ris, upolert, naturris, langkornet, tørr;10;1542;364;3;72,8;9,4
+05.339;Ris, villris, rå;8;1496;353;1,1;68,7;14
+05.029;Semulegryn, hvetegryn;15;1437;339;2;69;10
+05.224;Sorghum;11;1521;359;3,3;69,8;11
+05.285;Bulgurgryn, kokt;63;555;131;0,9;24,9;4,3
+05.252;Couscous, kokt;53;727;172;2;31;6,3
+05.243;Nudler av hvete, uten egg, kokt;58;791;187;3;32,7;6,1
+05.334;Nudler av ris, kokt uten salt;58;710;167;0,3;39,1;1,6
+05.333;Nudler, kokt, med krydder;60;796;190;8,9;22,6;4,4
+05.335;Pasta, fullkorn, kokt med salt;66;569;135;2,6;21,4;4,8
+05.253;Pasta, grønn, fersk, kokt;68;594;141;3,8;21,1;5
+05.229;Pasta, naturell, fersk, kokt;66;633;150;3,9;22,9;5,3
+05.130;Pasta, naturell, kokt;70;490;116;0,4;23,3;4
+05.337;Ris, Basmati, kokt;69;526;124;0,4;26,9;3,2
+05.336;Ris, hurtigris, 1 % salt, kokt;77;371;87;0;19,6;2
+05.254;Ris, hurtigris, kokt;69;518;122;0,2;26,7;2,9
+05.338;Ris, Jasmin, kokt;69;527;124;0,2;27,8;2,6
+05.289;Ris, polert, langkornet, kokt;70;494;116;0,2;25,8;2,7
+05.125;Ris, polert, parboiled, langkornet, kokt;70;500;118;0,4;25,7;2,6
+05.255;Ris, upolert, naturris, langkornet, kokt;69;524;124;1;24,8;3,2
+05.340;Ris, villris, kokt;68;516;122;0,4;23,7;4,8
+05.033;Corn flakes, Kelloggs;5;1617;381;1;84,1;7,1
+05.239;Corn flakes, søt, Frosties;4;1625;383;0,9;87,5;5,3
+05.373;Frokostkorn, Jippi Frokosttall;8;1531;362;2,6;69,1;11
+05.240;Frokostkorn, ristet hvete og ris, Spesial K;3;1587;374;1,5;79;9
+05.158;Frokostkorn, sjokoladesmak;4;1637;386;2;83;7,3
+05.375;Frokostkorn, sjokoladesmak, Coco Pops Crunchers;3;1611;380;2,5;78;9
+05.395;Frokostkorn, sjokoladesmak, Nestlé Nesquick;3;1562;369;3,6;72,1;8,7
+05.136;Havre, ristet, med frukt, olje, Crüsli;4;1865;444;15;67;7
+05.376;Havreflak, Havreflakes;5;1654;392;6;68;12
+05.237;Havreputer, Havrefras;5;1530;363;6,1;61,5;9,8
+05.374;Havreputer, Jippi Havreputer;2;1702;403;5,7;71,7;12,2
+05.394;Havreringer, Nestlé Cheerios;3;1662;394;7,3;67,5;10,9
+05.244;Hvetebrikker, Weetabix;6;1514;358;2,5;67,4;11,3
+05.156;Hveteflak ristet, med hvetekli, All-bran Regular;4;1419;336;1,8;62,3;10,4
+05.241;Hvetekli, ristet, All-Bran plus;4;1473;349;3,6;61,9;10,3
+05.034;Kornblanding,  4-korn;13;1367;324;3,2;56,7;10,6
+05.377;Kornblanding, med bær, Go'dag Blåbærmüsli;12;1386;328;2;62;10
+05.235;Kornblanding, med frukt og nøtter, Go'dag Energimüsli;8;1686;401;11;60;11
+05.400;Kornblanding, med frukt, AXA Fruktmüsli;11;1587;376;5,7;69,8;8,5
+05.236;Kornblanding, med frukt, Go'dag Fruktmüsli;9;1499;355;5;65;9
+05.238;Kornblanding, müsli med frukt, nøtter, søtet;8;1542;365;3,8;70,6;8
+05.378;Kornblanding, Vita Hjertego' Flerkornsblanding med Blåbær og Tranebær;6;1516;360;4;62;10
+05.037;Puffet havre, Havrenøtter;3;1701;403;6,5;69,1;14,1
+05.038;Puffet hvete, Hvetenøtter;2;1599;378;2,2;68,5;15,5
+05.036;Puffet hvete, med sukker og honning, Honni korn;3;1617;381;1,5;84;6
+05.039;Puffet ris;6;1604;378;0,9;86;6
+05.049;Brød, 1/3 sammalt mel, skummet melk, hjemmebakt;37;1036;245;1,3;46,8;9,2
+05.048;Brød, 1/3 sammalt mel, vann, hjemmebakt;39;1004;237;1,3;45,7;8,4
+05.041;Brød, 100 % sammalt mel, skummet melk, hjemmebakt;35;993;235;1,7;40;10,7
+05.045;Brød, 2/3 sammalt mel, skummet melk, hjemmebakt;35;1029;243;1,5;43,9;10,3
+05.044;Brød, 2/3 sammalt mel, vann, hjemmebakt;39;966;228;1,5;41,7;8,8
+05.051;Brød, 25 % sammalt mel, skummet melk, hjemmebakt;37;1047;247;1,3;47,8;9,1
+05.050;Brød, 25 % sammalt mel, vann, hjemmebakt;39;1011;239;1,2;46,7;8,3
+05.047;Brød, 50 % sammalt mel, skummet melk, hjemmebakt;37;1017;240;1,4;44,8;9,4
+05.046;Brød, 50 % sammalt mel, vann, hjemmebakt;39;985;233;1,4;43,7;8,6
+05.043;Brød, 75 % sammalt mel, skummet melk, hjemmebakt;35;1023;242;1,6;43;10,4
+05.042;Brød, 75 % sammalt mel, vann, hjemmebakt;39;956;226;1,5;40,8;8,9
+05.054;Brød, ekstra grovt, 75 % sammalt mel, hjemmebakt;34;1040;246;2,6;42,8;9,3
+05.264;Brød, glutenfritt, fint, med lettmelk, hjemmebakt;44;931;220;1,8;46,5;2,9
+05.262;Brød, glutenfritt, fint, med vann, hjemmebakt;50;876;207;1;47,4;1
+05.265;Brød, glutenfritt, grovt, med lettmelk, hjemmebakt;44;917;217;2,3;42,8;4,1
+05.263;Brød, glutenfritt, grovt, med vann, hjemmebakt;50;886;209;1,4;44,4;2,7
+05.355;Brød, glutenfritt, grovt, soyadrikke med kalsium, hjemmebakt;44;961;227;2,7;44,4;4,1
+05.354;Brød, glutenfritt, grovt, soyadrikke, hjemmebakt;46;897;212;2,8;40,3;4,2
+05.129;Brød, grovbakst, 40 % sammalt mel, hjemmebakt;36;1018;241;2,7;43,1;8,3
+05.182;Chapatti, med sammalt mel;34;993;235;1,8;40,6;9,7
+05.437;Focaccia;35;1327;316;12,2;43,3;7,1
+05.053;Loff, skummet melk, hjemmebakt;35;1168;276;4,4;48,9;9,1
+05.052;Loff, vann, hjemmebakt;39;1105;262;4,4;46,7;7,6
+05.062;Pizzabunn, uten fyll;42;1031;244;3,3;44,8;7,5
+05.065;Rundstykke, baguette, finbakstmel, hjemmebakt;35;1122;265;2,8;51,4;7,5
+05.206;Rundstykke, fint, med skummet melk, hjemmebakt;35;1194;283;5,4;48,2;9,1
+05.300;Rundstykke, fint, med vann, hjemmebakt;39;1131;268;5,4;46;7,6
+05.067;Rundstykke, grovt, med skummet melk, hjemmebakt;35;1142;271;5,7;42,7;9,6
+05.301;Rundstykke, grovt, med vann, hjemmebakt;39;1079;256;5,7;40,5;8,1
+05.066;Rundstykke, mellomgrovt, med skummet melk, hjemmebakt;35;1167;277;5,6;45,3;9,4
+05.302;Rundstykke, mellomgrovt, med vann, hjemmebakt;38;1103;261;5,5;43,3;7,8
+05.413;Scones, grove, med melk;33;1265;301;8,3;45,6;8,8
+05.414;Scones, grove, med yoghurt;40;1081;256;5,2;40,1;9,5
+05.211;Baguette, fin, halvstekt, stekt;34;1100;260;1,4;50,6;9,9
+05.344;Brød, ekstra grovt (75-100 %), karbohydratredusert, kjøpt, Fiber og frø;41;1088;260;11;19,7;15,9
+05.343;Brød, ekstra grovt (75-100 %), kjøpt;39;935;221;2,2;35,9;11,6
+05.366;Brød, ekstra grovt (75-100 %), kjøpt, Grovbrød uten hele korn;37;954;226;3,3;35,3;10,5
+05.390;Brød, ekstra grovt (75-100 %), kjøpt, Grovt & Godt Grovbrød;40;897;212;2;32,5;12,4
+05.367;Brød, ekstra grovt (75-100 %), kjøpt, Grovt og godt havrebrød;39;974;230;2,4;39,2;10,8
+05.368;Brød, ekstra grovt (75-100 %), kjøpt, Havrebrød;41;925;219;4;32;11
+05.427;Brød, glutenfritt, Semper formbrød;29;1040;247;4,4;45,9;2,9
+05.342;Brød, grovt (50-75 %), kjøpt;37;1001;237;2,3;42,2;9
+05.392;Brød, grovt (50-75 %), kjøpt, First Price kneipp;37;1040;246;2,2;45,3;8,6
+05.363;Brød, grovt (50-75 %), kjøpt, Istidbrød;40;980;232;2,3;42,3;8,1
+05.361;Brød, grovt (50-75 %), kjøpt, Josefinebrød;35;1034;245;2,3;44,3;9
+05.365;Brød, grovt (50-75 %), kjøpt, Løvebrølbrød;34;1037;246;4,4;41,4;7,5
+05.389;Brød, grovt (50-75 %), kjøpt, Norsk Fjellbrød;36;1045;247;2,8;44;8,5
+05.393;Brød, grovt (50-75 %), kjøpt, Pågen kjernesunt brød;39;968;229;2,7;38,1;10,3
+05.362;Brød, grovt (50-75 %), kjøpt, Skibrød;36;992;235;2;41,7;9,6
+05.364;Brød, grovt (50-75 %), kjøpt, Speltbrød;38;1132;269;8,1;34,9;11,4
+05.391;Brød, grovt (50-75 %), kjøpt, Superbrød;37;950;225;1,6;41,3;8,5
+05.341;Brød, halvgrovt (25-50 %), kjøpt;37;978;231;2,4;42,2;8
+05.358;Brød, halvgrovt (25-50 %), kjøpt, Jegerbrød;36;988;234;3;40,7;8,6
+05.360;Brød, halvgrovt (25-50 %), kjøpt, Kneippbrød;38;928;219;1,5;42,4;7,1
+05.359;Brød, halvgrovt (25-50 %), kjøpt, Odelsbrød;36;1036;245;1,9;46,5;8,2
+05.357;Brød, halvgrovt (25-50 %), kjøpt, Yoghurtbrød;36;941;222;1,5;41,7;8,3
+05.061;Hamburgerbrød, fint, kjøpt;33;1276;303;8,3;49,5;6,6
+05.284;Loff, fint brød (0-25 %), formstekt, kjøpt;34;1084;256;2,9;46,6;9,4
+05.186;Loff, fint brød (0-25 %), halvstekt, stekt;33;1098;259;1,6;50,2;9,1
+05.060;Loff, fint brød (0-25 %), kjøpt;33;1154;272;2,3;53;8,6
+05.283;Loff, fint brød (0-25 %), spiral, kjøpt;34;1117;264;3,3;47,5;9,2
+05.188;Pitabrød, fint, kjøpt;40;994;235;1,1;47,3;7,4
+05.385;Polarbrød, hvete;24;1357;321;5,1;58,4;9,1
+05.084;Potetlompe, potetlefse, kjøpt;55;722;170;0,4;35,7;4,5
+05.184;Pumpernikkel, fullkornsbrød, ekstra grovt (75-100 %), kjøpt;40;859;204;1,6;37;5,4
+05.063;Pølsebrød, fint, kjøpt;33;1281;304;8,2;50,1;6,5
+05.272;Rugbrød, fint (0-25 %), kjøpt;35;1047;248;2,6;45,7;7,9
+05.273;Rugbrød, grovt (50-75 %), kjøpt;36;1095;259;2,4;48,4;6,9
+05.216;Rundstykke, fint, halvstekt, kjøpt, stekt;33;1153;273;3,8;48,3;9,6
+05.064;Rundstykke, fint, kjøpt;32;1200;284;3,3;53,4;8,7
+05.215;Rundstykke, grovt, halvstekt, kjøpt, stekt;29;1219;289;5,3;48,7;8,4
+05.271;Rundstykke, grovt, kjøpt;37;1081;256;5,2;43;7,6
+05.372;Tortilla, burrito, hvetemel, Old El Paso;29;1074;254;5,4;42,2;8,6
+05.248;Tortilla, maislefse;27;1092;258;2,8;50,1;6,2
+05.371;Tortilla, wraps, hvetemel, Santa Maria;26;1119;265;4,2;47,4;8,3
+05.381;Tortilla, wraps/burrito, hvetemel;27;1096;260;4,8;44,8;8,4
+05.144;Flatbrød, havre, kjøpt;4;1349;320;4,2;50,9;13,9
+05.146;Flatbrød, hjemmebakt type, kjøpt;3;1450;343;1,6;65,5;10,6
+05.068;Flatbrød, kjøpt;3;1441;340;1,2;67,4;10,4
+05.075;Kjeks, fet, Cream cracker;7;1759;417;9,8;72,8;8
+05.077;Kjeks, grov, Kornmo;8;1700;404;10,9;64,2;9,3
+05.152;Kjeks, Kaptein;4;1570;372;6,4;61,1;14,8
+05.076;Kjeks, mager, usøtet, Frokost;5;1642;387;1,3;81,6;10,4
+05.154;Kjeks, salt, fet, Ritz, Seltiner;3;1950;466;23,4;53,5;8,6
+05.328;Kjeks, Start;4;1651;390;5,1;75;9,4
+05.071;Klibrød, med hvetekli;2;1303;312;3,2;38,5;13,7
+05.190;Knekkebrød, glutenfritt;6;1604;380;6,5;71,1;6
+05.353;Knekkebrød, glutenfritt, av pulver, Toro;10;2065;497;31,5;28,2;18,1
+05.142;Knekkebrød, havre;7;1536;364;5,3;61;13
+05.397;Knekkebrød, havre, Sigdal helsprøtt;3;1903;457;26;33;17
+05.069;Knekkebrød, lyst;5;1700;403;8,5;67,7;11
+05.143;Knekkebrød, med ekstra fiber;6;1459;349;8;43,2;13
+05.399;Knekkebrød, Mesterbakeren Original;3;1978;475;29;29,9;17
+05.148;Knekkebrød, rug, grovt;7;1425;338;1,9;62;10
+05.070;Knekkebrød, rug, Husman;6;1348;319;1,1;62,3;7,8
+05.419;Knekkebrød, rug, Husman Sport;7;1345;319;1,9;57,3;10
+05.396;Knekkebrød, rug, Ryvita;3;1418;336;1,1;64,6;9,1
+05.189;Knekkebrød, rug, tynt, Rugsprø, Finncrisp;5;1457;345;1,7;63,6;11
+05.398;Knekkebrød, Synnøve Grovkrisp sesamfrø og linfrø;3;1841;441;23;32,3;20
+05.193;Riskaker, lettsaltet;5;1609;380;3;78;8
+05.194;Riskaker, usaltet;5;1609;380;3;78;8
+05.073;Skonrokk, grov;6;1659;394;8,7;63,4;11
+05.382;Tacoskjell;6;1934;462;23,4;55,3;5,7
+05.370;Tacoskjell, Old El Paso;7;1995;477;25,5;54,9;5,4
+05.369;Tacoskjell, tubs, Santa Maria;5;1873;448;21,3;55,6;6
+05.433;Biscotti;5;1887;449;15,9;61,6;12,6
+05.434;Brune pinner;8;1987;474;22,6;60;6,7
+05.140;Havremakroner, kjøpt;9;1784;425;15,2;60,2;9,6
+05.438;Hvite kakemenn;18;1565;371;9,3;64,5;6,5
+05.192;Kavring, søt, sukkerkavring;3;1932;459;15,5;67,3;11,2
+05.311;Kjeks, søt,  sjokoladebiter, cookies, store;9;1765;420;16,4;60,7;6,1
+05.386;Kjeks, søt, Ballerina;2;1951;465;20,7;62,4;6,1
+05.151;Kjeks, søt, barnekjeks;3;1852;440;12,5;74,8;5,9
+05.150;Kjeks, søt, barnekjeks med sjokolade;3;2022;482;21,3;64,6;7
+05.308;Kjeks, søt, fylt med syltetøy el. frukt;12;1628;386;9,8;68,9;4,6
+05.080;Kjeks, søt, Gjende;3;1942;463;18,6;65,4;6,6
+05.197;Kjeks, søt, grov, Digestive;3;1971;470;20,3;62,9;7,2
+05.149;Kjeks, søt, havre og sjokolade;3;2048;489;24,2;58,6;7,2
+05.221;Kjeks, søt, havre, Bixit;3;1918;458;19,1;60,9;7,7
+05.309;Kjeks, søt, havre, SIBAS;5;1909;455;18,5;62,2;8,1
+05.310;Kjeks, søt, havreflarn;3;2032;485;22,4;64;5,6
+05.078;Kjeks, søt, kremfyll;3;2014;480;21,2;65,3;5,9
+05.079;Kjeks, søt, Mariekjeks;1;1879;446;12,8;74,7;6,6
+05.153;Kjeks, søt, sjokoladebiter, nøtter, cookies, små;3;2056;491;25,3;59,1;5,7
+05.135;Kjeks, søt, vaffel, fylt;2;2145;512;23,5;70,3;4,1
+05.098;Kokosmakroner;15;1910;458;28,5;42;5,7
+05.099;Kransekake;6;2007;480;24,5;51,3;11,2
+05.440;Krumkaker;26;1715;410;23,5;43,1;6,2
+05.139;Marengs;2;1649;388;0;92,4;4,6
+05.198;Pepperkaker;2;1930;459;15,9;72,9;5,3
+05.134;Peppernøtter;3;2115;504;22,7;67,9;6,3
+05.106;Serinakaker;14;1914;457;23,6;53,1;7,3
+05.199;Berlinerbolle, kjøpt;17;1835;439;23,2;49,2;7,3
+05.266;Bolle, glutenfri, med lettmelk, hjemmebakt;34;1183;281;7,8;49,2;3,2
+05.095;Bolle, med helmelk, hjemmebakt;28;1440;342;11,5;50,7;7,9
+05.202;Bolle, med lettmelk, hjemmebakt;29;1386;329;10;50,8;7,9
+05.432;Bolle, med sjokoladebiter;20;1588;378;13,3;55,3;7,7
+05.286;Bolle, med skummet melk, hjemmebakt;30;1364;324;9,4;50,8;7,9
+05.217;Bolle, uten rosiner, kjøpt;22;1521;361;11,3;55,7;7,7
+05.312;Croissant, uten fyll, kjøpt;22;1688;404;21,4;43,7;8,5
+05.096;Hvetekake;34;1198;284;5,2;49,4;8,7
+05.097;Julekake;23;1436;341;9;56,5;7,2
+05.187;Kanelbolle, skillingsbolle, hjemmebakt;25;1480;351;10,8;54,8;7,7
+05.314;Kanelbolle, skillingsbolle, med sukkerstrø, kjøpt;25;1233;292;5,2;51,8;8,4
+05.315;Kanelbolle, skillingsbolle, med vaniljekrem, melisglasur, kjøpt;38;1104;261;5,2;46;6,7
+05.100;Kringle, gjærdeig, med tørket frukt;21;1486;353;9,6;57,8;7,5
+05.313;Lefse, ferdig smurt, Vestlandslefsa;30;1454;347;17,2;41,4;5,8
+05.428;Lussekatter;25;1459;347;10,8;51,6;9,4
+05.207;Rosinbolle, kjøpt;20;1502;357;10,4;56,9;7,3
+05.109;Skolebrød, med melisglasur, eggekrem, kokos, kjøpt;30;1373;326;10,7;49,7;6,5
+05.418;Sveler;43;1044;247;4,1;43,8;8,1
+05.082;Tykklefse, påsmurt, kjøpt;23;1717;410;21,5;48,7;4,9
+05.081;Tykklefse, uten fyll;26;1458;346;10,8;55,2;6,3
+05.349;Vafler, av pulver, Toro;40;1295;309;14,3;37,8;6,6
+05.350;Vafler, glutenfrie, av pulver, Toro;41;1183;282;12,9;38,8;2,6
+05.387;Vafler, grove;51;950;226;8,9;27,1;8,5
+05.085;Vafler, med egg og helmelk;54;944;225;9,7;27;7
+05.288;Vafler, med egg og lettmelk, uten fett;53;833;197;2,9;34,1;8
+05.270;Vafler, med egg og skummet melk;56;886;211;8;27,2;7,1
+05.247;Vafler, med egg, lettmelk;55;914;218;8,8;27,2;7
+05.086;Vafler, med fløte/rømme, uten egg;51;1146;274;16,1;26,8;5
+05.117;Vørterkake;31;1177;278;3,6;53,3;6,4
+05.118;Wienerbrød, med eggekrem;29;1672;401;24,4;38;6,5
+05.316;Wienerbrød, med syltetøy, kjøpt;34;1446;346;17,9;37,9;6,9
+05.287;Wienerkringle, med mandelfyll;18;2064;496;35,8;36,4;6,2
+05.112;Bløtkake, med krem, syltetøy;46;1276;306;19,3;27,8;5
+05.317;Brownies, med sjokoladeglasur, kjøpt;15;1761;421;20,2;54,2;4
+05.346;Cupcakes, med glasur, av pulver, smør;20;1577;375;13,9;59,4;2,9
+05.435;Daimkake;35;1579;379;24,8;32,7;5,5
+05.087;Delfiakake;18;2197;530;43;30,1;4,6
+05.318;Donuts, med sjokoladeglasur, kjøpt;18;2066;497;37,3;33,3;6,2
+05.436;Eplekake;45;1200;287;14,1;35,2;3,9
+05.131;Eplepai;57;934;223;11,5;26,4;2,6
+05.091;Formkake, fet, dansk sandkake;24;1728;413;23;46,4;4,9
+05.090;Formkake, marmor;28;1541;368;17,4;45,1;7
+05.089;Formkake, med epler;48;1110;265;13,5;31,4;3,8
+05.319;Formkake, med glasur, kjøpt;23;1657;395;18,2;52,7;4,7
+05.088;Formkake, med mindre fett;29;1374;326;9,7;52,4;6,5
+05.320;Formkake, uten glasur, kjøpt;18;1699;406;20;51,6;4,1
+05.093;Fyrstekake, med epler;36;1348;321;13,6;44,2;4,7
+05.094;Fyrstekake, med mandler;17;1800;430;21,9;48,5;8,5
+05.210;Gulrotkake;37;1221;290;9,3;44,5;6,2
+05.348;Gulrotkake, allergiprodukt, kjøpt, Hildes gulrotkake;31;1318;313;10,5;53,2;0,8
+05.321;Gulrotkake, med ostekrem, kjøpt;31;1391;331;12,4;50,3;3,8
+05.352;Kakebunn, glutenfri, av pulver, Toro;20;1411;334;5,3;64,5;6,7
+05.439;Kokosbollekake;25;1559;372;15,3;51,8;5,6
+05.441;Kvæfjordkake, Verdens beste;41;1376;330;19,2;33,6;5,2
+05.429;Marengsbunn;11;1513;356;0;83,4;5,6
+05.200;Marsipankake, med syltetøy og krem;36;1562;375;26;29;5,7
+05.203;Mazarin, kjøpt;15;1826;436;20,6;55;6,7
+05.430;Muffins;22;1720;411;20,2;50,6;6,2
+05.431;Muffins, med banan;34;1441;344;16,1;44;5,2
+05.406;Muffins, med banan, melisglasur;31;1444;344;13,8;50,1;4,4
+05.401;Muffins, med blåbær;36;1385;331;15,9;40,9;5,1
+05.322;Muffins, med blåbær, kjøpt;25;1584;379;20,5;42,3;5,5
+05.407;Muffins, med blåbær, melisglasur;33;1396;333;13,6;47,5;4,3
+05.402;Muffins, med kakao;22;1717;410;20,2;49,8;6,6
+05.408;Muffins, med kakao, melisglasur;21;1682;401;17,3;55,1;5,6
+05.405;Muffins, med melisglasur;21;1687;402;17,3;55,9;5,3
+05.403;Muffins, med sitron;25;1659;396;19,4;48,9;6
+05.409;Muffins, med sitron, melisglasur;23;1632;389;16,6;54,3;5,2
+05.404;Muffins, med sjokoladebiter;20;1772;423;21,1;51,4;6,2
+05.268;Muffins, med sjokoladebiter, kjøpt;25;1631;390;20,3;42,9;7,9
+05.410;Muffins, med sjokoladebiter, melisglasur;19;1731;413;18,1;56,5;5,3
+05.102;Napoleonskake;42;1282;306;15,6;35,3;5,8
+05.103;Nøttebunn;24;1697;407;23,7;36,9;9,8
+05.208;Nøttekake, myk;20;1750;419;23,6;39,9;10
+05.345;Oreokake, av pulver, fløte og smør;45;1395;335;22,8;28,4;3,5
+05.205;Ostekake, med kjeksbunn;39;1407;337;19,4;36,6;3,5
+05.411;Pavlova, med kremfløte og bær;48;1165;278;14,7;33,1;3
+05.105;Rullekake, med smørkrem av margarin;24;1666;398;19,8;48,3;6,3
+05.323;Rullekake, med smørkrem, kjøpt;21;1603;382;17;51,6;4,8
+05.104;Rullekake, med syltetøy;38;1043;246;3,6;46,9;6,1
+05.412;Sarah Bernhard-kake;18;1948;467;29,6;40,5;8
+05.107;Sirupskake;32;1128;266;1,3;56,2;6,4
+05.415;Sitronterte;35;1549;371;22,9;34,6;6,3
+05.347;Sjokoladekake, allergiprodukt, kjøpt, Hildes sjokoladekake;26;1375;326;9,1;58;2,3
+05.108;Sjokoladekake, med glasur;23;1490;354;10,5;60,2;4,1
+05.324;Sjokoladekake, med glasur, kjøpt;17;1753;419;21,6;50;5
+05.201;Sjokoladekake, uten glasur;29;1511;361;17,5;43,1;6,8
+05.110;Smultringer;20;1973;473;31,4;41,3;5,8
+05.416;Snickerskake;19;1786;427;21,6;47,9;8,9
+05.111;Sukkerbrød;32;1237;293;5,8;49,8;9,9
+05.113;Sukkerbrød, med eggekrem, bær, gele;71;564;134;4,4;19,8;3,5
+05.417;Suksessterte;29;1788;430;29,7;32,8;6,8
+05.115;Terte, uten fyll;4;2204;527;29,8;56,4;7,5
+05.180;Vannbakkels, uten fyll;35;1678;404;30,1;22,8;9,9
+06.582;Cashewnøtter;5;2458;592;43,8;29,4;18,2
+06.618;Cashewnøtter, saltet;3;2500;603;48,7;19,2;18
+13.095;Cashewnøtter, saltet, Den lille nøttefabrikken;3;2489;601;49;18,9;17
+13.094;Cashewnøtter, saltet, Eldorado;3;2412;582;46;21,2;17
+13.093;Cashewnøtter, saltet, Rema 1000;2;2599;628;51;17,6;20
+05.380;Chiafrø, tørket;6;1825;443;30,7;7,7;16,5
+06.553;Hasselnøtter;5;2661;645;60,8;4,8;15
+05.012;Linfrø, knuste;7;2116;513;42,2;1,6;18,3
+06.617;Macadamianøtter;1;3102;753;75,8;5,6;7,9
+06.107;Mandler;5;2385;577;49,2;6,3;21,2
+06.555;Mandler, skåldet;4;2482;600;52,5;5,6;21,4
+06.592;Paranøtter;3;2805;680;66,4;2,6;14,3
+06.557;Peanøtter;6;2458;594;49,2;7,6;25,8
+06.558;Peanøtter, saltet;2;2578;623;51;9,5;26,7
+13.089;Peanøtter, saltet, Eldorado;2;2473;597;49;10,7;24
+13.087;Peanøtter, saltet, Maarud;2;2545;615;49;10,9;27
+13.088;Peanøtter, saltet, Polly;1;2714;656;55;6,9;29
+06.559;Peanøttsmør;1;2570;620;51,8;13,1;22,8
+06.593;Pekannøtter;3;2971;721;72;4,4;9,2
+06.614;Pinjekjerner;2;2877;697;68,4;5;13,7
+06.594;Pistasjnøtter, saltet;2;2249;543;44,8;9,1;21
+06.616;Quinoa, kokt;65;607;144;2,4;23,4;5,7
+06.615;Quinoa, tørr;13;1512;358;6,1;58,3;14,1
+05.030;Sesamfrø, med skall;5;2424;586;49,7;11,2;17,7
+05.147;Sesamfrø, uten skall;4;2775;672;61,2;4,1;20,4
+05.126;Solsikkefrø;5;2611;630;51,5;18;20,8
+05.170;Squashfrø, gresskarfrø;5;2589;624;49;12,5;30,2
+06.560;Valnøtter;4;2771;672;65,2;2,7;15,2
+06.006;Pommes frites, fryst;66;640;153;5,2;22;2,2
+06.738;Pommes frites, gatekjøkken;34;1381;330;16,8;39,8;3
+06.005;Potet, hermetisk, avrent;84;242;57;0,2;11,3;1,4
+06.003;Potet, høstpotet, rå;78;305;72;0,1;15,3;1,7
+06.096;Potet, lagringspotet, kokt med skall;76;338;80;0,1;17,1;1,9
+06.095;Potet, lagringspotet, kokt uten skall, saltet vann;75;307;72;0,1;15,2;1,9
+06.004;Potet, lagringspotet, rå;76;339;80;0,1;17,1;1,9
+06.739;Potet, tidligpotet, med skall, Kypros, rå;83;253;60;0,1;12,2;1,7
+06.001;Potet, tidligpotet, rå;80;228;54;0,1;11,2;1,5
+06.008;Potetmos, av pulver, med melk;84;277;66;1,8;10,6;1,3
+08.012;Potetsalat, med ekte majones;53;1346;325;29,7;12,3;1,6
+08.021;Potetsalat, med lettmajones (40 % fett);67;810;195;14,5;14,1;1,4
+08.203;Potetsalat, med lettrømme;77;448;107;5,3;12,2;1,9
+08.204;Potetsalat, med seterrømme;74;591;142;9,3;12;1,8
+06.010;Agurk, norsk, rå;96;44;10;0,1;1,2;0,8
+06.114;Alfalfaspirer, rå;93;112;27;0,7;0,3;4
+06.011;Artiskokk, rå;85;117;28;0,2;1,3;2,8
+06.012;Asparges, rå;93;92;22;0,1;2;2,2
+06.015;Aubergine, rå;94;84;20;0,1;2,5;1,1
+06.749;Babygulrot, importert, rå;91;120;28;0,1;5;0,6
+06.058;Bladsalat, norsk, rå;96;44;10;0,1;0,7;1,2
+06.746;Blomkål, norsk, fryst;94;91;22;0,2;2,2;1,9
+06.016;Blomkål, norsk, rå;92;97;23;0,2;2,3;1,9
+06.118;Brennesle, rå;83;181;43;0,7;1,3;5,9
+06.740;Brokkoli, fryst;91;113;27;0,3;1,9;2,8
+06.747;Brokkoli, importert, rå;90;124;30;0,3;2,1;3,2
+06.018;Brokkoli, norsk, rå;90;119;28;0,3;1,9;3,2
+06.748;Brokkoli, uspesifisert, rå;90;123;29;0,3;2;3,2
+06.174;Brønnkarse, rå;95;48;11;0,1;0;1,9
+06.145;Bønnespirer, mungbønnespirer, rå;90;173;41;0,2;5,9;3
+06.182;Chayote, rå;94;80;19;0,1;2,8;0,8
+06.752;Cherrytomat, importert, rå;93;71;17;0,2;2,5;0,6
+06.146;Chili, grønn, rå;88;140;33;0,2;5,1;2
+06.115;Chili, rød, rå;88;149;35;0,4;5,3;1,9
+06.032;Endivesalat, rå;95;55;13;0,1;1;1
+06.137;Feltsalat, rå;93;69;17;0,2;0,2;2,6
+06.112;Fennikel, rå;94;80;19;0,4;1,8;0,9
+06.033;Gresskar, rå;92;53;13;0,1;1,7;1
+06.034;Gressløk, rå;90;108;26;0,4;1,3;2,7
+06.035;Grønnkål, rå;85;150;36;0,7;2,2;3,3
+06.744;Gulrot, babygulrot, fryst;91;109;26;0,2;4;0,8
+06.750;Gulrot, importert, rå;90;122;29;0,2;4,6;0,9
+06.742;Gulrot, knaskegulrot, norsk, rå;91;105;25;0,1;4,2;0,7
+06.036;Gulrot, norsk, rå;89;152;36;0,1;6,7;0,7
+06.743;Gulrot, terninger, fryst;91;112;27;0,2;4,1;0,9
+06.751;Gulrot, uspesifisert, rå;89;151;36;0,1;6,7;0,7
+06.037;Hodekål, rå;90;137;32;0,1;5,2;1,4
+06.038;Hvitløk, rå;64;450;106;0,6;16,3;7,9
+06.108;Ingefærrot, rå;79;212;50;0,8;8,1;1,8
+06.059;Isbergsalat, issalat, norsk, rå;96;51;12;0,1;1,5;0,8
+06.125;Jalapeño, rå;92;122;29;0,4;4,1;0,9
+06.109;Jordskokk, rå;82;274;65;0,6;11,5;2,1
+06.116;Kantarell, rå;90;71;17;0,5;0,4;1,8
+06.122;Kassava, rå;60;673;159;0,3;36,8;1,4
+06.040;Kinakål, norsk, rå;95;63;15;0,1;1,8;1,1
+06.086;Knutekål, rå;91;98;23;0,1;3;1,7
+06.041;Kålrot, kålrabi, norsk, rå;89;149;35;0,1;6,4;0,9
+06.185;Lotusrot, rå;79;274;65;0,1;11;2,6
+06.042;Løk, gul/rød, norsk, rå;88;135;32;0,1;5,7;1,1
+06.745;Mais, fryst;69;487;115;1,7;20,8;3,2
+06.044;Mais, norsk, rå;77;357;85;1,7;12,6;3,2
+06.092;Mangold, sølvbete, rå;93;89;21;0,2;2,6;1,8
+06.046;Neper, norsk, rå;91;122;29;0,3;4,7;0,9
+06.188;Okra, rå;89;116;28;0,2;3;1,9
+06.175;Pak-choi, bok choy, kål, rå;95;78;18;0,2;2,2;1,5
+06.047;Paprika, grønn, rå;93;88;21;0,3;2,8;0,8
+06.088;Paprika, gul/oransje, rå;93;110;26;0,2;5;0,5
+06.048;Paprika, rød, rå;93;110;26;0,2;4,2;0,8
+06.049;Pastinakk, rå;80;272;65;0,6;11,2;1,7
+06.117;Pepperrot, rå;69;404;96;0,7;11;7,7
+06.051;Persillerot, norsk, rå;84;194;46;0,3;7,3;1,7
+06.190;Portobellosopp, rå;93;103;24;0,4;2,6;2,1
+06.052;Purreløk, norsk, rå;87;118;28;0,2;3,6;1,6
+06.053;Rabarbra, rå;94;85;20;0,2;1,9;0,9
+06.123;Radicchio rosso, salat, rå;93;76;18;0,2;1,7;1,4
+06.097;Rapidsalat, norsk, rå;95;46;11;0,2;0,3;1,4
+06.054;Reddik, norsk, rå;94;68;16;0,1;2,5;0,7
+06.138;Romanosalat, rå;94;68;16;0,2;1,3;1,4
+06.056;Rosenkål, fryst;86;182;43;0,4;4,3;3,8
+06.055;Rosenkål, norsk, rå;82;220;52;0,6;4,4;5,1
+06.100;Ruccolasalat, rå;92;116;28;0,7;2;2,6
+06.057;Rødbete, norsk, rå;86;206;49;0,2;8,9;1,6
+06.093;Rødkål, rå;90;136;32;0,3;5;1,1
+06.060;Sellerirot, norsk, rå;87;114;27;0,3;2,8;1,6
+06.127;Shiitakesopp, rå;90;111;26;0,3;2,5;1,8
+06.061;Sikorisalat, rå;94;64;15;0,6;0,9;0,5
+06.124;Sjalottløk, rå;93;100;24;0,2;3,3;1,5
+06.062;Sjampinjong, norsk,  rå;90;92;22;0,3;0,3;3,6
+06.110;Skorsonnerot, svartrot, rå;77;308;73;0,4;10,5;3,3
+06.065;Spinat, fryst, rå;94;89;21;0,6;0,7;2,3
+06.064;Spinat, rå;91;93;22;0,4;0,3;3,3
+06.067;Spisskål, rå;92;77;18;0,3;0,9;2,1
+06.085;Squash, zucchini, rå;95;71;17;0,2;2,2;1,3
+06.068;Stangselleri, norsk, rå;92;64;15;0,1;1,3;1,1
+06.198;Steinsopp, rå;90;125;30;0,2;2,4;3,1
+06.136;Søtpotet, rå;77;339;80;0;16,8;1,6
+06.753;Tomat, importert, rå;94;52;12;0,2;1,2;0,9
+06.069;Tomat, norsk, rå;94;74;18;0,2;2,5;0,7
+06.754;Tomat, uspesifisert, rå;94;74;18;0,2;2,5;0,7
+06.199;Traktkantarell, rå;92;99;24;0,8;0,4;2,2
+06.147;Vannkastanje, rå;80;220;52;0,2;10,4;1,4
+06.113;Vårløk, rå;90;98;23;0,2;2,3;1,8
+06.192;Wasabirot, rå;69;435;103;0,6;15,7;4,8
+06.193;Yams, rå;70;469;111;0,2;23,8;1,5
+06.126;Østerssopp, rå;89;108;26;0,3;2,6;2
+06.719;Blomkål, kokt;92;99;23;0,2;2,3;1,9
+06.725;Brokkoli, kokt;89;126;30;0,3;2,1;3,2
+06.718;Gulrot, kokt;89;151;36;0,1;6,7;0,7
+06.720;Hodekål, kokt;90;135;32;0,1;5,2;1,4
+06.721;Kålrot, kokt;89;148;35;0;6,4;0,9
+06.722;Løk, kokt;88;133;32;0;5,7;1,1
+06.716;Paprika, grønn, kokt;93;82;20;0,2;2,7;0,8
+06.717;Paprika, rød, kokt;91;121;29;0,2;4,7;1,1
+06.727;Persillerot, kokt;83;194;46;0,3;7,3;1,7
+06.723;Purre, kokt;87;117;28;0,2;3,6;1,6
+06.101;Søtpotet, med skall, kokt uten salt;75;358;85;0;17,9;1,7
+06.724;Tomat, kokt;94;74;18;0,2;2,5;0,7
+06.076;Agurker, syltede;83;156;37;0,7;6,1;0,7
+06.014;Asparges, hermetisk, avrent;94;99;24;0,6;1,6;2,1
+06.148;Babymais, minimais, hermetisk;92;110;26;0,4;2;2,9
+06.119;Bambusskudd, hermetisk;92;58;14;0,2;0,7;1,5
+06.075;Blomkål, bønner, erter, gulrot, fryst;87;176;42;0,2;6,1;2,2
+06.072;Blomkål, erter, gulrot, fryst;87;177;42;0,2;5,8;2,6
+06.073;Erter, gulrot, fryst;83;227;54;0,3;7,7;3
+06.074;Erter, gulrot, mais, fryst;81;269;64;0,5;9,9;3
+06.140;Ingefær, syltet;91;129;30;0,2;6,3;0,6
+06.129;Kapers, hermetisk;84;104;25;0,9;0,4;2,4
+06.039;Kastanjer, ristede;40;776;184;2,2;34;3,2
+06.079;Ketchup, tomatketchup;70;454;107;0,4;23,5;1,8
+06.736;Mais, hermetisk;78;360;85;1,1;15,4;2,5
+06.139;Nori, tørket tang;12;1084;255;0,5;54,8;7,9
+06.176;Oliven, grønne, med paprikafyll;79;535;130;13,1;1,1;0,6
+06.556;Oliven, grønne, pickles;75;620;151;15,3;0,5;1
+06.611;Oliven, sorte, i olje, hermetisk;43;1432;348;36;1,8;2,2
+06.077;Rødbeter, syltede;84;252;59;0,1;12,5;1,3
+06.063;Sjampinjong, hermetisk, avrent;93;95;23;0,5;0;3,4
+06.078;Surkål, kjøpt;86;124;29;0;5,1;1,4
+06.149;Tacosaus;90;115;27;0,1;4;1,9
+06.142;Tacosaus, medium, Old El Paso;90;113;27;0;3,9;1,9
+06.141;Tacosaus, medium, Santa Maria;89;117;28;0,1;4;1,9
+06.081;Tomat, hakket, tetrapak;93;99;24;0,2;4;0,8
+06.070;Tomat, hermetisk;94;87;20;0,2;3,3;0,8
+06.103;Tomater, soltørkede, innlagte i olje, avrent;55;797;193;12,5;8,7;5
+06.102;Tomater, soltørkede, tørr;14;1179;280;3;43;14,1
+06.071;Tomatjuice;94;76;18;0;3;0,8
+06.150;Tomatpuré;72;457;108;0,1;23,2;3,5
+06.080;Tomatpuré, hermetisk;72;354;84;0,2;14,5;4,8
+06.135;Vannkastanjer, hermetiske;86;161;38;0;7,4;0,9
+06.106;Wokblanding, klassisk;88;144;34;0,3;4,8;1,9
+06.178;Adzukibønner, tørr;13;1312;310;0,5;50,2;19,9
+06.741;Aspargesbønner, fryst;89;115;28;0,2;3;1,7
+06.098;Aspargesbønner, rå;91;114;27;0,1;3,4;1,7
+06.180;Bondebønner, hestebønner, tørr;12;1331;316;1,7;41,9;25
+06.181;Borlottibønner, tørr;10;1367;324;2;47,7;20,2
+06.735;Brune bønner, kokt;64;527;125;0,6;17,8;8,8
+06.023;Brune bønner, tørre;11;1319;313;1,5;44,6;22
+06.197;Edamamebønner, soyabønner, fryst;75;543;130;7,2;2,8;11,2
+06.027;Erter, fryst;78;284;68;0,4;8;5,2
+06.028;Erter, grønne, hermetisk, avrent;82;267;64;1;7;4,3
+06.029;Erter, tørre;13;1410;334;2,4;50;21,6
+06.134;Hvite bønner, store, hermetiske;70;411;98;0,8;12,4;6,9
+06.084;Hvite bønner, tørre;11;1318;312;0,8;45,2;23,4
+06.133;Kidneybønner, røde, hermetiske;68;448;106;0,7;12,7;8,8
+06.128;Kikerter, hermetiske;67;522;124;2,5;14,8;7,5
+06.091;Kikerter, tørre;10;1436;341;5,4;46,4;21,3
+06.179;Limabønner, smørbønner, tørr;10;1297;307;0,7;44,4;21,5
+06.105;Linser, grønne og brune, kokte med salt;65;509;120;0,8;16,3;9,8
+06.104;Linser, grønne og brune, tørre;11;1297;307;2;41,6;25,1
+06.130;Linser, grønne, hermetiske;74;387;92;0,6;13,1;6,3
+06.131;Linser, røde, hermetiske;76;380;90;0,5;12,4;6,9
+06.184;Linser, røde/rosa, tørr;8;1462;346;2,2;52,3;23,9
+06.187;Meterbønner, rå;88;192;45;0,4;7;2,8
+06.089;Mungbønner, tørre;11;1248;295;1,1;42,4;23,9
+06.090;Røde bønner, tørre;11;1242;294;1,4;40,5;22,1
+06.083;Soyabønner, tørre;8;1599;383;18,6;10,3;35,9
+06.031;Sukkererter, norsk, rå;86;176;42;0,1;5,3;3,5
+06.132;Svarte bønner, hermetiske;69;447;106;1;12,8;8,1
+06.191;Svartøyebønner, tørr;12;1371;324;1,3;49,4;23,5
+06.024;Tomatbønner, hvite bønner, i tomatsaus, hermetisk;75;390;93;1,4;12,4;5,6
+06.517;Ananas, rå;86;216;51;0,1;11,4;0,5
+06.520;Appelsin, rå;88;157;37;0,1;7,2;0,9
+06.521;Aprikos, rå;86;219;52;0,4;9,7;1,4
+06.764;Aronia, svartsurbær, rå;85;210;50;0,1;8,8;0,7
+06.524;Avocado, rå;71;787;191;19,6;0,4;1,8
+06.525;Banan, rå;76;352;83;0,3;18,1;1,1
+06.501;Bjørnebær, rå;88;167;40;0,5;4,9;1,4
+06.774;Blokkebær, mikkelsbær, rå;85;268;63;0;14,3;0,6
+06.502;Blåbær, rå;83;215;51;0,9;7,5;1
+06.503;Bringebær, rå;87;122;29;0,4;3,2;1,1
+06.768;Carambola, stjernefrukt, rå;91;154;36;0,3;7,3;0,5
+06.595;Cherimoya, rå;79;295;70;0,7;12,9;1,6
+06.755;Drue, blå, rå;83;226;53;0,2;11,7;0,7
+06.756;Drue, grønn, rå;82;298;70;0,2;16;0,7
+06.528;Drue, uspesifisert, rå;83;262;62;0,2;13,8;0,7
+06.620;Eple, Granny Smith, Golden Delicious, rå;88;182;43;0;9,4;0
+06.757;Eple, importert, rå;86;208;49;0,2;10,6;0,3
+06.621;Eple, Ingrid Marie, rå;86;206;49;0;11;0
+06.529;Eple, norsk, uspesifisert, rå;86;199;47;0,1;10;0,3
+06.622;Eple, Rød aroma, rå;87;210;50;0;11,2;0
+06.758;Eple, uspesifisert, rå;86;206;49;0,2;10,6;0,3
+06.532;Fersken, rå;89;179;42;0,2;8,4;0,9
+06.770;Galiamelon, rå;92;111;26;0,1;5,6;0,5
+06.596;Granateple, rå;78;336;80;1,2;13,7;1,7
+06.538;Grapefrukt, rå;89;143;34;0,1;6,9;0,9
+06.597;Guava, rå;85;163;39;1;5;0,8
+06.610;Honningmelon, rå;90;159;37;0,1;8,1;0,5
+06.598;Hyllebær, rå;80;196;47;0,5;6,5;0,7
+06.629;Jackfrukt, rå;73;409;97;0,6;20,2;1,7
+06.504;Jordbær, rå;88;144;34;0,2;6,6;0,5
+06.599;Kaktusfiken, rå;85;208;49;0,3;9,7;0,7
+06.600;Kantaloupemelon, rå;90;163;38;0,2;7,9;0,8
+06.506;Kirsebær, rå;83;174;41;0;9;0,7
+06.539;Kiwi, rå;85;210;50;0,9;8,3;0,8
+06.526;Klementin, rå;86;190;45;0,2;9,2;0,8
+06.623;Kokebanan, melbanan, plantain, rå;65;557;131;0,4;29,6;1,3
+06.769;Kokosnøtt, rå;47;1474;358;33,5;6,2;3,3
+06.619;Krekling, krøkebær, rå;88;158;38;0,5;5,3;0,3
+06.601;Kumquat, rå;81;275;66;0,9;9,4;1,9
+06.603;Lime, rå;88;70;17;0,2;1,7;0,7
+06.604;Litchi, rå;82;300;71;0,4;15,2;0,8
+06.542;Mango, rå;86;209;49;0,3;10,4;0,7
+06.508;Molter, rå;84;191;46;1,1;4,4;1,6
+06.507;Moreller, rå;83;221;52;0,1;11,3;0,9
+06.630;Nashi, asiatisk pære, rå;88;166;39;0,2;7;0,5
+06.605;Nektarin, rå;86;205;48;0,3;9,8;1
+06.772;Nype, rå;83;224;53;0,5;8,6;0,6
+06.606;Papaya, rå;88;197;47;0,3;9,5;0,7
+06.607;Paradisepler, rå;79;132;31;0,3;5,8;0,4
+06.581;Pasjonsfrukt, rå;75;184;44;0,4;5,8;2,6
+06.766;Physalis, rå;80;268;64;0,6;10,7;1,8
+06.544;Plomme, rå;84;186;44;0,1;9,3;0,5
+06.771;Pomelo, rå;90;141;33;0,2;6,8;0,6
+06.759;Pære, importert, rå;85;186;44;0,1;8,9;0,4
+06.546;Pære, norsk, rå;84;182;43;0,1;8;0,4
+06.760;Pære, uspesifisert, rå;85;185;44;0,1;8,8;0,4
+06.631;Rambutan, rå;80;319;75;0,4;16,3;1
+06.512;Rips, rå;81;223;53;1,2;6,9;1,2
+06.773;Rognebær, rå;86;167;40;0;6,3;0,7
+06.767;Sharon, kakifrukt, rå;75;274;65;0,3;12;0,7
+06.550;Sitron, rå;89;95;23;0,3;2,5;1,1
+06.513;Solbær, rå;78;230;55;1;7,6;1,3
+06.514;Stikkelsbær, rå;89;155;37;0,6;5,4;0,8
+06.632;Tamarind, rå;31;1086;256;0,6;57,4;2,8
+06.624;Tindved, havtorn, rå;83;352;85;5;6,3;0,7
+06.765;Tranebær, rå;87;117;28;0,1;4;0,4
+06.515;Tyttebær, rå;83;183;44;0,6;7;0,7
+06.543;Vannmelon, rå;90;150;35;0,1;7,6;0,8
+06.518;Ananas, hermetisk, med egen saft;87;217;51;0;12,2;0,3
+06.519;Ananas, hermetisk, med sukkerlake;82;293;69;0;16,5;0,5
+06.628;Appelsinskall, rå;72;362;87;0,2;14,4;1,5
+06.522;Aprikos, hermetisk, med sukkerlake;82;297;70;0;16,1;0,5
+06.523;Aprikos, tørket;40;768;181;0,5;39,4;2,2
+06.527;Daddel, tørket;15;1267;299;0,2;68;3,3
+06.530;Eple, hermetisk;82;291;69;0,5;15;0,2
+06.531;Eple, tørket;22;1152;272;0,5;60,1;2
+06.533;Fersken, hermetisk, med egen saft;87;182;43;0;9,7;0,6
+06.534;Fersken, hermetisk, med sukkerlake;81;254;60;0;14;0,5
+06.535;Fiken, tørket;30;1070;253;0,9;53;3,3
+06.536;Fruktcocktail, hermetisk, med egen saft;87;214;50;0;11,7;0,4
+06.537;Fruktcocktail, hermetisk, med sukkerlake;82;266;63;0;14,8;0,4
+06.505;Jordbær,  250 g sukker pr. kg bær, fryst;70;488;115;0,2;27;0,5
+06.588;Jordbær, 100 g sukker pr. kg bær, fryst;80;322;76;0,2;17,1;0,5
+06.540;Kompott, av frukt og bær;72;465;110;0;26,7;0,2
+06.565;Marmelade, 25 % appelsin, 65 % sukker;30;1175;276;0;68,6;0,3
+06.509;Molter, 250 g sukker pr. kg bær, fryst;67;535;127;0,9;26,2;1
+06.625;Papaya, tørket;30;1099;259;0,6;57,6;3,4
+06.545;Plomme, hermetisk, med sukkerlake;75;392;92;0,1;22;0,3
+06.608;Pære, hermetisk, med egen saft;87;161;38;0;8,5;0,3
+06.548;Pære, hermetisk, med sukkerlake;83;237;56;0;13,2;0,2
+06.549;Rosiner;17;1174;277;1;62,6;3
+06.626;Sitronskall;82;213;51;0,3;5,4;1,5
+06.552;Svisker;37;712;168;0,3;36,5;2,3
+06.762;Syltetøy, 40 % bær, 40 % sukker;47;740;174;0,1;42,4;0,3
+06.591;Syltetøy, 45 % bær, 25 % sukker;67;551;130;0,1;31,4;0,3
+06.763;Syltetøy, 60 % bær, 30 % sukker;57;602;142;0,2;33,6;0,5
+06.761;Syltetøy, 60 % bær, uten tilsatt sukker;72;92;22;0,2;3,6;0,5
+06.516;Tyttebær, 500 g sukker pr.kg bær, fryst;57;723;170;0,3;40,6;0,5
+06.195;Anisfrø;9;1607;384;15,9;35,4;17,6
+06.111;Basilikum, rå;92;90;21;0,6;0;3,2
+06.151;Basilikum, tørket;10;1013;244;4,1;10;23
+06.152;Chilipulver;11;1289;311;14,3;14,9;13,5
+06.120;Dill, rå;86;200;48;1,1;4,9;3,5
+06.183;Estragon, tørket;8;1442;342;7,2;42,8;22,8
+06.153;Gurkemeie, malt;13;1222;291;3,2;44,4;9,7
+06.154;Hvitløkspulver;6;1464;346;0,7;63,7;16,6
+06.155;Ingefær, malt;10;1442;342;4,2;60;9
+06.156;Kanel, malt;10;1016;246;1,2;28,1;4
+06.157;Kardemomme, malt;8;1343;321;6,7;40,5;10,8
+06.158;Karri, malt;9;1234;301;14;2,8;14,3
+06.159;Karve, kummin, hel;10;1382;334;14,6;11,9;19,8
+06.121;Koriander, rå;92;98;24;0,5;1,2;2,1
+06.160;Koriander, tørket;7;1338;317;4,8;41,5;21,9
+06.194;Korianderfrø;9;1425;345;17,8;13,1;12,4
+06.177;Laurbærblad, tørket;5;1477;353;8,4;48,6;7,6
+06.186;Merian, tørket;8;1142;276;7;20,3;12,7
+06.161;Muskat, malt;6;2093;506;36,3;28,5;5,8
+06.162;Nellik, malt;10;1391;335;13;31,6;6
+06.163;Oregano, tørket;10;1018;246;4,3;21,6;9
+06.164;Paprikapulver;11;1308;315;12,9;18,3;14,1
+06.165;Pepper, cayenne, rød;8;1561;375;17,3;29,4;12
+06.166;Pepper, hvit;11;1186;283;2,1;42,4;10,4
+12.111;Pepper, sort;13;1159;277;3,3;38,7;10,4
+06.050;Persille, norsk, rå;85;135;32;0,4;1,6;3,1
+06.167;Persille, tørket;6;1276;305;5,5;23,9;26,6
+06.168;Rosmarin, rå;68;498;120;5,9;6,6;3,3
+06.169;Rosmarin, tørket;8;1776;427;15,2;46,4;4,9
+06.189;Safran, tørket;12;1487;352;5,8;61,5;11,4
+06.170;Sennepsfrø;5;2152;518;36,2;15,9;26,1
+06.171;Timian, rå;65;446;107;1,7;10,4;5,6
+06.172;Timian, tørket;8;1183;285;7,4;26,9;9,1
+06.173;Valmuefrø;6;2050;497;41,6;3;18
+09.003;Honning;19;1346;317;0;78,9;0,3
+09.004;Melis;0;1700;400;0;100;0
+09.008;Melkepålegg, med sukker, Hapå;30;1301;308;6;58;5,5
+09.131;Nøttepålegg, med mindre sukker, Nugatti;4;2034;489;29,7;41,1;6,3
+09.009;Nøttepålegg, Nugatti;1;2195;525;28,1;62,1;4,9
+09.015;Sirup;21;1261;297;0;74,1;0,1
+09.132;Sjokoladepålegg, med mindre sukker, Sjokade;12;1625;390;18,7;47,4;1,1
+09.010;Sjokoladepålegg, Sjokade;14;1734;414;19;59;1,1
+09.001;Sukker, brunt;2;1598;376;0;94;0
+09.002;Sukker, hvitt;0;1700;400;0;100;0
+09.108;Vaniljesukker;8;1549;364;0;91,1;0
+09.128;Geléfrukt, Seigmenn;19;1243;292;0;65,5;7,6
+09.013;Karamell;7;1569;376;22;42,9;1,5
+09.125;Karamell, med sjokoladetrekk;5;1902;455;23,6;56;4,2
+09.111;Kokosbolle;22;1578;376;14,8;55,2;4,5
+09.030;Lakris, søt;14;1402;330;0,5;76,8;4,1
+09.113;Lakriskonfekt;8;1637;387;5,2;78,8;5,6
+09.130;Marsipan, 30 % mandler;7;1867;444;16,7;66,1;6,3
+09.016;Marsipan, 50 % mandler;3;2121;508;27,5;52,7;10,5
+09.101;Marsipanbrød, med sjokoladetrekk;3;2148;514;29,5;52;9
+09.021;Pastiller;9;1091;257;1,6;60;0,7
+09.124;Pastiller, uten sukker;12;193;48;0,1;0;0,8
+09.103;Sjokolade, fylt, konfekt;6;2036;487;24,3;60,2;5,2
+09.134;Sjokolade, hvit;1;2272;544;30,9;58,3;8
+09.104;Sjokolade, kokesjokolade, lys;1;2201;527;29,5;56,7;7
+09.019;Sjokolade, kokesjokolade, mørk;1;2134;511;27,6;56,8;6,2
+09.157;Sjokolade, Mars;7;1780;423;15,3;66,6;4,1
+09.117;Sjokolade, med gelé og marsipan, Troika;11;1866;445;17,8;65,6;3,7
+09.102;Sjokolade, med kjeks;1;2206;528;30,4;54,1;7,9
+09.156;Sjokolade, med kokosfyll, Bounty;9;1999;478;25,7;56,1;3,6
+09.154;Sjokolade, med mandelkrokan, Daim;1;2257;540;31,1;60,1;4,1
+09.155;Sjokolade, med mintfyll, After Eight;4;1712;404;4,6;88,1;2,6
+09.018;Sjokolade, med nøtter;1;1966;470;24,3;51,9;9,1
+09.017;Sjokolade, melkesjokolade;1;2256;541;32,3;53,1;8,1
+09.116;Sjokolade, melkesjokolade, porøs;1;2177;521;30,3;51,8;9,1
+09.158;Sjokolade, Milky Way;6;1956;465;15,7;76,6;3,8
+09.133;Sjokolade, mørk, 70 % kakao;1;2423;584;46,5;33,2;7
+09.105;Sjokolade, småsjokolader;5;1918;458;22,4;56,7;6,5
+09.159;Sjokolade, Snickers;5;2081;498;28,2;52,2;7,5
+09.160;Skumgodt, Ahlgrens biler;9;1544;363;0,1;83,7;6,9
+09.127;Skumgodt, marshmallows;17;1119;263;0;61,9;3,9
+09.106;Smågodt, blandet, uten sjokolade;13;1570;369;0;88,5;3,8
+09.107;Smågodt, salte;20;1217;286;0;62,9;8,5
+09.022;Sukkertøy, drops;3;1377;324;0;78;3
+09.129;Tyggegummi, med sukker;3;1384;326;0;81;0,4
+08.103;Brelett;50;1599;388;40;3;4
+08.102;Bremykt;16;3051;742;82;0,5;0,5
+08.232;Bremykt, flytende;17;3011;732;81;0,5;0,3
+08.252;Ghee;0;3613;879;97,6;0;0,1
+08.253;Ghee, vegetabilsk;0;3694;898;99,8;0;0,1
+08.243;Margarin, bordmargarin, 60 % fett;38;2237;544;60;0,5;0,5
+08.242;Margarin, bordmargarin, 80 % fett;17;2977;724;80;0,5;0,5
+08.238;Margarin, hard;17;2968;722;80;0,3;0,2
+08.212;Margarin, Melange;17;2968;722;80;0,3;0,2
+08.213;Margarin, Melange, flytende;18;2972;723;80;0,4;0,3
+08.244;Margarin, Melange, uten salt og melk, folie;20;2960;720;80;0;0
+08.239;Margarin, myk;28;2598;632;70;0,3;0,2
+08.246;Margarin, Soft ekstra, beger;28;2607;634;70;0,5;0,5
+08.223;Margarin, Soft Flora lett;57;1497;364;40;0,5;0,5
+08.222;Margarin, Soft Flora, folie;17;2977;724;80;0,5;0,5
+08.221;Margarin, Soft Flora, original;28;2598;632;70;0,3;0,2
+08.245;Margarin, Soft Spesial, redusert saltinnhold;19;2960;720;80;0;0
+08.241;Margarin, stekemargarin;12;3162;769;85;0,5;0,5
+08.228;Margarin, Vita Hjertego´;28;2598;632;70;0,3;0,2
+08.229;Margarin, Vita Hjertego´ lett;58;1497;364;40;0,5;0,5
+08.117;Margarin, Vita Hjertego´, flytende;13;3155;767;85;0,4;0,2
+08.118;Margarin, Vita Pro aktiv;63;1305;317;35;0,1;0,5
+08.230;Matfett, Flott;0;3700;900;100;0;0
+08.240;Matlagingsfett, uspesifisert;13;3170;771;85,4;0,3;0,3
+08.005;Smør;16;3051;742;82;0,5;0,5
+08.247;Smør, meierismør, ekstra salt, Kviteseidsmør;16;3014;733;81;0,5;0,5
+08.237;Smør, usaltet;16;3088;751;83;0,5;0,5
+08.111;Frityrolje;0;3663;891;98,9;0;0,2
+08.104;Hvetekimolje;0;3700;900;99,9;0;0,2
+08.001;Kokosfett;0;3700;900;100;0;0
+08.249;Kokosnøttolje;0;3696;899;99,9;0;0
+08.251;Linfrøolje;0;3700;900;100;0;0
+08.006;Maisolje;0;3666;892;99;0;0,2
+08.019;Olivenolje;0;3666;892;99;0;0,2
+08.112;Olivenolje, extra virgin, jomfruolje;0;3656;889;98,8;0;0
+08.236;Palmeolje;0;3700;900;100;0;0
+08.234;Peanøttolje;0;3666;892;99;0;0,2
+08.248;Raps- og solsikkeolje, Melange;0;3700;900;100;0;0
+08.235;Rapsolje;0;3666;892;99;0;0,2
+08.113;Rapsolje, kaldpresset, Odelia;0;3700;900;100;0;0
+08.105;Sesamolje;0;3692;898;99,7;0;0,2
+08.106;Solsikkeolje;0;3629;883;98;0;0,2
+08.007;Soyaolje;0;3700;900;100;0;0
+08.250;Valnøttolje;0;3696;899;99,9;0;0
+08.114;Vita Hjertego´ olje;0;3700;900;100;0;0
+08.122;Crabsticksalat, majonessalat, 25 % fett;63;1031;250;23,7;4,2;4,8
+08.125;Dressing, majonestype, 15 % fett;67;768;185;13,3;14,9;1,2
+08.126;Dressing, majonestype, 30 % fett;56;1223;295;26,4;12,8;1,6
+08.016;Dressing, majonestype, 40 % fett;46;1675;406;40;10,5;1
+08.127;Dressing, majonestype, 55 % fett;36;2136;518;54;4,2;3,9
+08.130;Eggesalat, majonessalat, 37 % fett;53;1508;365;36,8;1,7;6,8
+08.121;Frokostsalat, majonessalat, med ostemasse;45;1821;442;45,6;1,8;6,1
+08.128;Italiensk salat, majonessalat, 37 % fett;54;1482;360;37,3;4,4;1
+08.022;Majones, ekstra lett, 25 % fett;67;1062;257;26,1;4,9;0,7
+08.009;Majones, ekte;16;2994;728;79,6;2;0,9
+08.011;Majones, lett, 40 % fett;50;1622;394;40,6;6,3;0,7
+08.010;Majones, lett, 50 % fett;43;1915;465;48,6;6,1;0,7
+08.123;Rekesalat, majonessalat, 35 % fett;52;1480;359;36;5,2;3,2
+08.013;Remulade;26;2538;617;65,6;5,6;0,9
+08.129;Rødbetsalat, majonessalat, 30 % fett;58;1305;317;31,6;6,2;1,2
+08.201;Salatdressing, olje og eddik, fransk dressing;47;1705;414;45,8;0,5;0,1
+08.017;Salatdressing, uten fett;81;260;61;0,1;15;0,1
+08.124;Sennepssaus;36;1826;441;39,8;17,8;2,6
+08.202;Waldorfsalat;65;999;242;23,1;5,6;1,9
+08.008;Tran, Møllers;0;3700;900;100;0;0
+08.030;Tran, Møllers Dobbel, kapsler;0;2785;675;67;0;18
+08.031;Tran, Nycoplus Apotekets tran;0;3700;900;100;0;0
+13.079;Café au lait;92;131;31;1,8;2,2;1,7
+13.040;Caffe latte, enkel, med helmelk;86;243;58;3,4;3,9;3
+13.041;Caffe latte, enkel, med lettmelk;89;174;41;1,3;4,4;3
+13.081;Caffe mocca;76;383;91;2,1;15,7;2,2
+13.038;Cappucino, enkel, med helmelk;86;220;53;3;3,6;2,8
+13.039;Cappucino, enkel, med lettmelk;88;160;38;1,2;4;2,8
+13.080;Cortado, enkel;92;135;32;1,8;2,2;1,7
+13.069;Espresso, enkel;82;37;9;0;1,3;0,9
+13.034;Kaffe, pulver, tilberedt;99;2;0;0;0;0,1
+13.009;Kaffe, traktet, kokt;99;3;1;0;0;0,1
+13.078;Macchiato, enkel;96;318;76;4,3;5,3;4
+13.072;Mineralvann, med kullsyre, Bonaqua naturell;100;0;0;0;0;0
+13.073;Mineralvann, med kullsyre, Bris naturell;100;0;0;0;0;0
+13.074;Mineralvann, med kullsyre, Farris naturell;100;0;0;0;0;0
+13.076;Mineralvann, med kullsyre, Olden;100;0;0;0;0;0
+13.075;Mineralvann, uten kullsyre, Bonaqua naturell;100;0;0;0;0;0
+13.077;Mineralvann, uten kullsyre, Olden;100;0;0;0;0;0
+13.042;Te, grønn, tilberedt;100;2;0;0;0;0,1
+13.010;Te, svart, tilberedt;99;2;0;0;0;0,1
+13.033;Vann, drikkevann;100;0;0;0;0;0
+06.775;Ananasjuice;86;213;50;0,1;11,8;0,4
+06.568;Appelsinjuice;88;184;43;0,2;9,6;0,7
+06.585;Appelsinsaft, drikkeklar;91;146;34;0;8,5;0,1
+06.569;Appelsinsaft, ublandet;56;733;173;0;42,7;0,4
+13.044;Brus, Bitter lemon;90;187;44;0;11;0
+13.047;Brus, cola, kunstig søtet, lett;99;0;0;0;0;0
+13.045;Brus, cola, med sukker;90;180;42;0;10,6;0
+13.048;Brus, fruktjuice, kunstig søtet, lett, Solo light, Mozell light o.l.;100;17;4;0;1;0
+13.046;Brus, fruktjuice, med sukker, Solo, Mozell o.l.;88;186;44;0;11;0
+13.004;Brus, sitronsmak, kunstig søtet, lett;100;0;0;0;0;0
+13.003;Brus, sitronsmak, med sukker;90;170;40;0;10;0
+13.043;Brus, Tonic water;90;153;36;0;9;0
+06.728;Druejuice;84;281;66;0,1;16;0,3
+13.064;Energidrikk, tilsatt taurin, koffein og B-vitaminer;88;210;49;0;12,1;0,2
+13.065;Energidrikk, tilsatt taurin, koffein og B-vitaminer, sukkerfri;88;14;3;0;0,4;0,4
+06.571;Eplejuice, most;88;180;42;0,1;10,2;0
+06.586;Eplenektar;89;182;43;0,1;10,3;0,1
+06.776;Grapefruktjuice;90;168;39;0,1;9,1;0,5
+13.101;Havredrikke, sjokoladesmak, tilsatt kalsium og vitaminer;85;176;42;1,3;6;1
+13.068;Havredrikke, tilsatt kalsium og vitaminer;90;192;46;1,6;6,5;0,9
+06.590;Husholdningssaft, drikkeklar;89;178;42;0;10,4;0,1
+06.589;Husholdningssaft, ublandet, kjøpt;48;863;203;0,1;50,4;0,1
+13.070;Iste, kunstig søtet, lett, Nestea;100;0;0;0;0;0
+13.071;Iste, Nestea;100;76;18;0;4,5;0
+13.097;Kokosvann;95;76;18;0;4,5;0
+13.036;Leskedrikk, kunstig søtet, drikkeklar;99;15;4;0;0,9;0
+13.098;Mandeldrikke;94;109;26;1,3;3,5;0
+13.099;Mandeldrikke, tilsatt kalsium og vitaminer;94;109;26;1,3;3,5;0
+13.100;Risdrikke;87;152;36;0,9;6,9;0,1
+06.584;Saft, 1000 g sukker pr. l råsaft, drikkeklar;89;183;43;0;10,7;0,1
+06.567;Saft, 1000 g sukker pr. l råsaft, ublandet;46;923;217;0,1;53,4;0,7
+06.583;Saft, 500 g sukker pr. l råsaft, drikkeklar;90;165;39;0;9,5;0,2
+06.566;Saft, 500 g sukker pr. l råsaft, ublandet;61;661;156;0,1;37,8;0,9
+06.729;Sitronsaft, flaske;91;33;8;0;1,6;0,3
+13.062;Smoothie, med juice, banan og bær;83;241;57;0,3;11,8;0,9
+13.061;Smoothie, med yoghurt, juice, banan og bær;84;251;60;1,2;9,9;1,7
+06.731;Solbærsaft, 1000 g sukker pr. l råsaft, drikkeklar;89;183;43;0;10,7;0,1
+06.732;Solbærsaft, 1000 g sukker pr. l råsaft, ublandet;46;923;217;0,1;53,4;0,7
+06.613;Solbærsaft, 500 g sukker pr. l råsaft, drikkeklar;90;165;39;0;9,5;0,2
+06.730;Solbærsaft, 500 g sukker pr. l råsaft, ublandet;61;661;156;0,1;37,8;0,9
+06.587;Solbærsirup, drikkeklar;92;136;32;0;7,9;0,1
+06.574;Solbærsirup, ublandet;52;821;193;0,1;47,3;0,8
+13.066;Soyadrikke, tilsatt kalsium, søtet;90;183;44;2,4;2,2;3,1
+13.067;Soyadrikke, tilsatt kalsium, usøtet;90;170;41;1,9;1,1;4
+06.777;Tranebærjuice;87;218;51;0,1;12,1;0,4
+06.627;Tropisk juice;89;183;43;0;10,5;0,2
+13.012;Brennevin, 40 vol-% alkohol;65;1013;244;0;2,1;0
+13.011;Brennevin, 60 vol-% alkohol;47;1530;369;0;0;0
+13.063;Cider, søt, 4,5 vol-% alkohol;89;249;59;0;8,5;0
+13.057;Dessertvin, ekstra søt, musserende;87;316;76;0;3,7;0,2
+13.023;Gulløl, 5,7 vol-% alkohol;90;245;58;0;6,1;0,5
+13.015;Hetvin, søt, 17 vol-% alkohol;75;578;138;0;9,8;0,3
+13.018;Hetvin, tørr, 15 vol-% alkohol;82;401;96;0;3;0,1
+13.056;Hvitvin, halvsøt/søt, inkl musserende;88;298;72;0;3,4;0,2
+13.031;Hvitvin, halvtørr, 10 vol-% alkohol;86;299;72;0;0,6;0,1
+13.058;Hvitvin, rosé, musserende;81;435;104;0;6;0,2
+13.032;Hvitvin, tørr, 12 vol-% alkohol;89;287;69;0;0,6;0,1
+13.022;Lettøl, lett, 2,5 vol-% alkohol;94;104;25;0;2,5;0,2
+13.054;Likør, 17 vol-% alkohol, fløtebasert;46;1263;303;13;22,5;3
+13.014;Likør, 35 vol-% alkohol;42;1309;313;0;27,5;0
+13.053;Likør, søt, 21 vol-% alkohol;55;943;225;0;29,9;0
+13.051;Mørkt øl, Bayer og juleøl, 4,5-4,7 vol-% alkohol;91;177;42;0;4,1;0
+13.024;Pils, 4,7 vol-% alkohol;91;170;41;0;3,2;0,4
+13.017;Rødvin, 12 vol-% alkohol;88;308;74;0;0,7;0,1
+13.059;Rødvin, tørr;88;266;64;0;0,2;0,1
+13.060;Rødvin, uspesifisert;88;289;70;0;0,5;0,1
+13.055;Sterkvin, søt, portvin, 20 vol-% alkohol;72;629;151;0;9,6;0,1
+13.052;Sterkvin, søt, vermouth, 15 vol-% alkohol;72;545;130;0;13,3;0
+13.049;Sterkøl, bokkøl, 6,5 vol-% alkohol;88;265;63;0;6;0,7
+13.007;Vin, alkoholfri;95;71;17;0;4;0,2
+13.030;Vin, alkoholsvak;93;150;36;0;6,1;0
+13.025;Vørterøl;89;161;38;0;9,1;0,4
+13.026;Øl, alkoholfritt;94;103;24;0;5;0,4
+13.050;Øl, redusert energiinnhold, lavkarbo;94;133;32;0;1;0,4
+09.135;Kjøttkaker med ertestuing, Fjordland;76;458;110;5,5;7,9;5,4
+10.148;Kjøttsuppe med grønnsaker og poteter, Fjordland;84;174;41;1;5;2,6
+09.136;Kokt laks med urtesaus, gulrot og poteter, Fjordland;73;421;101;5,3;6,3;6,3
+03.261;Pai, med skinke og ost;50;1172;281;18,1;15,7;13,5
+05.356;Pannekaker, av pulver, Toro;63;667;158;2;28,2;6,3
+09.144;Pannekaker, grove;65;639;152;4,5;19,6;7,2
+05.246;Pannekaker, med helmelk, stekt i hard margarin;57;851;203;7,9;24,6;7,8
+05.258;Pannekaker, med lettmelk, stekt i hard margarin;59;782;186;5,8;25,1;7,8
+05.133;Pannekaker, med lettmelk, stekt i myk margarin;59;771;183;5,5;25,1;7,8
+05.282;Pannekaker, med skummet melk, stekt i hard margarin;60;739;175;4,6;25,1;7,9
+05.218;Pannekaker, med skummet melk, stekt uten fett;62;653;154;1,9;25,7;8,1
+09.146;Pizza, Big One Classic;50;917;218;7;26,1;11,3
+09.149;Pizza, Big One New York Grilled Steak;51;850;202;5,3;25,2;11,9
+09.148;Pizza, Grandiosa kjøttdeig og løk;52;827;197;6,6;22,8;10,3
+09.145;Pizza, Grandiosa Original;54;833;198;6,7;22;11,1
+09.153;Pizza, kjøpt;50;922;220;8,1;24,4;11
+06.734;Pizza, med tomatsaus og ost;59;763;181;5,2;25,8;6,8
+09.151;Pizza, Ristorante Mozarella;46;1089;260;12,5;24,8;10,8
+09.147;Pizza, Ristorante Speciale;50;988;236;11,6;21,6;10,3
+09.152;Pizza, Stenovnsbakt Tradizionale Diavola;48;955;227;7,8;28,8;9,1
+09.150;Pizza, Take Away Meat Lover by Big One;48;918;218;7;24;13,4
+10.034;Pizzafyllbasis, uten kjøtt;82;274;65;1;12;1,5
+09.137;Svinestek med surkål og poteter, Fjordland;78;333;79;1;11;5,9
+09.141;Taco med skjell/tubs, kjøttdeig, grønnsaker;57;888;212;11,9;9,4;16,6
+09.142;Taco med skjell/tubs, kylling, grønnsaker;67;564;134;3,1;9,4;16,6
+09.143;Taco med skjell/tubs, laks, grønnsaker;54;946;227;13,4;11,4;14,7
+09.138;Taco med tortilla, kjøttdeig, grønnsaker;57;888;212;11,9;9,4;16,6
+09.139;Taco med tortilla, kylling, grønnsaker;67;564;134;3,1;9,4;16,6
+09.140;Taco med tortilla, laks, grønnsaker;58;849;204;12,8;7,1;14
+10.149;Havregrøt, med melk;81;327;78;2,2;9,6;4,1
+05.127;Havregrøt, med vann;89;164;39;0,8;5,8;1,3
+05.245;Risgrøt, med helmelk;79;392;93;2,9;13,5;3,2
+05.128;Risgrøt, med lettmelk;81;334;79;1,2;13,8;3,2
+01.195;Rømmegrøt;66;868;209;15,3;13,2;4,3
+10.015;Bernaisesaus, av pulver;70;914;221;20,7;6,3;2,4
+10.024;Betasuppe, av pulver, tilberedt;90;156;37;0,3;7,2;1
+10.032;Blomkål/brokkolisuppe, Rett i koppen;92;141;34;1;4,7;1,1
+10.012;Blomkålsuppe, av pulver;92;138;33;1;4,3;1,4
+10.128;Brokkkolisuppe, protein- og energirik;M;575;138;9;7;7
+10.016;Brun saus, av blokk;87;231;55;3,5;5;1
+10.017;Brun saus, kjøttkakesaus, av pulver;92;143;34;1,1;5;1
+10.025;Brun saus, med løk, av pulver;90;166;39;1,5;5,5;1
+10.125;Dipsaus, sursøt barbequesaus;68;408;96;0,4;22,6;0,5
+10.020;Ertestuing, av pulver;70;563;134;1,4;19,6;8,1
+10.011;Ertesuppe, av pulver;87;242;57;1;7,5;3,5
+10.023;Fiskesuppe, Bergensk, av pulver;90;165;39;1;5,3;2,2
+10.028;Grytebasis, Jegergryte, uten kjøtt;79;493;118;8,5;8,3;2,1
+10.010;Grytebasis, med pasta, italiensk, uten kjøtt;82;267;63;0,7;12;2,2
+10.009;Grytebasis, med ris, meksikansk, uten kjøtt;82;292;69;0,8;13,3;1,7
+10.008;Grytebasis, orientalsk, uten kjøtt;86;242;57;1,8;8,5;1,7
+10.033;Grytebasis, Pasta di Napoli, uten kjøtt;71;514;122;3;20,2;3,5
+10.029;Grytebasis, Stroganoff, uten kjøtt;85;271;64;2,1;8,5;2,8
+10.018;Hvit saus, av pulver;84;289;69;2,4;7,9;3,9
+12.004;Kjøttbuljong, tilberedt;98;12;3;0,1;0,2;0,3
+10.127;Kyllingsuppe, protein- og energirik;M;574;138;9,2;6,5;7
+06.143;Pesto, grønn, hjemmelaget;16;2606;632;63,6;2,8;11,3
+06.144;Pesto, grønn, kjøpt;31;2142;520;52,9;4,9;5,2
+10.019;Sjysaus, av pulver;95;78;18;0,5;2,5;1
+10.126;Soyasaus;65;355;84;0;17,9;3
+10.013;Tomatsuppe, av pulver;91;152;36;0,8;6,1;1,1
+10.031;Tomatsuppe, med krutonger, Rett i koppen;89;173;41;0,9;7;1,2
+10.014;Tomatsuppe, med makaroni, av pulver;89;180;43;0,8;7,5;1,3
+10.026;Viltsaus, av pulver;85;330;79;4,8;6,4;2,5
+05.291;Eggekrem, vaniljekrem;74;488;116;3,1;16,4;5,5
+10.002;Fromasj, av pulver;64;783;187;10;20;4,3
+10.001;Fruktsaus, av pulver;86;236;56;0;13,9;0
+10.003;Fruktsuppe, av pulver;86;209;49;0;11,8;0,1
+10.004;Gelé, av pulver;78;348;82;0;16,7;3,8
+01.211;Iskrem, fløte, med ekstra sjokolade;50;1148;275;17,7;24,6;4,1
+01.183;Iskrem, fløte, med sjokoladebiter;55;1010;241;12,6;28,1;3,5
+01.018;Iskrem, fløtebasert;64;812;194;10;23;3
+01.081;Iskrem, lettis, med mindre sukker og fett;63;587;140;5;19,8;3,8
+01.241;Iskrem, med kjeks, Krone-is med jordbær;47;1123;268;12;36;3,5
+01.240;Iskrem, med kjeks, Krone-is med sjokolade;42;1254;300;16;35;3,5
+01.244;Iskrem, med kjeks, Lion King Size;40;1362;326;18;36;4,5
+01.199;Iskrem, med kjeks, sjokolade, nøtter;49;1100;263;12,8;32,5;3,9
+01.193;Iskrem, med kjeks, syltetøy, sjokolade;53;981;234;9,4;33,8;3,2
+01.243;Iskrem, pinneis, Royal Mørk;47;1241;298;20;26;3
+01.182;Iskrem, vegetabilsk fett, margarinis, 10 % fett;63;808;193;9,7;23,1;3,3
+01.194;Iskrem, yoghurtis;65;729;173;5,6;26,6;4,1
+01.112;Kakekrem, romsmak, Piano;73;631;151;8,9;15;2,7
+01.078;Karamellpudding, Piano;74;535;128;5,8;16;2,8
+12.010;Karamellsaus;30;1190;280;0;70;0
+05.299;Melisglasur;14;1453;342;0;85,5;0
+10.140;Moltekrem;62;1125;272;24,5;10,2;1,8
+10.005;Nypesuppe, av pulver;87;201;47;0;11,3;0,2
+10.141;Panna cotta;47;1522;367;31,3;18,8;2,6
+01.131;Pudding, mandelsmak, Piano;77;439;104;3,1;16;2,9
+10.142;Riskrem;71;721;173;11,2;15;3
+01.184;Rislunsj med jordbær;72;574;137;5,4;19;2,9
+09.114;Saftis;82;301;71;0;17,7;0
+09.115;Saftis, Lollipop;72;507;120;3,5;22;0,1
+10.143;Sjokoladefondant;31;1730;415;28,5;31,5;7,8
+05.292;Sjokoladeglasur;17;1607;382;11,8;65,2;2,6
+10.144;Sjokolademousse;40;1505;362;24,7;28,1;5,9
+10.006;Sjokoladepudding, av pulver;78;390;92;1,5;16,7;3
+01.020;Sjokoladepudding, Piano;72;517;123;3,9;18;3,3
+12.011;Sjokoladesaus, kjøpt;28;1137;268;1,2;62;2,3
+05.294;Smørkrem, med hard margarin;12;2252;541;39;46,3;1,3
+05.293;Smørkrem, med smør;11;2309;555;40,4;46,2;1,7
+09.110;Sorbet;54;768;181;0,1;43,6;1,3
+10.146;Tilslørte bondepiker, med kavring;60;949;228;14,6;21;2,3
+10.145;Trollkrem;67;545;129;0,4;28,2;1,9
+05.295;Vaniljekrem, med helmelk;74;484;115;3,6;17,6;3
+01.111;Vaniljekrem, Piano;73;620;148;8,6;15;2,7
+10.007;Vaniljesaus, av pulver;82;321;76;1,5;12,6;3
+01.023;Vaniljesaus, Piano;73;613;147;8,4;15;2,7
+12.015;Baconcrisp;2;2519;606;46;0,2;47,9
+13.096;Chilinøtter;3;2162;519;32,3;37,2;16,1
+13.092;Chilinøtter, Den lille nøttefabrikken;3;2208;531;35;31,2;19
+13.091;Chilinøtter, Eldorado;3;2174;522;32;40,3;14,4
+13.090;Chilinøtter, Polly;3;2104;505;30;40;15
+12.016;Ostepop;2;2065;495;30,2;44,4;9,8
+12.012;Popcorn, kjøpt;4;1670;398;14,5;51,4;10,1
+12.028;Popcorn, mikrobølgeovn;1;1909;457;22,1;48;9,4
+12.029;Popcorn, poppet i soyaolje;4;1893;453;23,9;45,7;9
+12.013;Popcorn, uten fett;4;1548;367;4,2;62,8;12
+06.007;Potetchips;2;2156;517;31,5;50,5;5,2
+13.083;Potetchips, Kims;2;2124;509;31;49,6;5,5
+13.082;Potetchips, Maarud;2;2187;525;32;51,4;4,9
+06.082;Potetchips, med mindre fett;5;1917;458;18;63;4
+12.030;Potetchips, stekt i peanøttolje;3;2126;509;29;53,8;6
+13.084;Potetchips, Sørlandschips;4;1967;471;25;50,5;7,8
+06.009;Potetskruer, potetringer;3;2051;490;25,1;60;4,6
+12.014;Saltstenger;5;1604;380;6,3;68,1;10,5
+12.017;Tortillachips, nachochips;2;1987;475;22,4;57,4;7,4
+13.085;Tortillachips, nachochips, Maarud Tortilla Cheese;2;2051;491;27;51,5;7,7
+13.086;Tortillachips, nachochips, Santa Maria;2;1923;459;17,9;63,3;7,1
+06.708;Bønnegryte, vegetarisk;80;296;70;0,4;10,3;4,5
+06.705;Bønnekarbonader, stekt i soyaolje;61;799;192;11,1;14,3;6,9
+06.707;Grønnsaksgryte, med potet;85;237;56;1,5;8,5;1,1
+06.706;Grønnsaksrøre, med tomat, Ratatouille;88;200;48;2,8;3,7;1,2
+06.712;Salat, gresk, med fetaost, oliven;86;287;69;4,8;2,5;3,3
+06.702;Sesampostei/-pasta, tahini;3;2582;626;58,9;0,8;18,5
+06.781;Sopprotein, Quorn;75;375;90;1,4;1,1;14
+06.711;Soyaburger, stekt i vegetabilsk olje;57;815;195;11;11,7;10,6
+06.737;Soyaprotein, teksturert;5;1153;273;5,4;10,2;43,2
+06.703;Soyapølse, hermetisk;66;834;201;15;3,5;12
+06.704;Tofu, soyabønneost;85;322;77;4,2;0,6;8,1
+06.713;Vegetabilsk postei, Tartex;59;1051;253;20;9,6;7,6
+12.018;Bakepulver;6;731;172;0;37,8;5,2
+10.129;Balsamicoeddik;76;262;62;0;15;0,5
+10.130;Butterdeig;32;1655;397;26,2;33,7;5,3
+12.027;Eddik, 7 %;93;17;4;0;0,6;0,4
+10.132;Filodeig;29;1209;285;1,9;57,9;8
+12.117;Floradix;M;310;74;0;18,5;0
+12.110;Gelatin, plater/pulver;13;1459;343;0,1;0;85,6
+12.007;Gjær, pressgjær;69;448;107;1,9;10;8,4
+12.009;Gjær, tørrgjær;5;1426;341;7,6;14,3;40,4
+12.026;Havsalt;4;0;0;0;0;0
+09.011;Kakaopulver;5;1572;379;21,9;11;22,5
+10.131;Karripasta, curry paste;50;1114;269;21,3;11,3;4,7
+06.554;Kokosmasse, usøtet;3;2744;666;64,5;6,4;6,9
+06.701;Kokosmelk;73;861;209;21,3;1,5;2
+06.780;Kokosmelk, mager, hermetisk;88;297;72;7,1;0,8;0,6
+10.147;Kondensert melk, søtet;27;1381;327;8,7;54,4;7,9
+12.023;Mineralsalt;0;0;0;0;0;0
+10.138;Miso, fermentert soyabønnepasta;53;726;172;4,6;21;10,5
+10.136;Multi 0,65 g/stk, Nycoplus;0;25;6;0;0;0
+10.135;Multi Barn 1,1 g/stk, Nycoplus;0;350;84;0;0;0
+10.137;Multi Vitaminmikstur, Nycoplus;0;761;182;0;0;0
+10.133;Natron;0;0;0;0;0;0
+12.022;Salt, bordsalt;0;0;0;0;0;0
+12.025;Salt, bordsalt, jodert, Jozo;0;0;0;0;0;0
+12.116;Sanasol;M;906;213;0,6;51;1
+12.008;Sennep;63;662;158;6,4;18,5;5,7
+12.024;Urtesalt;10;197;47;1,7;0,3;7,6
+12.115;Vitaminbjørner, 2,1 g/stk, Collett;M;438;105;0;26;0
+12.114;Vitamineral, 0,55 g/stk, Vitaplex;M;149;35;0,4;8;0
+10.139;Wonton-ark;29;1192;281;1,5;56,2;9,8
+10.100;Buljongpulver;5;608;144;4,5;9;17
+10.123;Fiskesuppe, Bergensk, pulver;6;1512;358;8,5;52;18
+10.109;Grytebasis, med ris, pulver;6;1566;370;4,5;71;9
+10.110;Grytebasis, med spagetti, pulver;6;1440;340;4;64;12
+06.511;Nypesuppe, pulver;2;1266;299;0,2;71;0,7
+10.124;Potetmospulver, med melk;7;1457;344;1,5;70,7;8,5
+10.021;Sjokoladedrikk, Rett i koppen;83;276;65;0,9;11,8;1,9
+09.109;Sjokoladepulver, Rett i koppen;4;1582;374;5,1;67,5;11,1
+09.012;Sjokoladepulver, uten melk;1;1632;385;2,5;83,3;4,5
+10.134;Taco kryddermix;6;951;226;3,5;36,6;5,9
+12.113;Taco kryddermix, Old El Paso;4;902;214;3,7;33,3;6,6
+12.112;Taco kryddermix, Santa Maria;8;1000;238;3,4;40;5,2
+10.113;Tomatsuppe, pulver;5;1572;372;8,5;63;11
+11.044;Barnemat, middag, pasta og oksekjøtt, fra 12 mnd;78;424;101;4,3;11;4
+11.034;Barnemat, middag, pasta og oksekjøtt, fra 6 mnd;81;358;85;3,2;10,1;3,5
+11.035;Barnemat, middag, pasta og skinke, fra 8 mnd;80;365;87;3;10,3;4
+11.036;Barnemat, middag, potet og fiskeboller, fra 8 mnd;80;352;84;2,3;11,9;3,3
+11.033;Barnemat, middag, potet og lam, fra 6 mnd;82;316;75;2,7;9,3;2,8
+11.039;Barnemat, middag, potet og oksekjøtt, fra 12 mnd;80;365;87;3,4;9,7;3,6
+11.038;Barnemat, middag, ris og kalkun/kylling, fra 12 mnd;80;360;86;2,8;10,1;4,4
+11.061;Flerkornsgrøt med eple og pære, fra 12 mnd, pulver, Småfolk;3;1910;456;18,2;53,2;16
+11.062;Flerkornsgrøt med eple og pære, fra 12 mnd, spiseklar, Småfolk;78;439;105;4,2;12,2;3,7
+11.057;Fruktgrøt med eple og banan, fra 6 mnd, pulver, Småfolk;4;1913;456;17,3;57,2;15
+11.058;Fruktgrøt med eple og banan, fra 6 mnd, spiseklar, Småfolk;78;440;105;4;13,2;3,4
+11.051;Fruktgrøt med pære og banan, fra 8 mnd, pulver, Nestlé;6;1623;385;9,3;58,3;15
+11.052;Fruktgrøt med pære og banan, fra 8 mnd, spiseklar, Nestlé;78;373;88;2,1;13,4;3,4
+11.065;Fruktpuré, eple, med fersken og mango, fra 4 mnd, HiPP;86;208;49;0,1;10,9;0,3
+11.066;Fruktpuré, med eple og banan, fra 4 mnd, HiPP;84;235;55;0,1;12,4;0,4
+11.067;Fruktpuré, med eple og pære, fra 4 mnd, HiPP;86;209;49;0,1;11;0,2
+11.072;Fruktpuré, med eple, banan og jordbær, fra 6 mnd, HiPP;84;228;54;0,1;11,9;0,5
+11.070;Fruktpuré, med eple, fersken, blåbær og bringebær, fra 6 mnd, HiPP;86;208;49;0,1;10,8;0,4
+11.071;Fruktpuré, med eple, jordbær, banan og blåbær, fra 6 mnd, HiPP;86;213;50;0,1;11,2;0,3
+11.068;Fruktpuré, med fersken, mango og eple, fra 4 mnd, HiPP;86;233;55;0,2;12;0,4
+11.069;Fruktsmoothie, med eple, jordbær og banan, fra 6 mnd, Nestlé;84;256;60;0,3;12,8;0,6
+11.053;Fullkornsgrøt med eksotiske frukter og müsli, fra 12 mnd, pulver, Nestlé;7;1646;390;9,2;60,1;14,8
+11.054;Fullkornsgrøt med eksotiske frukter og müsli, fra 12 mnd, spiseklar, Nestlé;84;280;66;1,6;10,2;2,5
+11.059;Fullkornsgrøt med pære, eple og bringebær, fra 8 mnd, pulver, Småfolk;3;1898;452;17,8;54;16
+11.060;Fullkornsgrøt med pære, eple og bringebær, fra 8 mnd, spiseklar, Småfolk;78;436;104;4,1;12,4;3,7
+11.047;God natt havregrøt naturell, fra 6 mnd, pulver, Nestlé;5;1755;417;11,4;58,1;18
+11.048;God natt havregrøt naturell, fra 6 mnd, spiseklar, Nestlé;78;404;96;2,6;13,4;4,1
+11.075;Grøt, med ris, mais og banan, fra 4 mnd, pulver, Nestlé;6;1626;385;8;66,5;11,7
+11.076;Grøt, med ris, mais og banan, fra 4 mnd, spiseklar, Nestlé;77;374;88;1,8;15,3;2,7
+11.045;Havregrøt med banan og bringebær, fra 6 mnd, pulver, Nestlé;6;1653;392;9,6;58,1;16
+11.046;Havregrøt med banan og bringebær, fra 6 mnd, spiseklar, Nestlé;78;380;90;2,2;13,4;3,7
+11.049;Havregrøt med banan og mango, fra 8 mnd, pulver, Nestlé;4;1673;397;9,9;58,6;16
+11.050;Havregrøt med banan og mango, fra 8 mnd, spiseklar, Nestlé;78;385;91;2,3;13,5;3,7
+11.063;Hirsegrøt med eple og pære, fra 6 mnd, pulver, Holle;4;1595;377;3,3;73,4;11,9
+11.064;Hirsegrøt med eple og pære, fra 6 mnd, spiseklar, Holle;90;175;41;0,4;8,1;1,3
+11.073;Kveldsgrøt, med ris, pasta og gulrot, fra 6 mnd, pulver, Semper;6;1676;398;11,4;58,6;13,6
+11.074;Kveldsgrøt, med ris, pasta og gulrot, fra 6 mnd, spiseklar, Semper;77;385;91;2,6;13,5;3,1
+11.001;Morsmelk;87;296;71;4,1;7,2;1,3
+11.040;Morsmelkerstatning, fra fødsel, drikkeklar;88;272;65;3,5;7;1,3
+11.042;Morsmelkerstatning, fra fødsel, pulver;3;2172;519;27,8;55,9;10,3
+11.055;Sinlac spesialgrøt, pulver, Nestlé;3;1603;380;9,1;59,6;13,6
+11.056;Sinlac spesialgrøt, spiseklar, Nestlé;78;369;87;2,1;13,7;3,1
+11.041;Tilskuddsblanding, fra 6 mnd, drikkeklar;88;286;68;3,2;8,3;1,4
+11.043;Tilskuddsblanding, fra 6 mnd, pulver;3;2171;519;27,8;54,9;10,3
