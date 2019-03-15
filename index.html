@@ -19,178 +19,207 @@
         <!--script src="js/jquery-eu-cookie-law-popup.js"></script-->
         <link rel="stylesheet" type="text/css" href="loading-bar.css">
         <script type="text/javascript" src="js/loading-bar.js"></script>
-
         <link rel="stylesheet" type="text/css" href="pretty-checkbox-master/dist/pretty-checkbox.css">
-        
         <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        
-        
-        
+
+
+
 </head>
 
 <body>
-        <div class="md-ipad md-black-device container-fluid" style="font-size: 1rem;">
-                <div class="md-body">
-                        <div class="md-buttons"></div>
-                        <div class="md-front-camera"></div>
-                        <div class="md-top-speaker"></div>
-                        <div class="md-screen">
-                                <!-- Your content here -->
 
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-md navbar-dark bg-red sticky-top">
+                <div class="container-fluid">
+                        <a class="navbar-brand" href="#">FoodSnap</a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                                <span class="navbar-toggler-icon"></span>
+                        </button>
 
-                                <!-- Navigation -->
-                                <nav class="navbar navbar-expand-md navbar-dark bg-red sticky-top">
-                                        <div class="container-fluid">
-                                                <a class="navbar-brand" href="#">FoodSnap</a>
-                                                <button class="navbar-toggler" type="button" data-toggle="collapse"
-                                                        data-target="#navbarResponsive">
-                                                        <span class="navbar-toggler-icon"></span>
-                                                </button>
-
-                                                <div class="collapse navbar-collapse" id="navbarResponsive">
-                                                        <ul class="navbar-nav ml-auto">
-                                                                <li class="nav-item text-center active">
-                                                                        <a class="nav-link" href="#hjem"><span
-                                                                                        class="fas fa-home"></span>
-                                                                                Hjem</a>
-                                                                </li>
-                                                                <li class="nav-item text-center">
-                                                                        <a class="nav-link" href="#om.html"><span
-                                                                                        class="far fa-lightbulb"></span>
-                                                                                Om</a>
-                                                                </li>
-                                                        </ul>
-                                                        <ul class="nav navbar-nav navbar-right text-center">
-                                                                <li class="nav-item dropdown">
-                                                                        <a class="nav-link dropdown-toggle"
-                                                                                data-toggle="dropdown" href="#"><span
-                                                                                        class="fas fa-user"></span>
-                                                                                Profil</a>
-                                                                        <div class="dropdown-menu">
-                                                                                <a class="nav-link" href="#"><span class="fas fa-user-plus"></span>Registrer</a>
-                                                                                <a class="nav-link" href="#"><span class="fas fa-sign-in-alt"></span>Logg på</a>
-                                                                        </div>
-                                                        </ul>
+                        <div class="collapse navbar-collapse" id="navbarResponsive">
+                                <ul class="navbar-nav ml-auto">
+                                        <li class="nav-item text-center active">
+                                                <a class="nav-link" href="#hjem"><span class="fas fa-home"></span>
+                                                        Hjem</a>
+                                        </li>
+                                        <li class="nav-item text-center">
+                                                <a class="nav-link" href="#om.html"><span class="far fa-lightbulb"></span>
+                                                        Om</a>
+                                        </li>
+                                </ul>
+                                <ul class="nav navbar-nav navbar-right text-center">
+                                        <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#"><span
+                                                                class="fas fa-user"></span>
+                                                        Profil</a>
+                                                <div class="dropdown-menu">
+                                                        <a class="nav-link" href="#"><span class="fas fa-user-plus"></span>Registrer</a>
+                                                        <a class="nav-link" href="#"><span class="fas fa-sign-in-alt"></span>Logg
+                                                                på</a>
                                                 </div>
+                                </ul>
+                        </div>
+                </div>
+        </nav>
+
+        <!--div class="lds-ring"><div></div><div></div><div></div><div></div></div-->
+        <div class="container-fluid padding">
+                <!--Ta bilde funksjon-->
+                <div class="row text-center">
+                        <div class="col-12">
+                                <form action="" name="analyseImage" id="analyseImage" method="post" enctype="multipart/form-data">
+                                        <canvas class="img-fluid" id="hjem" onclick="activateCamera();"></canvas>
+                                        <div>
+                                                <button type="button" class="btn btn-default" id="taBilde"><i class="fas fa-camera"></i>
+                                                        Ta bilde</button>
+                                                <button type="button" class="btn btn-default" id="lastOppBilde"><i
+                                                                class="fas fa-folder-open"></i>
+                                                        Last opp bilde</button>
                                         </div>
-                                </nav>
-                                <!--div class="lds-ring"><div></div><div></div><div></div><div></div></div-->
-                                <div class="container-fluid padding">
+                                        <!-- id=mypic MÅ SJEKKES FOR FEIL! default "velg bilde" knapp kommer opp. Satt på display:none som midlertidig fix.-->
+                                        <input type="file" id="mypic" name="image" accept="image/*" onchange="getFile();"
+                                                style="display:none;">
+                                </form>
+                        </div>
+                </div>
+                <div class="container-fluid padding">
+                        <div class="row welcome text-center">
+                                <div class="col-12" id="imageInfo"></div>
 
+                                <div class="col-md-12 text-center">
+                                                <div class="spinner-grow text-danger" role="status">
+                                                                <span class="sr-only">Loading...</span>
+                                                              </div>
+                                        <div class="funkyradio">
 
-
-                                        <!--Ta bilde funksjon-->
-                                        <div class="row text-center">
-                                                <div class="col-12">
-                                                        <form action="" name="analyseImage" id="analyseImage"
-                                                                method="post" enctype="multipart/form-data">
-                                                                <canvas class="img-fluid" id="hjem"
-                                                                        onclick="activateCamera();"></canvas>
-                                                                <div>
-                                                                        <button type="button" class="btn btn-default"
-                                                                                id="taBilde"><i
-                                                                                        class="fas fa-camera"></i>
-                                                                                Ta bilde</button>
-                                                                        <button type="button" class="btn btn-default"
-                                                                                id="lastOppBilde"><i
-                                                                                        class="fas fa-folder-open"></i>
-                                                                                Last opp bilde</button>
-                                                                </div>
-                                                                <input type="file" id="mypic" name="image"
-                                                                        accept="image/*" onchange="getFile();">
-                                                        </form>
+                                                <div class="funkyradio-danger">
+                                                        <input type="checkbox" name="checkbox" id="checkbox1" />
+                                                        <label for="checkbox1">Smoothie</label>
+                                                        <input type="range" class="form-control-range" id="slide1"
+                                                                style="display: none">
                                                 </div>
-                                        </div>
-                                        <div class="container-fluid padding">
-                                                <div class="row welcome text-center">
-                                                        <div class="col-12" id="imageInfo"></div>
-                                                        
-                                                        <div class="col-12">
-                                                            Pizza 
-                                                            <input type="checkbox" id="cbtest" />
-    <label for="cbtest" class="check-box"></label> 
-                                                        </div>
-                                                        
-                                                        
-                                                        
-                                                </div>
-                                        </div>
 
-                                        <div class="container-fluid padding">
-                                                <div class="row text-center">
-                                                        <div class="col-12">
-                                                                <div class="btn-group btn-group-lg">
-                                                                        <button type="button"
-                                                                                class="btn btn-primary">Liten</button>
-                                                                        <button type="button"
-                                                                                class="btn btn-primary">Medium</button>
-                                                                        <button type="button"
-                                                                                class="btn btn-primary">Stor</button>
-                                                                </div>
-                                                                <hr class="my-4">
-                                                                <div class="text-center form-group" id="cal">
-                                                                        <h3 style="color: #273E47">Kalorier 0
-                                                                                kcal</h3>
-                                                                </div>
-                                                                <div class="btn-group btn-group-lg" id="fanContent">
-                                                                        <div data-preset="fan1"
-                                                                                class="ldBar label-center" id="carb"
-                                                                                data-min="0" data-max="200"
-                                                                                data-value=""></div>
-                                                                        <div data-preset="fan2"
-                                                                                class="ldBar label-center" id="prot"
-                                                                                data-min="0" data-max="200"
-                                                                                data-value=""></div>
-                                                                        <div data-preset="fan3"
-                                                                                class="ldBar label-center" id="fat"
-                                                                                data-min="0" data-max="200"
-                                                                                data-value=""></div>
-                                                                </div>
-                                                                <div>Karbo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Protein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fett
-                                                                </div>
-                                                                <hr class="my-4">
-                                                                <!--- Connect -->
-                                                                <div class="row text-center padding">
-                                                                        <div class="col-12">
-                                                                                <h2>Finn oss på:</h2>
-                                                                                 
-                                                                        </div>
-                                                                        <div class="col-12 social padding" id="konto">
-                                                                                <a href="#"><i
-                                                                                                class="fab fa-facebook"></i></a>
-                                                                                <a href="#"><i
-                                                                                                class="fab fa-twitter"></i></a>
-                                                                                <a href="#"><i
-                                                                                                class="fab fa-instagram"></i></a>
-                                                                        </div>
 
-                                                                </div>
-                                                                <hr class="my-4">
-                                                                <!--- Footer -->
-                                                                <footer id="kontakt">
-                                                                        <div class="container-fluid padding">
-                                                                                <div class="row text-center">
-                                                                                                <div class="col-12">
-                                                                                                <hr class="light">
-                                                                                                <h5>&copy; FoodSnap
-                                                                                                        2019</h5>
-                                                                                        </div>
-                                                                                </div>
-                                                                        </div>
-                                                                </footer>
-                                                        </div>
+                                                <div class="funkyradio-danger">
+                                                        <input type="checkbox" name="checkbox" id="checkbox2" />
+                                                        <label for="checkbox2">Melk</label>
+                                                        <input type="range" class="form-control-range" id="slide2"
+                                                                style="display: none">
                                                 </div>
+
+
+                                                <div class="funkyradio-danger">
+                                                        <input type="checkbox" name="checkbox" id="checkbox3" />
+                                                        <label for="checkbox3">Blåbær</label>
+                                                        <input type="range" class="form-control-range" id="slide3"
+                                                                style="display: none">
+                                                </div>
+
+
+                                                <div class="funkyradio-danger">
+                                                        <input type="checkbox" name="checkbox" id="checkbox4" />
+                                                        <label for="checkbox4">Krem</label>
+                                                        <input type="range" class="form-control-range" id="slide4"
+                                                                style="display: none">
+                                                </div>
+
+
+                                                <div class="funkyradio-danger">
+                                                        <input type="checkbox" name="checkbox" id="checkbox5" />
+                                                        <label for="checkbox5">strawberry</label>
+                                                        <input type="range" class="form-control-range" id="slide5"
+                                                                style="display: none">
+                                                </div>
+
+
+                                                <div class="funkyradio-danger">
+                                                        <input type="checkbox" name="checkbox" id="checkbox6" />
+                                                        <label for="checkbox6">Sukker</label>
+                                                        <input type="range" class="form-control-range" id="slide6"
+                                                                style="display: none">
+                                                </div>
+
+                                                <div class="funkyradio-danger">
+                                                        <input type="checkbox" name="checkbox" id="checkbox7" />
+                                                        <label for="checkbox7">mint</label>
+                                                        <input type="range" class="form-control-range" id="slide7"
+                                                                style="display: none">
+                                                </div>
+
+                                                <div class="funkyradio-danger">
+                                                        <input type="checkbox" name="checkbox" id="checkbox8" />
+                                                        <label for="checkbox8">juice</label>
+                                                        <input type="range" class="form-control-range" id="slide8"
+                                                                style="display: none">
+                                                </div>
+
+                                                <div class="funkyradio-danger">
+                                                        <input type="checkbox" name="checkbox" id="checkbox9" />
+                                                        <label for="checkbox9">yogurt</label>
+                                                        <input type="range" class="form-control-range" id="slide9"
+                                                                style="display: none">
+                                                </div>
+
+                                                <div class="funkyradio-danger">
+                                                        <input type="checkbox" name="checkbox" id="checkbox10" />
+                                                        <label for="checkbox10">søtt</label>
+                                                        <input type="range" class="form-control-range" id="slide10"
+                                                                style="display: none">
+                                                </div>
+                                                
                                         </div>
                                 </div>
-                        </div>
+                                
 
-                        <button class="md-home-button"></button>
+
+                        </div>
+                </div>
+                
+                <div class="container-fluid padding">
+                        <div class="row text-center">
+                                <div class="col-12">
+
+                                        <hr class="my-4">
+                                        <div class="btn-group btn-group-lg" id="fanContent">
+                                                <div data-preset="circle" class="ldBar label-center" id="kcal" data-min="0"
+                                                        data-max="1600" data-value="357"></div>
+                                        </div><br>
+
+                                        <div class="btn-group btn-group-lg" id="fanContent">
+                                                <div data-preset="fan1" class="ldBar label-center" id="carb" data-min="0"
+                                                        data-max="200" data-value="90"></div>
+                                                <div data-preset="fan2" class="ldBar label-center" id="prot" data-min="0"
+                                                        data-max="200" data-value="58"></div>
+                                                <div data-preset="fan3" class="ldBar label-center" id="fat" data-min="0"
+                                                        data-max="200" data-value="125"></div>
+                                        </div>
+                                        <div>Karbo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Protein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fett
+                                        </div>
+
+
+                                </div>
+                        </div>
                 </div>
         </div>
 
-        </div>
-        </div>
 
+
+        <hr>
+
+       
+
+        <!--- Footer -->
+        <footer>
+                <div class="container-fluid padding">
+                        <div class="row text-center">
+                                <div class="col-12">
+                                        <hr class="light">
+                                        <h5>&copy; FoodSnap
+                                                2019</h5>
+                                </div>
+                        </div>
+                </div>
+        </footer>
 
 
         <script type="text/javascript" src="js/script.js"></script>

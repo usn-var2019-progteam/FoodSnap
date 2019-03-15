@@ -8,7 +8,7 @@ function ldBarReset() {
     g_dFett = 0;
     g_dKarbo = 0;
     g_dProt = 0;
-    activateLdBar(g_dKarbo, g_dProt, g_dFett)
+    activateLdBar(g_dKarbo, g_dProt, g_dFett);
 }
 
 
@@ -19,7 +19,7 @@ function ldBarReset() {
 $(document).ready(function() {
     $.ajax({
         type: "GET",
-        url: "matvaretabellen2018.csv",
+        url: "matvaretab.csv",
         dataType: "text",
         success: function(data) {processData(data);}
      });
@@ -227,25 +227,35 @@ function analyzeImage() {
                     aFoodGraph[iGraphCounter] = sFoodname;
                     aProcentGraph[iGraphCounter] = dProbibility;
                     var sMat = transalte(sFoodname);
-
+                    
                     sHtml += "<tr>";
                     sHtml += "<td style='text-align:left; padding-right:60px;'>";
                         //sHtml += sFoodname +" - " + transalte(sFoodname);
+                        
                         sHtml += "&nbsp;" + sMat;
                     sHtml += "</td>";
                     /*sHtml += "<td>";
                         sHtml += " " + dProbibility;
                     sHtml += "</td>";*/
+                    
                     sHtml += "<td>";   
                     
                         sHtml += '<div class="pretty p-icon p-smooth">';
-                            sHtml += '<input type="checkbox" />';
-                            sHtml += '<div class="state p-success">';
-                                sHtml += '<i class="icon material-icons"></i>';
-                                sHtml += '<label></label>';
-                            sHtml += '</div>';
+                        sHtml += '<input type="checkbox" />';
+                        sHtml += '<div class="state p-success">';
+                        sHtml += '<i class="icon material-icons"></i>';
+                        sHtml += '<label></label>';
                         sHtml += '</div>';
-                    
+                        sHtml += '</div>';
+
+                        /*sHtml +='<div class="funkyradio">';
+                        sHtml +='<div class="funkyradio-danger">';
+                        sHtml +='<input type="checkbox" name="checkbox" id="checkbox"/>';
+                        sHtml +='<label for="checkbox"></label>';
+                        sHtml +='<input type="range" class="form-control-range" id="slide" style="display: none">';
+                        sHtml +='</div>';
+                        sHtml +='</div>';*/
+
                     
                         //sHtml += "<input type='checkbox' id=\""+sMat+"\" onclick='innhold(\""+sMat+"\");'/><br />";
                     sHtml += "</td>";
@@ -255,7 +265,7 @@ function analyzeImage() {
                 }
             }
             sHtml += "</table>";
-            console.log(sHtml);
+            //console.log(sHtml);
             $("#imageInfo").show();
             $("#imageInfo").html(sHtml);
         },
@@ -264,7 +274,7 @@ function analyzeImage() {
                 // there was an error
         });
         //var sImage = reader.result;
-    }
+    };
 
     if (file) 
     {
@@ -279,7 +289,7 @@ function analyzeImage() {
 function sjekkInnhold(innhold) {
     for (var i=0; i<g_aLines.length; i++) {
         if (g_aLines[i][1].includes(innhold)) {
-            var aLine = g_aLines[i];;
+            var aLine = g_aLines[i];
             return aLine;
         }
     }
@@ -321,6 +331,78 @@ function innhold(innhold) {
     activateLdBar(g_dKarbo, g_dProt, g_dFett);
     $("#cal").html("Kalorier " + g_dCalorier + " kcal");
 }
+//Checkbox slides
+$(function () {
+    $("#checkbox1").click(function () {
+        if ($(this).is(":checked")) {
+            $("#slide1").show();
+        } else {
+            $("#slide1").hide();
+        }
+    });
+    $("#checkbox2").click(function () {
+        if ($(this).is(":checked")) {
+            $("#slide2").show();
+        } else {
+            $("#slide2").hide();
+        }
+    });
+    $("#checkbox3").click(function () {
+        if ($(this).is(":checked")) {
+            $("#slide3").show();
+        } else {
+            $("#slide3").hide();
+        }
+    });
+    $("#checkbox4").click(function () {
+        if ($(this).is(":checked")) {
+            $("#slide4").show();
+        } else {
+            $("#slide4").hide();
+        }
+    });
+    $("#checkbox5").click(function () {
+        if ($(this).is(":checked")) {
+            $("#slide5").show();
+        } else {
+            $("#slide5").hide();
+        }
+    });
+    $("#checkbox6").click(function () {
+        if ($(this).is(":checked")) {
+            $("#slide6").show();
+        } else {
+            $("#slide6").hide();
+        }
+    });
+    $("#checkbox7").click(function () {
+        if ($(this).is(":checked")) {
+            $("#slide7").show();
+        } else {
+            $("#slide7").hide();
+        }
+    });
+    $("#checkbox8").click(function () {
+        if ($(this).is(":checked")) {
+            $("#slide8").show();
+        } else {
+            $("#slide8").hide();
+        }
+    });
+    $("#checkbox9").click(function () {
+        if ($(this).is(":checked")) {
+            $("#slide9").show();
+        } else {
+            $("#slide9").hide();
+        }
+    });
+    $("#checkbox10").click(function () {
+        if ($(this).is(":checked")) {
+            $("#slide10").show();
+        } else {
+            $("#slide10").hide();
+        }
+    });
 
-
+});
 
