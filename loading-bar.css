@@ -4,7 +4,7 @@
 
 .ldBar.label-center>.ldBar-label {
     position: absolute;
-    top: 60%;
+    top: 55%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
