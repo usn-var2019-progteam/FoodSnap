@@ -1,0 +1,81 @@
+.header {
+  border-bottom: 2px solid #4e4d4d;
+  margin-bottom: 2.5rem;
+  margin-top: 3rem;
+}
+
+.user-table {
+  margin-top: 2rem;
+}
+
+.circles {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 36px;
+  border-bottom: 2px solid #4e4d4d;
+  padding-bottom: 35px;
+}
+
+.status-circle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+  border: 0px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.status-circle h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.aktive {
+  background-color: #57da75;
+}
+
+.opplastet {
+  background-color: #57da75;
+}
+
+.visitors {
+  background-color: #57da75;
+}
+
+@media screen and (max-width: 754px) {
+
+  .status-circle {
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+    border: 0px;
+    border-radius: 50%;
+    margin: 20px;
+  }
+
+  .circles {
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+  .status-circle h1 {
+      font-size: 1em;
+  }
+
+  h4 {
+    font-size: 1em;
+    
+  }
+
+  .circle-container {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+  }
+}
