@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Login - Foodsnap</title>
+        <link rel="icon" href="img/favicon.PNG" sizes="16x16" type="image/png">
+        <link rel="stylesheet" type="text/css" href="bootstrap-4.3.1-dist/css/bootstrap.min.css">
+        <!--<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css"/>-->
+        <link rel="stylesheet" href="style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+        <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+        <script type="text/javascript" src="https://sdk.clarifai.com/js/clarifai-latest.js"></script>
+        <!--script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script-->
+        <!--script src="js/jquery-eu-cookie-law-popup.js"></script-->
+        <link rel="stylesheet" type="text/css" href="loading-bar.css">
+        <script type="text/javascript" src="js/loading-bar.js"></script>
+        <link rel="stylesheet" type="text/css" href="pretty-checkbox-master/dist/pretty-checkbox.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    
+        <!--<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login - Foodsnap</title>
+    <link rel="icon" href="img/favicon.PNG" sizes="16x16" type="image/png">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="reg-log/css/login-style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="bootstrap-4.3.1-dist/css/bootstrap.min.css">-->
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-md navbar-dark bg-red sticky-top">
+            <div class="container-fluid">
+                    <a class="navbar-brand" href="#">FoodSnap</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                            <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarResponsive">
+                            <ul class="navbar-nav ml-auto">
+                                    <li class="nav-item text-center">
+                                            <a class="nav-link" href="index.html"><span class="fas fa-home"></span>
+                                                    Hjem</a>
+                                    </li>
+
+                                    <li class="nav-item text-center">
+                                            <a class="nav-link" href="#om.html"><span class="far fa-lightbulb"></span>
+                                                    Om</a>
+                                    </li>
+
+                                    <li class="nav-item text-center active">
+                                            <a class="nav-link" href="reg-log.html"><span class="fas fa-user"></span>
+                                                    Registrer / Logg inn</a>
+                                    </li>
+                            </ul>
+                    </div>
+            </div>
+    </nav>
+    <section class="bg">
+        <div class="login-form">
+            <form >
+                <h2 class="text-center" id="tittel">Registrer deg</h2>		
+                <div class="text-center social-btn">
+                    <a href="#" class="btn btn-primary btn-block"><i class="fa fa-facebook"></i> Fortsett med <b>Facebook</b></a>
+                    <a href="#" class="btn btn-danger btn-block"><i class="fa fa-google"></i> Fortsett med <b>Google</b></a>
+                </div>
+
+                <div class="or-seperator"><i>eller</i></div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">E-postadresse/mobil</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-postadresse/mobil">
+                </div>
+
+                <div class="form-group" id="passord" style="display:none;">
+                    <label for="exampleInputPassword1">Passord</label>
+                    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Passord">
+                </div>
+
+                <div class="clearfix" id="vilkar">
+                    <label class="pull-left checkbox-inline"><input type="checkbox">Jeg samtykker til vilkårene</label>
+                    <br>
+                </div>
+
+                <div class="form-group">
+                    <button type="button" class="btn btn-success btn-block login-btn" id="knapp" onClick="show();">
+                    Registrer
+                    </button>
+                </div>
+
+                <div class="form-group" style="display:none;">
+                    <button><a href='index.html' type="button" class="btn btn-success btn-block login-btn" id="login"></a>
+                        Logg inn
+                    </button>
+                </div>
+
+               <div class="hint-text" id="mail/sms" style="display:none;"> 
+                Du vil nå motta en e-post/sms med en engangskode. Koden sendes til e-postadressen/mobilnummer som er registrert. 
+            </div> 
+            </form>
+            <div class="hint-text small" id="text" style="text-align:right; width: 50%; float:left; padding-right: 5px;">Allerede medlem?</div>
+            <div class="hint-text small" style="text-align:left; width: 50%; float:right; padding-left: 5px;" > <a href="#" class="text-success" id= "inn"  onClick="show();">Logg inn her!</a>
+            <a href="reg-log.html" class="text-success" id= "reg" style="display:none;">Register deg her!</a> </div>
+
+        </div>
+
+    </section>
+    <script type="text/javascript"> 
+        function show(){
+            $("#tittel").html("Logg inn");
+            $("#vilkar").addClass("hidden");  
+            $("#knapp").html("Logg inn"); 
+            $("#text").html("Ingen konto?");
+            $("#inn").addClass("hidden");
+            $("#reg").addClass("show");
+            document.getElementById("mail/sms").style.display = "";
+            document.getElementById("passord").style.display = "";
+            document.getElementById("login").style.display = "";
+        }
+
+
+    </script>
+</body>
+</html>                            
