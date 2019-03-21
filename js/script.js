@@ -43,6 +43,8 @@ function processData(allText) {
     //console.log(g_aLines);
 }
 */ 
+
+//Matvaretabell kcal, carb, prot, fett.
 var g_aLines = [
     ['Eple', 100, 40, 30, 90],
     ['Banan', 100, 40, 30, 10],
