@@ -65,7 +65,7 @@
                         <div class="col-12">
                                 <form action="" name="analyseImage" id="analyseImage" method="post"
                                         enctype="multipart/form-data">
-                                        <canvas class="img-fluid" id="hjem" onclick="activateCamera();"></canvas>
+                                        <canvas class="img-fluid" id="hjem" onclick="activateCamera();" style="height:400px;width:auto;"></canvas>
                                         <div>
                                                 <div class="intro-text">
                                                         <button data-intro="Trykk her for å ta bilde"
@@ -90,6 +90,7 @@
                 </div>
                 <div class="container-fluid padding">
                         <div class="row welcome text-center">
+
                                 <div class="col-12" id="imageInfo"></div>
 
                                 <div class="col-md-12 text-center">
@@ -108,10 +109,11 @@
                                 <div class="col-12">
 
                                         <hr class="my-4">
+                                        <h1>Næringsinnhold</h1>
                                         <div class="btn-group btn-group-lg" id="fanContent">
                                                 <div data-preset="circle" class="ldBar label-center" id="kcal"
-                                                        data-min="0" data-max="1600" data-value="850"></div>
-                                        </div><br>
+                                                        data-min="0" data-max="1600" data-value="850"> Kalorier</div>
+                                        </div><br><br>
 
                                         <div class="btn-group btn-group-lg" id="fanContent">
                                                 <div data-preset="fan1" class="ldBar label-center" id="carb"
@@ -119,8 +121,8 @@
                                                 <div data-preset="fan2" class="ldBar label-center" id="prot"
                                                         data-min="0" data-max="200" data-value="58"></div>
                                                 <div data-preset="fan3" class="ldBar label-center" id="fat" data-min="0"
-                                                        data-max="200" data-value="150"
-                                                        data-min="0" data-max="200" data-value=""></div>
+                                                        data-max="200" data-value="150" data-min="0" data-max="200"
+                                                        data-value=""></div>
 
                                         </div>
                                         <div>Karbo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Protein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fett
@@ -143,9 +145,10 @@
                 <div class="container-fluid padding">
                         <div class="row text-center">
                                 <div class="col-12">
-                                        <hr class="light">
+                                        
                                         <h5>&copy; FoodSnap
                                                 2019</h5>
+                                                <hr class="my-4">
                                 </div>
                         </div>
                 </div>
