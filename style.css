@@ -19,8 +19,8 @@ html, body {
 }
 
 .btn-primary {
-  background-color: #DB162F;
-  border: 1px solid #DB162F;
+  background-color: #007bff;
+  border: 1px solid #007bff;
 }
 
 .btn-primary:hover {
@@ -91,7 +91,7 @@ html, body {
 }
 footer {
   background-color: #DB162F;
-  color: #d5d5d5;
+  color: white;
   padding-top: 2rem;
 }
 hr.light {
@@ -101,210 +101,135 @@ hr.light {
   margin-bottom: 1rem;
 }
 
+/* Checkbox */
+#ex1Slider .slider-selection {
+	background: #BABABA;
+}
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.0/css/bootstrap.min.css');
+
+.funkyradio div {
+  clear: both;
+  overflow: hidden;
+}
+
+.funkyradio label {
+  width: 100%;
+  border-radius: 3px;
+  border: 1px solid #D1D3D4;
+  font-weight: normal;
+}
+
+.funkyradio input[type="radio"]:empty,
+.funkyradio input[type="checkbox"]:empty {
+  display: none;
+}
+
+.funkyradio input[type="radio"]:empty ~ label,
+.funkyradio input[type="checkbox"]:empty ~ label {
+  position: relative;
+  line-height: 2.5em;
+  text-indent: 3.25em;
+  margin-top: 2em;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+.funkyradio input[type="radio"]:empty ~ label:before,
+.funkyradio input[type="checkbox"]:empty ~ label:after {
+  position: absolute;
+  display: block;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  content: '';
+  width: 2.5em;
+  background: #D1D3D4;
+  border-radius: 3px 0 0 3px;
+}
+
+.funkyradio input[type="radio"]:hover:not(:checked) ~ label,
+.funkyradio input[type="checkbox"]:hover:not(:checked) ~ label {
+  color: #888;
+}
+
+.funkyradio input[type="radio"]:hover:not(:checked) ~ label:before,
+.funkyradio input[type="checkbox"]:hover:not(:checked) ~ label:after {
+  content: '\2714';
+  text-indent: .9em;
+  color: #C2C2C2;
+}
+
+.funkyradio input[type="radio"]:checked ~ label,
+.funkyradio input[type="checkbox"]:checked ~ label {
+  color: #777;
+}
+
+.funkyradio input[type="radio"]:checked ~ label:before,
+.funkyradio input[type="checkbox"]:checked ~ label:after {
+  content: '\2714';
+  text-indent: .9em;
+  color: #333;
+  background-color: #ccc;
+}
+
+.funkyradio input[type="radio"]:focus ~ label:before,
+.funkyradio input[type="checkbox"]:focus ~ label:after {
+  box-shadow: 0 0 0 3px #999;
+}
+
+.funkyradio-default input[type="radio"]:checked ~ label:before,
+.funkyradio-default input[type="checkbox"]:checked ~ label:after {
+  color: #333;
+  background-color: #ccc;
+}
+
+.funkyradio-primary input[type="radio"]:checked ~ label:before,
+.funkyradio-primary input[type="checkbox"]:checked ~ label:after {
+  color: #fff;
+  background-color: #337ab7;
+}
+
+.funkyradio-success input[type="radio"]:checked ~ label:before,
+.funkyradio-success input[type="checkbox"]:checked ~ label:after {
+  color: #fff;
+  background-color: #5cb85c;
+}
+
+.funkyradio-danger input[type="radio"]:checked ~ label:before,
+.funkyradio-danger input[type="checkbox"]:checked ~ label:after {
+  color: #fff;
+  background-color: #d9534f;
+}
+
+.funkyradio-warning input[type="radio"]:checked ~ label:before,
+.funkyradio-warning input[type="checkbox"]:checked ~ label:after {
+  color: #fff;
+  background-color: #f0ad4e;
+}
+
+.funkyradio-info input[type="radio"]:checked ~ label:before,
+.funkyradio-info input[type="checkbox"]:checked ~ label:after {
+  color: #fff;
+  background-color: #5bc0de;
+}
+
+
 
 /*---Media Queries --*/
 @media (min-width: 1024px) {
-  html, body{
-  background-image: url(img/b1.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  }
+ body{
+   width: 60%;
+   margin: auto;
+ }
   .social a {
     font-size: 3em;
     padding: 1em;
   }
-  .md-ipad .md-body {
-    width: 100%;
-    height: 100%;
-    border-radius: 3.75em;
-    border-style: solid;
-    border-width: 0.375em;
-    position: relative;
-  }
-  
-  .md-ipad .md-screen {
-    position: relative;
-    margin: 0 auto;
-    background-color: white;
-    border-radius: 0.25em;
-    overflow: auto;
-    box-shadow: 0 0 0px 3px #161616;
-  }
-  .md-ipad .md-screen img {
-    width: 100%;
-  }
-  
-  .md-ipad .md-home-button {
-    display: block;
-    width: 3.625em;
-    height: 3.625em;
-    margin: 0 auto;
-    position: relative;
-    border-radius: 100%;
-    border: none;
-    cursor: default;
-    font-size: 100%;
-  }
-  .md-ipad .md-home-button:after {
-    content: "";
-    display: block;
-    width: 1.125em;
-    height: 1.125em;
-    margin: 0 auto;
-    position: relative;
-    border-style: solid;
-    border-width: 0.125em;
-    border-radius: 0.25em;
-  }
-  
-  .md-ipad .md-front-camera {
-    width: 0.875em;
-    height: 0.875em;
-    margin: 0 auto;
-    position: relative;
-    border-radius: 100%;
-  }
-  .md-ipad .md-front-camera:after {
-    content: "";
-    display: block;
-    width: 0.375em;
-    height: 0.375em;
-    position: relative;
-    top: 0.25em;
-    left: 0.25em;
-    background-color: #8c8091;
-    border-radius: 100%;
-  }
-  
-  .md-ipad.md-glare:before {
-    content: "";
-    display: block;
-    width: 50%;
-    height: 83%;
-    position: absolute;
-    top: 0.625em;
-    right: 0.625em;
-    border-radius: 0 3.125em 0 0;
-    z-index: 1;
-  }
-  
-  .md-ipad {
-    width: 53.375em;
-    height: 79.4375em;
-    position: relative;
-  }
-  .md-ipad .md-front-camera {
-    top: 3.125em;
-  }
-  .md-ipad .md-screen {
-    width: 48em;
-    height: 64em;
-    top: 6.25em;
-  }
-  .md-ipad .md-home-button {
-    bottom: -8.75em;
-  }
-  .md-ipad.md-glare:before {
-    background: -webkit-linear-gradient(22deg, rgba(255, 255, 255, 0) 50%, rgba(247, 248, 240, 0.025) 50%, rgba(250, 245, 252, 0.08));
-    background: -moz-linear-gradient(22deg, rgba(255, 255, 255, 0) 50%, rgba(247, 248, 240, 0.025) 50%, rgba(250, 245, 252, 0.08));
-    background: -o-linear-gradient(22deg, rgba(255, 255, 255, 0) 50%, rgba(247, 248, 240, 0.025) 50%, rgba(250, 245, 252, 0.08));
-    background: linear-gradient(68deg, rgba(255, 255, 255, 0) 50%, rgba(247, 248, 240, 0.025) 50%, rgba(250, 245, 252, 0.08));
-  }
-  .md-ipad.md-landscape {
-    -webkit-transform: rotateZ(90deg);
-    -moz-transform: rotateZ(90deg);
-    -ms-transform: rotateZ(90deg);
-    -o-transform: rotateZ(90deg);
-    transform: rotateZ(90deg);
-  }
-  .md-ipad.md-landscape.md-glare:before {
-    -webkit-transform: rotateY(180deg);
-    -moz-transform: rotateY(180deg);
-    -ms-transform: rotateY(180deg);
-    -o-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-    left: 0.625em;
-    top: 0.625em;
-  }
-  
-  .md-white-device .md-front-camera, .md-white-device .md-top-speaker, .md-white-device .md-home-button {
-    background: -webkit-linear-gradient(#d0d0c5, #eeeeea);
-    background: -moz-linear-gradient(#d0d0c5, #eeeeea);
-    background: -o-linear-gradient(#d0d0c5, #eeeeea);
-    background: linear-gradient(#d0d0c5, #eeeeea);
-  }
-  
-  .md-black-device .md-front-camera, .md-black-device .md-top-speaker, .md-black-device .md-home-button {
-    background: -webkit-linear-gradient(#141917, #202623);
-    background: -moz-linear-gradient(#141917, #202623);
-    background: -o-linear-gradient(#141917, #202623);
-    background: linear-gradient(#141917, #202623);
-  }
-  
-  .md-white-device.md-landscape .md-home-button, .md-white-device.md-landscape .md-front-camera, .md-white-device.md-landscape .md-top-speaker {
-    background: -webkit-linear-gradient(left, #d0d0c5, #eeeeea);
-    background: -moz-linear-gradient(left, #d0d0c5, #eeeeea);
-    background: -o-linear-gradient(left, #d0d0c5, #eeeeea);
-    background: linear-gradient(to right, #d0d0c5, #eeeeea);
-  }
-  
-  .md-black-device.md-landscape .md-home-button, .md-black-device.md-landscape .md-front-camera, .md-black-device.md-landscape .md-top-speaker {
-    background: -webkit-linear-gradient(left, #141917, #202623);
-    background: -moz-linear-gradient(left, #141917, #202623);
-    background: -o-linear-gradient(left, #141917, #202623);
-    background: linear-gradient(to right, #141917, #202623);
-  }
-  
-  .md-white-device .md-body {
-    background-color: #ebebe4;
-    border-color: #f1f2eb;
-  }
-  .md-white-device .md-buttons {
-    background-color: #ebebe4;
-  }
-  .md-white-device .md-buttons:after, .md-white-device .md-buttons:before {
-    background-color: #ebebe4;
-  }
-  .md-white-device .md-front-camera:after {
-    background-color: #8c8091;
-  }
-  .md-white-device .md-top-speaker:after {
-    background-color: #4b414a;
-  }
-  .md-white-device .md-home-button:after {
-    border-color: #eff1e6;
-  }
-  .md-white-device:after {
-    background: #ebebe4;
-  }
-  
-  .md-black-device .md-body {
-    background-color: black;
-    border-color: #282e2b;
-  }
-  .md-black-device .md-buttons {
-    background-color: #1b211e;
-  }
-  .md-black-device .md-buttons:after, .md-black-device .md-buttons:before {
-    background-color: #1b211e;
-  }
-  .md-black-device .md-front-camera:after {
-    background-color: #2c292f;
-  }
-  .md-black-device .md-top-speaker:after {
-    background-color: #191616;
-  }
-  .md-black-device .md-home-button:after {
-    border-color: #444a45;
-  }
-  .md-black-device:after {
-    background: #1b211e;
-  }
-  
-  
 }
-
 @media (max-width: 768px) {
   .display-4 {
     font-size: 200%;
@@ -347,35 +272,12 @@ figure {
   width: 100%;
   height: 100%;
 }
-/*
-#fixed {
-  background-image: url('img/h1.jpg');
-  position: fixed;
-  display: block;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  background-position: center center;
-  -webkit-transform: translateZ(0);
-          transform: translateZ(0);
-  will-change: transform;
-}*/
 
 /*--- Bootstrap Padding Fix --*/
 [class*="col-"] {
     padding: 1rem;
 }
 
-/*.navbar {
-    background-color:#9999FF;
-    border-color:#9999FF;
-}
-
-.navbar-brand {
-    color:black;
-}*/
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
@@ -451,12 +353,138 @@ Extra (xl) large devices (large desktops, 1200px and up)
   }
 }
 
+
 /* loader slutt */
 
+/* Profile Index */
+.login-form {
+  width: 340px;
+  margin: 30px auto;
+}
+.login-form form {
+  margin-bottom: 15px;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+}
+.login-form h2 {
+  margin: 0 0 15px;
+}
+.login-form .hint-text {
+  color: #777;
+  padding-bottom: 15px;
+  text-align: center;
+}
+.form-control, .btn {
+  min-height: 38px;
+  border-radius: 2px;
+}
+.login-btn {        
+  font-size: 15px;
+  font-weight: bold;
+}
+.or-seperator {
+  margin: 20px 0 10px;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+.or-seperator i {
+  padding: 0 10px;
+  background: #fff;
+  position: relative;
+  top: -11px;
+  z-index: 1;
+}
+.social-btn .btn {
+  margin: 10px 0;
+  font-size: 15px;
+  text-align: left; 
+  line-height: 24px;       
+}
+.social-btn .btn i {
+  float: left;
+  margin: 4px 15px  0 5px;
+  min-width: 15px;
+}
+.input-group-addon .fa{
+  font-size: 18px;
+}
+.bg{
+  background: url('reg-log/bilder/veg2.jpg') no-repeat;
+  width: 100%;
+  height: 100vh;
+  background-size: 100%;
+}
 
+.login-form {
+  width: 340px;
+  margin: 30px auto;
+}
+.login-form form {
+  margin-bottom: 15px;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+}
+.login-form h2 {
+  margin: 0 0 15px;
+}
+.login-form .hint-text {
+  color: #777;
+  padding-bottom: 15px;
+  text-align: center;
+}
+.form-control, .btn {
+  min-height: 38px;
+  border-radius: 2px;
+}
+.login-btn {        
+  font-size: 15px;
+  font-weight: bold;
+}
+.or-seperator {
+  margin: 20px 0 10px;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+.or-seperator i {
+  padding: 0 10px;
+  background: #fff;
+  position: relative;
+  top: -11px;
+  z-index: 1;
+}
+.social-btn .btn {
+  margin: 10px 0;
+  font-size: 15px;
+  text-align: left; 
+  line-height: 24px;       
+}
+.social-btn .btn i {
+  float: left;
+  margin: 4px 15px  0 5px;
+  min-width: 15px;
+}
+.input-group-addon .fa{
+  font-size: 18px;
+}
 
+#vilkar{
+  padding-bottom: 10px;
+}
 
+@media only screen and (max-width: 400px) {
+  .bg {
+    background: none;
+   }
 
+  .login-form {
+      width: 85%;
+   }
+
+}
 
 
 

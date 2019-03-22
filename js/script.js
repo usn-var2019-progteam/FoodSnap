@@ -1,14 +1,16 @@
 var g_aLines = [];
+var g_dKcal = 0;
 var g_dCalorier = 0;
 var g_dFett = 0;
 var g_dKarbo = 0;
 var g_dProt = 0;
 
 function ldBarReset() {
+    g_dKcal = 0;
     g_dFett = 0;
     g_dKarbo = 0;
     g_dProt = 0;
-    activateLdBar(g_dKarbo, g_dProt, g_dFett)
+    activateLdBar(g_dKcal, g_dKarbo, g_dProt, g_dFett);
 }
 
 
@@ -16,10 +18,10 @@ function ldBarReset() {
 //$("#hjem").css("background-image", "url(img/bakgrunn.PNG)");
 
 //laste inn matvaretabellen og sjekke data
-$(document).ready(function() {
+/*$(document).ready(function() {
     $.ajax({
         type: "GET",
-        url: "matvaretabellen2018.csv",
+        url: "matvaretab.csv",
         dataType: "text",
         success: function(data) {processData(data);}
      });
@@ -40,6 +42,14 @@ function processData(allText) {
     }
     //console.log(g_aLines);
 }
+*/ 
+
+//Matvaretabell kcal, carb, prot, fett.
+var g_aLines = [
+    ['Eple', 100, 40, 30, 90],
+    ['Banan', 100, 40, 30, 10],
+    ['krem', 100, 40, 30, 10]
+];
 
 function activateCamera() {
     if (document.getElementById("mypic").hasAttribute("capture"))
@@ -119,102 +129,20 @@ function analyzeImage() {
     
         //console.log(sImage);
     
-        /*$.ajax({
-            url: "https://api-beta.bite.ai/vision",
-            //url: 'http://example.com/',
-            type: 'get',
-            crossDomain: true,
-            dataType: 'jsonp',
-            data: {
-                //'image': sImage,
-                //'image': 'data:image/jpeg;base64,'.sImage,
-                //'base64': "data:image/jpeg;base64,http://www.crmforever.no/wrap.jpeg"
-                'base64': "http://www.crmforever.no/wrap.jpeg"
-            },
-            json: 'callback',
-            //jsonpCallback: 'heiogha',
-            headers: {
-                'Authorization': 'Bearer 7bb48761395f1250fecad5f87f849bf427d92afc',
-                'content type': 'multipart/form-data'
-                
-            },
-            //contentType: 'application/json; charset=utf-8',
-            //'base64': 'data:image/jpeg;base64,'.sImage
-            success: function (result) {
-                console.log("OK");
-                console.log(result);
-               // CallBack(result);
-            },
-            error: function (xhr, status, error) {
-                console.log("ERROR");
-                console.log(xhr);   
-                console.log(status);
-                console.log(error);
-            }
-        });
+    
+    
         
-        /*function heiogha(json) {
-            console.log(json);
-        }*/
-    
-        /*$.ajax({
-            url: "https://api-beta.bite.ai/vision",
-            method: "get",
-            timeout: 20000, // sets timeout to 20 seconds
-            cache: false,
-            datatype: "jsonp",
-            //data: RequestData,
-            headers: {"Authorization": "Bearer 7bb48761395f1250fecad5f87f849bf427d92afc",
-                      "base64": "data:image/jpeg;base64,".sImage
-            },
-            success: function(jsonRet) {
-                var res = JSON.parse(jsonRet);
-                console.log(jsonRet);
-                if (parseInt(res.status) === 0)
-                {
-                }
-                else
-                {
-                    // Gi et svar på at det gikk galt
-                }
-            },
-            error: function (xhr, ajaxOptions, throwError) {
-                console.log(xhr);
-                //console.log(ajaxOptions);
-                //console.log(throwError);
-            }
-       });*/
-    
-    
-        /*$.ajax({
-            url: "https://api-beta.bite.ai/vision",
-            headers: {"Authorization": "Bearer 7bb48761395f1250fecad5f87f849bf427d92afc"
-                      //"base64": "data:image/jpeg;base64,".sImage
-            },
-            success: function(jsonRet) {
-                //var res = JSON.parse(jsonRet);
-                console.log(jsonRet);
-                
-            },
-            error: function (xhr, ajaxOptions, throwError) {
-                console.log(xhr);
-                //console.log(ajaxOptions);
-                //console.log(throwError);
-            }
-
-        });*/
-    
-    
-        //console.log(sImage);
         app.models.predict(Clarifai.FOOD_MODEL, {base64: sImage}).then(
         function(response) {
             var aImageData = response.outputs[0].data.concepts;
             //console.log(response.outputs[0].data.concepts);
             var sHtml  = "Huk av for ingredienser/matrett";
-                sHtml += "<table>";
+            sHtml +='<div class="funkyradio">';
+                //sHtml += "<table>";
             var aFoodGraph = [];
             var aProcentGraph = [];
             var iGraphCounter = 0;
+            var iTeller = 0;
 
             for (var i=0; i<aImageData.length; i++)
             {
@@ -227,35 +155,24 @@ function analyzeImage() {
                     aFoodGraph[iGraphCounter] = sFoodname;
                     aProcentGraph[iGraphCounter] = dProbibility;
                     var sMat = transalte(sFoodname);
+                    
+                    
 
-                    sHtml += "<tr>";
-                    sHtml += "<td style='text-align:left; padding-right:60px;'>";
-                        //sHtml += sFoodname +" - " + transalte(sFoodname);
-                        sHtml += "&nbsp;" + sMat;
-                    sHtml += "</td>";
-                    /*sHtml += "<td>";
-                        sHtml += " " + dProbibility;
-                    sHtml += "</td>";*/
-                    sHtml += "<td>";   
+                        
+                        sHtml +='<div class="funkyradio-danger">';
+                        sHtml +='<input type="checkbox" name="checkbox" id="checkbox'+(++iTeller)+'" onclick="innhold('+iTeller+', \''+sMat+'\')" />';
+                        sHtml +='<label for="checkbox'+(iTeller)+'">'+sMat+'</label>';
+                        sHtml +='<input type="range" class="form-control-range" id="slide'+iTeller+'" style="display: none">';
+                        sHtml +='</div>';
+        
                     
-                        sHtml += '<div class="pretty p-icon p-smooth">';
-                            sHtml += '<input type="checkbox" />';
-                            sHtml += '<div class="state p-success">';
-                                sHtml += '<i class="icon material-icons"></i>';
-                                sHtml += '<label></label>';
-                            sHtml += '</div>';
-                        sHtml += '</div>';
-                    
-                    
-                        //sHtml += "<input type='checkbox' id=\""+sMat+"\" onclick='innhold(\""+sMat+"\");'/><br />";
-                    sHtml += "</td>";
-                    sHtml += "</tr>";
                     
                     iGraphCounter++;
                 }
             }
+            sHtml +='</div>';
             sHtml += "</table>";
-            console.log(sHtml);
+            //console.log(sHtml);
             $("#imageInfo").show();
             $("#imageInfo").html(sHtml);
         },
@@ -264,7 +181,7 @@ function analyzeImage() {
                 // there was an error
         });
         //var sImage = reader.result;
-    }
+    };
 
     if (file) 
     {
@@ -277,50 +194,70 @@ function analyzeImage() {
 }
 
 function sjekkInnhold(innhold) {
+    //console.log(g_aLines);
     for (var i=0; i<g_aLines.length; i++) {
-        if (g_aLines[i][1].includes(innhold)) {
-            var aLine = g_aLines[i];;
+        if (g_aLines[i][0].includes(innhold)) {
+            var aLine = g_aLines[i];
             return aLine;
         }
     }
     return "IKKE";
 }
 
-function activateLdBar(g_dKarbo, g_dProt, g_dFett) {
-    var b1 = document.querySelector("#carb");
+function activateLdBar(g_dKcal, g_dKarbo, g_dProt, g_dFett) {
+    //console.log(g_dProt);
+    var b1 = document.querySelector("#kcal");
     var b = new ldBar(b1);
+    b.set(g_dKcal);
+
+    b1 = document.querySelector("#carb");
+    b = new ldBar(b1);
     b.set(g_dKarbo);
     
-    var b1 = document.querySelector("#prot");
-    var b = new ldBar(b1);
+    b1 = document.querySelector("#prot");
+    b = new ldBar(b1);
     b.set(g_dProt);
     
-    var b1 = document.querySelector("#fat");
-    var b = new ldBar(b1);
+    b1 = document.querySelector("#fat");
+    b = new ldBar(b1);
     b.set(g_dFett);
 }
 
-function innhold(innhold) {
-    
+function innhold(CheckboxNr, innhold) {
+    createSlider(CheckboxNr);
+    //console.log("hei");
+    //console.log(innhold);
     var aInnhold = sjekkInnhold(innhold);
-    console.log(aInnhold);
     
-    if ($("#"+innhold).is(":checked")) {
-        g_dCalorier += parseFloat(aInnhold[4]);
-        g_dKarbo += parseFloat(aInnhold[6]);
-        g_dProt += parseFloat(aInnhold[7]);
-        g_dFett += parseFloat(aInnhold[5]);
+    
+    if ($("#checkbox"+CheckboxNr).is(":checked")) {
+        g_dKcal += parseFloat(aInnhold[1]);
+        g_dKarbo += parseFloat(aInnhold[3]);
+        g_dProt += parseFloat(aInnhold[2]);
+        g_dFett += parseFloat(aInnhold[4]);
     }
     else {
-        g_dCalorier -= parseFloat(aInnhold[4]);
-        g_dKarbo -= parseFloat(aInnhold[6]);
-        g_dProt -= parseFloat(aInnhold[7]);
-        g_dFett -= parseFloat(aInnhold[5]);
+        g_dKcal -= parseFloat(aInnhold[1]);
+        g_dKarbo -= parseFloat(aInnhold[3]);
+        g_dProt -= parseFloat(aInnhold[2]);
+        g_dFett -= parseFloat(aInnhold[4]);
     }
 
-    activateLdBar(g_dKarbo, g_dProt, g_dFett);
-    $("#cal").html("Kalorier " + g_dCalorier + " kcal");
+    activateLdBar(g_dKcal, g_dKarbo, g_dProt, g_dFett);
+    //$("#cal").html("Kalorier " + g_dCalorier + " kcal");
 }
 
+// Viser slider for å velge størrelse på ingrediensen 
+function createSlider(CheckboxNr) {
+    //console.log("checked: " + $("#checkbox"+CheckboxNr).is(":checked"));
+    //console.log(CheckboxNr);
+        /*if ($("checkbox"+CheckboxNr).is(":checked")) {
+            $("#slide"+CheckboxNr).show();
+        } else {
+            $("#slide"+CheckboxNr).hide();
+        }*/
+
+        $("#slide"+CheckboxNr).show();
+}
 
 
