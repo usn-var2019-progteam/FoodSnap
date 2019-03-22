@@ -122,7 +122,11 @@ hr.light {
 
 /* Checkbox */
 #ex1Slider .slider-selection {
+<<<<<<< HEAD
   background: #BABABA;
+=======
+	background: #BABABA;
+>>>>>>> Mirsa
 }
 
 @import url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.0/css/bootstrap.min.css');
@@ -144,14 +148,20 @@ hr.light {
   display: none;
 }
 
+<<<<<<< HEAD
 .funkyradio input[type="radio"]:empty~label,
 .funkyradio input[type="checkbox"]:empty~label {
+=======
+.funkyradio input[type="radio"]:empty ~ label,
+.funkyradio input[type="checkbox"]:empty ~ label {
+>>>>>>> Mirsa
   position: relative;
   line-height: 2.5em;
   text-indent: 3.25em;
   margin-top: 2em;
   cursor: pointer;
   -webkit-user-select: none;
+<<<<<<< HEAD
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
@@ -159,6 +169,15 @@ hr.light {
 
 .funkyradio input[type="radio"]:empty~label:before,
 .funkyradio input[type="checkbox"]:empty~label:after {
+=======
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+.funkyradio input[type="radio"]:empty ~ label:before,
+.funkyradio input[type="checkbox"]:empty ~ label:after {
+>>>>>>> Mirsa
   position: absolute;
   display: block;
   top: 0;
@@ -170,6 +189,7 @@ hr.light {
   border-radius: 3px 0 0 3px;
 }
 
+<<<<<<< HEAD
 .funkyradio input[type="radio"]:hover:not(:checked)~label,
 .funkyradio input[type="checkbox"]:hover:not(:checked)~label {
   color: #888;
@@ -177,11 +197,21 @@ hr.light {
 
 .funkyradio input[type="radio"]:hover:not(:checked)~label:before,
 .funkyradio input[type="checkbox"]:hover:not(:checked)~label:after {
+=======
+.funkyradio input[type="radio"]:hover:not(:checked) ~ label,
+.funkyradio input[type="checkbox"]:hover:not(:checked) ~ label {
+  color: #888;
+}
+
+.funkyradio input[type="radio"]:hover:not(:checked) ~ label:before,
+.funkyradio input[type="checkbox"]:hover:not(:checked) ~ label:after {
+>>>>>>> Mirsa
   content: '\2714';
   text-indent: .9em;
   color: #C2C2C2;
 }
 
+<<<<<<< HEAD
 .funkyradio input[type="radio"]:checked~label,
 .funkyradio input[type="checkbox"]:checked~label {
   color: #777;
@@ -189,12 +219,22 @@ hr.light {
 
 .funkyradio input[type="radio"]:checked~label:before,
 .funkyradio input[type="checkbox"]:checked~label:after {
+=======
+.funkyradio input[type="radio"]:checked ~ label,
+.funkyradio input[type="checkbox"]:checked ~ label {
+  color: #777;
+}
+
+.funkyradio input[type="radio"]:checked ~ label:before,
+.funkyradio input[type="checkbox"]:checked ~ label:after {
+>>>>>>> Mirsa
   content: '\2714';
   text-indent: .9em;
   color: #333;
   background-color: #ccc;
 }
 
+<<<<<<< HEAD
 .funkyradio input[type="radio"]:focus~label:before,
 .funkyradio input[type="checkbox"]:focus~label:after {
   box-shadow: 0 0 0 3px #999;
@@ -202,36 +242,70 @@ hr.light {
 
 .funkyradio-default input[type="radio"]:checked~label:before,
 .funkyradio-default input[type="checkbox"]:checked~label:after {
+=======
+.funkyradio input[type="radio"]:focus ~ label:before,
+.funkyradio input[type="checkbox"]:focus ~ label:after {
+  box-shadow: 0 0 0 3px #999;
+}
+
+.funkyradio-default input[type="radio"]:checked ~ label:before,
+.funkyradio-default input[type="checkbox"]:checked ~ label:after {
+>>>>>>> Mirsa
   color: #333;
   background-color: #ccc;
 }
 
+<<<<<<< HEAD
 .funkyradio-primary input[type="radio"]:checked~label:before,
 .funkyradio-primary input[type="checkbox"]:checked~label:after {
+=======
+.funkyradio-primary input[type="radio"]:checked ~ label:before,
+.funkyradio-primary input[type="checkbox"]:checked ~ label:after {
+>>>>>>> Mirsa
   color: #fff;
   background-color: #337ab7;
 }
 
+<<<<<<< HEAD
 .funkyradio-success input[type="radio"]:checked~label:before,
 .funkyradio-success input[type="checkbox"]:checked~label:after {
+=======
+.funkyradio-success input[type="radio"]:checked ~ label:before,
+.funkyradio-success input[type="checkbox"]:checked ~ label:after {
+>>>>>>> Mirsa
   color: #fff;
   background-color: #5cb85c;
 }
 
+<<<<<<< HEAD
 .funkyradio-danger input[type="radio"]:checked~label:before,
 .funkyradio-danger input[type="checkbox"]:checked~label:after {
+=======
+.funkyradio-danger input[type="radio"]:checked ~ label:before,
+.funkyradio-danger input[type="checkbox"]:checked ~ label:after {
+>>>>>>> Mirsa
   color: #fff;
   background-color: #d9534f;
 }
 
+<<<<<<< HEAD
 .funkyradio-warning input[type="radio"]:checked~label:before,
 .funkyradio-warning input[type="checkbox"]:checked~label:after {
+=======
+.funkyradio-warning input[type="radio"]:checked ~ label:before,
+.funkyradio-warning input[type="checkbox"]:checked ~ label:after {
+>>>>>>> Mirsa
   color: #fff;
   background-color: #f0ad4e;
 }
 
+<<<<<<< HEAD
 .funkyradio-info input[type="radio"]:checked~label:before,
 .funkyradio-info input[type="checkbox"]:checked~label:after {
+=======
+.funkyradio-info input[type="radio"]:checked ~ label:before,
+.funkyradio-info input[type="checkbox"]:checked ~ label:after {
+>>>>>>> Mirsa
   color: #fff;
   background-color: #5bc0de;
 }
@@ -240,17 +314,23 @@ hr.light {
 
 /*---Media Queries --*/
 @media (min-width: 1024px) {
+<<<<<<< HEAD
   body {
     width: 60%;
     margin: auto;
   }
 
+=======
+ body{
+   width: 60%;
+   margin: auto;
+ }
+>>>>>>> Mirsa
   .social a {
     font-size: 3em;
     padding: 1em;
   }
 }
-
 @media (max-width: 768px) {
   .display-4 {
     font-size: 200%;
@@ -301,7 +381,11 @@ figure {
 
 /*--- Bootstrap Padding Fix --*/
 [class*="col-"] {
+<<<<<<< HEAD
   padding: 1rem;
+=======
+    padding: 1rem;
+>>>>>>> Mirsa
 }
 
 /*
@@ -393,7 +477,9 @@ Extra (xl) large devices (large desktops, 1200px and up)
   width: 340px;
   margin: 30px auto;
 }
+<<<<<<< HEAD
 
+=======
 .login-form form {
   margin-bottom: 15px;
   background: #fff;
@@ -401,6 +487,68 @@ Extra (xl) large devices (large desktops, 1200px and up)
   border-radius: 10px;
   box-shadow: 0px 0px 10px 0px #000;
 }
+.login-form h2 {
+  margin: 0 0 15px;
+}
+.login-form .hint-text {
+  color: #777;
+  padding-bottom: 15px;
+  text-align: center;
+}
+.form-control, .btn {
+  min-height: 38px;
+  border-radius: 2px;
+}
+.login-btn {        
+  font-size: 15px;
+  font-weight: bold;
+}
+.or-seperator {
+  margin: 20px 0 10px;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+.or-seperator i {
+  padding: 0 10px;
+  background: #fff;
+  position: relative;
+  top: -11px;
+  z-index: 1;
+}
+.social-btn .btn {
+  margin: 10px 0;
+  font-size: 15px;
+  text-align: left; 
+  line-height: 24px;       
+}
+.social-btn .btn i {
+  float: left;
+  margin: 4px 15px  0 5px;
+  min-width: 15px;
+}
+.input-group-addon .fa{
+  font-size: 18px;
+}
+.bg{
+  background: url('reg-log/bilder/veg2.jpg') no-repeat;
+  width: 100%;
+  height: 100vh;
+  background-size: 100%;
+}
+
+.login-form {
+  width: 340px;
+  margin: 30px auto;
+}
+>>>>>>> Mirsa
+.login-form form {
+  margin-bottom: 15px;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+}
+<<<<<<< HEAD
 
 .login-form h2 {
   margin: 0 0 15px;
@@ -416,6 +564,64 @@ Extra (xl) large devices (large desktops, 1200px and up)
 .btn {
   min-height: 38px;
   border-radius: 2px;
+=======
+.login-form h2 {
+  margin: 0 0 15px;
+}
+.login-form .hint-text {
+  color: #777;
+  padding-bottom: 15px;
+  text-align: center;
+}
+.form-control, .btn {
+  min-height: 38px;
+  border-radius: 2px;
+}
+.login-btn {        
+  font-size: 15px;
+  font-weight: bold;
+}
+.or-seperator {
+  margin: 20px 0 10px;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+.or-seperator i {
+  padding: 0 10px;
+  background: #fff;
+  position: relative;
+  top: -11px;
+  z-index: 1;
+}
+.social-btn .btn {
+  margin: 10px 0;
+  font-size: 15px;
+  text-align: left; 
+  line-height: 24px;       
+}
+.social-btn .btn i {
+  float: left;
+  margin: 4px 15px  0 5px;
+  min-width: 15px;
+}
+.input-group-addon .fa{
+  font-size: 18px;
+}
+
+#vilkar{
+  padding-bottom: 10px;
+}
+
+@media only screen and (max-width: 400px) {
+  .bg {
+    background: none;
+   }
+
+  .login-form {
+      width: 85%;
+   }
+
+>>>>>>> Mirsa
 }
 
 .login-btn {
