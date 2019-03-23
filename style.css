@@ -139,9 +139,11 @@ hr.light {
   font-weight: normal;
 }
 
+
 .funkyradio input[type="checkbox"]:empty {
   display: none;
 }
+
 
 .funkyradio input[type="checkbox"]:empty~label {
   position: relative;
@@ -155,6 +157,7 @@ hr.light {
   user-select: none;
 }
 
+
 .funkyradio input[type="checkbox"]:empty~label:after {
   position: absolute;
   display: block;
@@ -167,55 +170,66 @@ hr.light {
   border-radius: 3px 0 0 3px;
 }
 
-/*.funkyradio input[type="checkbox"]:hover:not(:checked)~label {
-  color: #888;
-}*/
 
-/*.funkyradio input[type="checkbox"]:hover:not(:checked)~label:after {
+.funkyradio input[type="checkbox"]:hover:not(:checked)~label {
+  color: #888;
+}
+
+
+.funkyradio input[type="checkbox"]:hover:not(:checked)~label:after {
   content: '\2714';
   text-indent: .9em;
   color: #C2C2C2;
-}*/
+}
 
-/*.funkyradio input[type="checkbox"]:checked~label {
+
+.funkyradio input[type="checkbox"]:checked~label {
   color: #777;
-}*/
+}
 
-/*.funkyradio input[type="checkbox"]:checked~label:after {
+
+.funkyradio input[type="checkbox"]:checked~label:after {
   content: '\2714';
   text-indent: .9em;
   color: #333;
   background-color: #ccc;
-}*/
+}
+
 
 .funkyradio input[type="checkbox"]:focus~label:after {
   box-shadow: 0 0 0 3px #999;
 }
 
-/*.funkyradio-default input[type="checkbox"]:checked~label:after {
+
+.funkyradio-default input[type="checkbox"]:checked~label:after {
   color: #333;
   background-color: #ccc;
-}*/
+}
+
 
 .funkyradio-primary input[type="checkbox"]:checked~label:after {
   color: #fff;
   background-color: #337ab7;
 }
 
+
 .funkyradio-success input[type="checkbox"]:checked~label:after {
   color: #fff;
   background-color: #5cb85c;
 }
+
 
 .funkyradio-danger input[type="checkbox"]:checked~label:after {
   color: #fff;
   background-color: #d9534f;
 }
 
+
 .funkyradio-warning input[type="checkbox"]:checked~label:after {
   color: #fff;
   background-color: #f0ad4e;
 }
+
 
 .funkyradio-info input[type="checkbox"]:checked~label:after {
   color: #fff;

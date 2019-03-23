@@ -160,9 +160,9 @@ function analyzeImage() {
 
                         
                         sHtml +='<div class="funkyradio-danger">';
-                        sHtml +='<input type="checkbox" name="checkbox" id="checkbox'+(++iTeller)+'" onclick="innhold('+iTeller+', \''+sMat+'\')" />';
+                        sHtml +='<input type="checkbox" name="checkbox" id="checkbox'+(++iTeller)+'" onchange="onCheckboxChanged(this.checked)" onclick="innhold('+iTeller+', \''+sMat+'\');" />';
                         sHtml +='<label for="checkbox'+(iTeller)+'">'+sMat+'</label>';
-                        sHtml +='<input type="range" class="form-control-range slider" id="slide'+iTeller+'" style="display:none">';
+                        sHtml +='<input type="range" class="form-control-range slider" id="hiddenRow" id="slide'+iTeller+'" style="display: none">';
                         sHtml +='</div>';
         
                     
@@ -224,7 +224,7 @@ function activateLdBar(g_dKcal, g_dKarbo, g_dProt, g_dFett) {
 }
 
 function innhold(CheckboxNr, innhold) {
-    createSlider(CheckboxNr);
+    //createSlider(CheckboxNr);
     //console.log("hei");
     //console.log(innhold);
     var aInnhold = sjekkInnhold(innhold);
@@ -248,18 +248,24 @@ function innhold(CheckboxNr, innhold) {
 }
 
 // Viser slider for å velge størrelse på ingrediensen 
-function createSlider(CheckboxNr) {
-    console.log("checked: " + $("#checkbox"+CheckboxNr).is(":checked"));
-    //console.log(checkSlide);
-    if("checkbox"+CheckboxNr == true){
-        $("#slide"+CheckboxNr).fadeOut();
-    } else
-        $("#slide"+CheckboxNr).fadeIn();
-
-        /*if ($("checkbox"+CheckboxNr).is(":checked")) {
-            $("checkSlide").show();
+/*function createSlider(CheckboxNr) {
+    //console.log("checked: " + $("#checkbox"+CheckboxNr).is(":checked"));
+    //console.log(CheckboxNr);
+        if ($("checkbox"+CheckboxNr).is(":checked")) {
+            $("#slide"+CheckboxNr).show();
         } else {
-            $("checkSlide").hide();
-        }*/
-        //$("#slide"+CheckboxNr).show();
+            $("#slide"+CheckboxNr).hide();
+        }
+
+        $("#slide"+CheckboxNr).show();
+}*/
+
+function onCheckboxChanged(checked){
+    console.log(checked);
+    if(checked == true){
+
+    $("#hiddenRow").show();
+
+    }else $("#hiddenRow").hide();
+
 }
