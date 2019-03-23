@@ -61,7 +61,7 @@
         <!--div class="lds-ring"><div></div><div></div><div></div><div></div></div-->
         <div class="container-fluid padding">
                 <!--Ta bilde funksjon-->
-                <div class="row text-center">
+                <div class="row  text-center">
                         <div class="col-12">
                                 <form action="" name="analyseImage" id="analyseImage" method="post"
                                         enctype="multipart/form-data">
@@ -90,7 +90,32 @@
                 </div>
                 <div class="container-fluid padding">
                         <div class="row welcome text-center">
-                                <div class="col-12" id="imageInfo"></div>
+                                        <div class="col-12" id="imageInfo"></div>
+                                <div class="col-12">
+                                                <div class="funkyradio">
+                                                <div class="funkyradio-danger">
+                                                                <input type="checkbox" name="checkbox" id="checkbox20" onclick="innhold(20,'pizza')" />
+                                                                <label for="checkbox20">Skinke</label>
+                                                                <!--<<input type="range" class="form-control-range" id="slide20" style="display: none">-->
+                                                               <input type="range" min="0" max="100" value="50" class="slider" id="slider">
+                                                               <div class="box">
+                                                                        <center><div id="value"></div> </center>
+                                                                </div>
+                                                                        
+                                                                        <!--Her er js til knappen   (jeg har også lagt til stylen i stylecss) -->
+                                                                        
+                                                                        <script type="text/javascript">
+                                                                                var slider=document.getElementById("slider");
+                                                                                var val=document.getElementById("value");
+                                                                                val.innerHTML=slider.value;
+                                                                                slider.oninput=function(){
+                                                                                        val.innerHTML=this.value;
+                                                                                }
+                                                                        </script>
+                                                                </div>
+                                                                </div>
+                                                                </div>
+                                </div>
 
                                 <div class="col-md-12 text-center">
                                         <!--<div class="spinner-grow text-danger" role="status">
@@ -108,19 +133,26 @@
                                 <div class="col-12">
 
                                         <hr class="my-4">
+                                        <div class="intro-text">
                                         <div class="btn-group btn-group-lg" id="fanContent">
+                                                <div data-intro="Trykk her for å ta bilde"
+                                                class="intro-lead-in">
                                                 <div data-preset="circle" class="ldBar label-center" id="kcal"
                                                         data-min="0" data-max="1600" data-value="850"></div>
-                                        </div><br>
-
+                                        </div>
+                                        <br>
+                                        </div>
                                         <div class="btn-group btn-group-lg" id="fanContent">
                                                 <div data-preset="fan1" class="ldBar label-center" id="carb"
                                                         data-min="0" data-max="200" data-value="104"></div>
+
                                                 <div data-preset="fan2" class="ldBar label-center" id="prot"
                                                         data-min="0" data-max="200" data-value="58"></div>
+                                                        
                                                 <div data-preset="fan3" class="ldBar label-center" id="fat" data-min="0"
                                                         data-max="200" data-value="150"
                                                         data-min="0" data-max="200" data-value=""></div>
+                                        </div>
 
                                         </div>
                                         <div>Karbo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Protein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fett

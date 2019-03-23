@@ -171,7 +171,7 @@ function analyzeImage() {
                 }
             }
             sHtml +='</div>';
-            sHtml += "</table>";
+            
             //console.log(sHtml);
             $("#imageInfo").show();
             $("#imageInfo").html(sHtml);
@@ -256,7 +256,7 @@ function createSlider(CheckboxNr) {
         } else {
             $("#slide"+CheckboxNr).hide();
         }*/
-
+        console.log();
         $("#slide"+CheckboxNr).show();
 }
 
