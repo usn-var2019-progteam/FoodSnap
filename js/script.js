@@ -162,7 +162,7 @@ function analyzeImage() {
                         sHtml +='<div class="funkyradio-danger">';
                         sHtml +='<input type="checkbox" name="checkbox" id="checkbox'+(++iTeller)+'" onclick="innhold('+iTeller+', \''+sMat+'\')" />';
                         sHtml +='<label for="checkbox'+(iTeller)+'">'+sMat+'</label>';
-                        sHtml +='<input type="range" class="form-control-range" id="slide'+iTeller+'" style="display: none">';
+                        sHtml +='<input type="range" class="form-control-range slider" id="slide'+iTeller+'" style="display:none">';
                         sHtml +='</div>';
         
                     
@@ -249,15 +249,17 @@ function innhold(CheckboxNr, innhold) {
 
 // Viser slider for å velge størrelse på ingrediensen 
 function createSlider(CheckboxNr) {
-    //console.log("checked: " + $("#checkbox"+CheckboxNr).is(":checked"));
-    //console.log(CheckboxNr);
+    console.log("checked: " + $("#checkbox"+CheckboxNr).is(":checked"));
+    //console.log(checkSlide);
+    if("checkbox"+CheckboxNr == true){
+        $("#slide"+CheckboxNr).fadeOut();
+    } else
+        $("#slide"+CheckboxNr).fadeIn();
+
         /*if ($("checkbox"+CheckboxNr).is(":checked")) {
-            $("#slide"+CheckboxNr).show();
+            $("checkSlide").show();
         } else {
-            $("#slide"+CheckboxNr).hide();
+            $("checkSlide").hide();
         }*/
-
-        $("#slide"+CheckboxNr).show();
+        //$("#slide"+CheckboxNr).show();
 }
-
-
