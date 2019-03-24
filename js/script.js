@@ -162,7 +162,7 @@ function analyzeImage() {
                         sHtml +='<div class="funkyradio-danger">';
                         sHtml +='<input type="checkbox" name="checkbox" id="checkbox'+(++iTeller)+'" onchange="onCheckboxChanged(this.checked)" onclick="innhold('+iTeller+', \''+sMat+'\');" />';
                         sHtml +='<label for="checkbox'+(iTeller)+'">'+sMat+'</label>';
-                        sHtml +='<input type="range" class="form-control-range slider" id="hiddenRow" id="slide'+iTeller+'" style="display: none">';
+                        sHtml +='<input type="range" class="form-control-range slider" id="hiddenRow" id="slider'+iTeller+'" style="display: none">';
                         sHtml +='</div>';
         
                     
