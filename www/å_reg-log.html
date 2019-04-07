@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login - Foodsnap</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/login-style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
+</head>
+
+<body>
+    <section class="bg">
+        <div class="login-form">
+            <form name= "form" action"" method="post">
+                <h2 class="text-center" id="tittel">Logg inn</h2>      
+                <div class="text-center social-btn">
+                    <a href="#" class="btn btn-primary btn-block"><i class="fa fa-facebook"></i> Fortsett med <b>Facebook</b></a>
+                    <a href="#" class="btn btn-danger btn-block"><i class="fa fa-google"></i> Fortsett med <b>Google</b></a>
+                </div>
+
+                <div class="or-seperator"><i>eller</i></div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">E-postadresse/mobil</label>
+                    <input type="email" class="form-control" id="brukernavn" aria-describedby="emailHelp" placeholder="E-postadresse/mobil">
+                </div>
+
+                <div class="form-group" id="passord" >
+                    <label for="exampleInputPassword1">Passord</label>
+                    <input type="password" class="form-control" id="password" placeholder="Passord">
+                </div>
+
+                <div class="clearfix" id="vilkar" style="display:none;">
+                    <label class="pull-left checkbox-inline"><input type="checkbox" >Jeg samtykker til vilkårene</label> 
+                    <br>
+                    <a href="vilkar.html" class="hint-text small" style="padding-left: 23px;">Personvern og vilkår</a>
+                </div>
+
+                <div class="clearfix" id="husk">
+                    <label class="pull-left checkbox-inline"><input type="checkbox">Husk meg</label> 
+                     <br>
+                    <br>
+                </div>
+
+                <div class="form-group">
+                    <button type="button" class="btn btn-success btn-block login-btn" id="login" ><a href="index.html" style="color:#ffff">
+                        Logg inn 
+                    </a>
+                    </button>
+                </div>
+
+                <div class="form-group" onClick="hide();">
+                    <button type="button" class="btn btn-success btn-block login-btn" id="knapp" style="display:none;" onclick="hide();"><!--a href="reg-log.html" style="color:#ffff"-->
+                            Registrer
+                        <!--/a-->
+                    </button>
+                </div>
+
+               <div class="hint-text" id="mail" style="display:none;"> 
+                Du vil nå motta en e-post/sms med en engangskode. Koden sendes til e-postadressen/mobilnummer som er registrert. 
+               </div> 
+            </form>
+            <div class="hint-text small" id="text">Ingen konto?</div>
+            <div class="hint-text small" > 
+                <a href="#" class="text-success" id= "reg" onClick="show();">Register deg her!</a>
+                <a href="reg-log.html" class="text-success" id= "inn" style="display:none;">Logg inn her!</a>
+                <a href="index.html" class="text-success" id= "hopp">Hopp over</a>
+            </div>
+        </div>
+
+    </section>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript"> 
+
+        function show(){
+            $("#tittel").html("Registrer deg");
+            $("#vilkar").show(""); 
+            $("#husk").addClass("hidden"); 
+            $("#text").html("Allerede medlem?");
+            $("#reg").addClass("hidden");
+            $("#passord").addClass("hidden");
+            $("#inn").show("");
+            $("#knapp").show("");
+            $("#login").addClass("hidden");
+            
+        }
+
+        function hide(){
+            $("#tittel").html("Logg inn");
+            $("#vilkar").addClass("hidden");  
+            $("#text").html("Ingen konto?");
+            $("#reg").removeClass("hidden");
+            $("#husk").removeClass("hidden"); 
+            $("#passord").removeClass("hidden");
+            $("#inn").addClass("hidden");
+            $("#knapp").addClass("hidden");
+            $("#login").removeClass("hidden");
+            $("#mail").show("");
+        }
+
+        function login() {
+             var sBrukernavn = $("#brukernavn").val();
+             var sPassord = $("#password").val();
+             console.log(sBrukernavn);
+             console.log(sPassord);
+             $.ajax({
+                url: "ajax_bruker.php",
+                method: "post",
+                dataType: 'json',
+                data: {
+                    'act': 'login',
+                    'brukernavn': sBrukernavn,
+                    'passord': sPassord
+                },
+                success: function( result ) {
+                    console.log(result)
+                    var aData = result.aData[0];
+                    console.log(aData);
+                    var PassordDB = aData['Passord'];
+                    console.log("passordDB: " + PassordDB);
+                }
+            });
+        }
+
+    </script>
+</body>
+</html>                            

@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+
+<html lang="no">
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>FoodSnap</title>
+        <link rel="icon" href="img/favicon.PNG" sizes="16x16" type="image/png">
+        
+        <link rel="stylesheet" type="text/css" href="bootstrap-4.3.1-dist/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="pretty-checkbox-master/dist/pretty-checkbox.css">
+        <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Open+Sans'>
+        <link rel="stylesheet" type="text/css" href="css/loading-bar.css">
+        <link rel="stylesheet" href="css/style.css">
+        
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script type="text/javascript" src="bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+        <script type="text/javascript" src="https://sdk.clarifai.com/js/clarifai-latest.js"></script>
+        <script type="text/javascript" src="js/notify.js"></script>
+        <script type="text/javascript"  src="js/jquery-eu-cookie-law-popup.js"></script>
+        <!--script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script-->
+        
+        <script type="text/javascript" src="js/loading-bar.js"></script>
+        
+        <!--script type="text/javascript" src="intro.js-2.9.3/intro.js"></script>
+        <link rel="stylesheet" href="intro.js-2.9.3/introjs.css"-->
+        
+</head>
+
+<body>
+    <!-- Login registreriung -->
+    <section class="bg" id="loginRegistrer">
+        <div class="login-form">
+            <form name= "form" action="" method="post">
+                <h2 class="text-center" id="tittel">Logg inn</h2>      
+                <div class="text-center social-btn">
+                    <a href="#" class="btn btn-primary btn-block"><i class="fa fa-facebook"></i> Fortsett med <b>Facebook</b></a>
+                    <a href="#" class="btn btn-danger btn-block"><i class="fa fa-google"></i> Fortsett med <b>Google</b></a>
+                </div>
+
+                <div class="or-seperator"><i>eller</i></div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">E-postadresse/mobil</label>
+                    <input type="email" class="form-control" id="brukernavn" aria-describedby="emailHelp" placeholder="E-postadresse/mobil">
+                </div>
+
+                <div class="form-group" id="passord" >
+                    <label for="exampleInputPassword1">Passord</label>
+                    <input type="password" class="form-control" id="password" placeholder="Passord">
+                </div>
+
+                <div class="clearfix" id="vilkar" style="display:none;">
+                    <label class="pull-left checkbox-inline"><input type="checkbox" id="checkvilkar">&nbsp;Jeg samtykker til vilkårene</label> 
+                    <br>
+                    <a data-target="#modalVilkar" data-toggle="modal" class="MainNavText hint-text small" id="MainNavHelp" href="#modalVilkar" style="padding-left: 23px;">
+                        Personvern og vilkår
+                    </a>
+                </div>
+
+                <div class="clearfix" id="husk">
+                    <label class="pull-left checkbox-inline"><input type="checkbox">&nbsp;Husk meg</label> 
+                     <br>
+                    <br>
+                </div>
+
+                <div class="form-group">
+                    <button type="button" class="btn btn-success btn-block login-btn" id="login" ><a href="index.html" style="color:#ffff">
+                        Logg inn 
+                    </a>
+                    </button>
+                </div>
+
+                <div class="form-group">
+                    <button type="button" class="btn btn-success btn-block login-btn" id="knapp" style="display:none;" onclick="register();"><!--a href="reg-log.html" style="color:#ffff"-->
+                            Registrer
+                        <!--/a-->
+                    </button>
+                </div>
+
+               <div class="hint-text" id="mail" style="display:none;"> 
+                   Du vil nå motta en e-post/sms med en engangskode. <br />Koden sendes til e-postadressen/mobilnummer som er registrert. 
+               </div> 
+            </form>
+            <div class="hint-text small" id="text">Ingen konto?</div>
+            <div class="hint-text small" > 
+                <a href="#" class="text-success" id= "reg" onClick="registerSkjema();">Register deg her!</a>
+                <a href="#" class="text-success" id= "inn" style="display:none;">Logg inn her!</a>
+                <a href="#" class="text-success" id= "hopp" onclick="showAnalyzeImage();">Hopp over</a>
+            </div>
+        </div>
+    </section>
+    
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-md navbar-dark bg-red sticky-top analyseImage">
+            <div class="container-fluid" id="analyseImage">
+                <a class="navbar-brand" href="index.html">FoodSnap</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarResponsive">
+                        <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <!--li class="nav-item text-center active">
+                                <a class="nav-link" href="index.html"><span class="fas fa-home"></span>
+                                        Hjem</a>
+                        </li-->
+
+                        <!--li class="nav-item text-center">
+                                <a class="nav-link" href="#om"><span class="far fa-lightbulb"></span>
+                                        Om</a>
+                        </li-->
+                        <li class="nav-item text-center" id="Login">
+                                <a class="nav-link" href="#" onclick="showLogin();"><span class="fas fa-user"></span>Registrer / Logg inn</a>
+                        </li>
+                        <li class="nav-item dropdown text-center" id="myPage">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Min side
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Mine Aktivitet</a>
+                                <a class="dropdown-item" href="profile.html">Innstillinger</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">Logg ut</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container-fluid padding analyseImage">
+                <!--Ta bilde funksjon-->
+                <div class="row text-center">
+                        <div class="col-12">
+                                <form action="" name="analyseImage" id="analyseImage" method="post"
+                                        enctype="multipart/form-data">
+                                        <canvas class="img-fluid" id="hjem" onclick="activateCamera();" style="height:400px;width:auto;"></canvas>
+                                        <div>
+                                                <div class="intro-text">
+                                                        <button data-intro="Trykk her for å ta bilde"
+                                                                class="intro-lead-in" type="button"
+                                                                class="btn btn-default" id="taBilde"><i
+                                                                        class="fas fa-camera"></i>
+                                                                Ta bilde</button>
+                                                        <button data-intro="Trykk her for å laste opp bilde lokalt fra din enhet"
+                                                                class="intro-heading" type="button"
+                                                                class="btn btn-default" id="lastOppBilde"><i
+                                                                        class="fas fa-folder-open"></i>
+                                                                Last opp bilde</button>
+
+                                                               <!--her er introduksjonen 
+                                                        <a href="javascript:void(0)" onclick="introJs().start();"
+                                                                class="page-scroll btn btn-xl">Start Introjs</a>--> 
+                                                </div>
+                                        </div>
+                                        <!-- id=mypic MÅ SJEKKES FOR FEIL! default "velg bilde" knapp kommer opp. Satt på display:none som midlertidig fix.-->
+                                        <input type="file" id="mypic" name="image" accept="image/*"
+                                                onchange="getFile();" style="display:none;">
+                                </form>
+                        </div>
+                </div>
+                <div class="container-fluid padding">
+                        <div class="row text-center">
+                            <!--div class="col-10 test">sdfsd</div>
+                            <script>
+                                $(".test").notify(
+                                    "I'm to the right of this box", 
+                                    { 
+                                        position:"right",
+                                        clickToHide: true
+                                    }
+                                  )
+                                </script-->
+                            <div class="col-12" id="imageInfo"></div>
+                        </div>
+                </div>
+
+                <div class="container-fluid padding">
+                        <div class="row text-center">
+                                <div class="col-12">
+
+                                        <hr class="my-4">
+                                        <h1>Næringsinnhold</h1>
+                                        <div class="btn-group btn-group-lg" id="fanContent">
+                                                <div data-preset="circle" class="ldBar label-center" id="kcal"
+                                                        data-min="0" data-max="1600" data-value="0"> Kcal</div>
+                                        </div><br><br>
+                                        <div class="btn-group btn-group-lg" id="fanContent">
+                                                <div data-preset="fan1" class="ldBar label-center" id="carb"
+                                                        data-min="0" data-max="200" data-value="0"></div>
+                                                <div data-preset="fan2" class="ldBar label-center" id="prot"
+                                                        data-min="0" data-max="200" data-value="0"></div>
+                                                <div data-preset="fan3" class="ldBar label-center" id="fat" 
+                                                        data-min="0" data-max="200" data-value="0"></div>
+
+                                        </div>
+                                        <div>Karb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                Prot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                Fett
+                                        </div>
+
+
+                                </div>
+                        </div>
+                </div>
+        </div>
+
+
+
+        <hr>
+
+
+
+        <!--- Footer -->
+        <footer class="analyseImage">
+                <div class="container-fluid padding">
+                        <div class="row text-center">
+                                <div class="col-12">
+                                        
+                                        <h5>&copy; FoodSnap
+                                            2019</h5>
+                                            <hr class="my-4">
+                                </div>
+                        </div>
+                </div>
+        </footer>
+
+        <script type="text/javascript" src="js/mattabell.js"></script>
+        <script type="text/javascript" src="js/translate.js"></script>
+        <script type="text/javascript" src="js/script.js"></script>
+        
+        <!--Checkbox slider hide/show-->
+        <!--<script>  
+        function onCheckboxChanged(checked){
+	        if(checked)
+		$("#hiddenRow").show();
+		
+	        else $("#hiddenRow").hide();
+        }
+        </script>-->
+        <!-- The Modal -->
+<div class="modal" id="modalWait">
+  <div class="modal-dialog">
+    <div class="modal-content">
+        <div class="text-center">
+            <img src="img/spinner.gif" alt="spinner" style="height:200px; width:200px;"/>
+        </div>
+
+    </div>
+  </div>
+</div>
+        
+        <!-- Button to Open the Modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+  Open modal
+</button>
+
+<!-- The Modal -->
+<div class="modal" id="modalVilkar">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Personvern og vilkår</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        Vi tar våre kunders personvern på alvor, og sørger for at vi til enhver tid følger gjeldende lov 
+        for behandling av personopplysninger. På disse sidene får du informasjon om våre vilkår samt hvordan vi 
+        håndterer bruk av informasjonskapsler, også kalt cookies.
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Lukk</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+</body>
+
+</html>

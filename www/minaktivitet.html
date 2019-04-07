@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<head>
+    <html lang="en">
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/favicon.PNG" sizes="16x16" type="image/png">
+    <link rel="stylesheet" type="text/css" href="bootstrap-4.3.1-dist/css/bootstrap.min.css">
+    <!--<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css"/>-->
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+    <script type="text/javascript" src="https://sdk.clarifai.com/js/clarifai-latest.js"></script>
+    <!--script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script-->
+    <!--script src="js/jquery-eu-cookie-law-popup.js"></script-->
+    <link rel="stylesheet" type="text/css" href="css/loading-bar.css">
+    <script type="text/javascript" src="js/loading-bar.js"></script>
+    <link rel="stylesheet" type="text/css" href="pretty-checkbox-master/dist/pretty-checkbox.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="intro.js-2.9.3/intro.js"></script>
+    <link rel="stylesheet" href="intro.js-2.9.3/introjs.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" type="text/css" href="css/styleaktivitet.css"/>
+    <title>Mine Aktiviteter</title>
+  </head>
+
+  <body>
+     <!-- Navigation 
+     <nav class="navbar navbar-expand-md navbar-dark bg-red sticky-top">
+        <div class="container-fluid">
+                <a class="navbar-brand" href="index.html">FoodSnap</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarResponsive">
+                        <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                        <ul class="navbar-nav ml-auto">
+                                <li class="nav-item text-center" id="Login">
+                                        <a class="nav-link" href="reg-log.html"><span
+                                                        class="fas fa-user"></span>
+                                                Registrer / Logg inn</a>
+                                </li>
+                                <li class="nav-item dropdown text-center" id="myPage">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                          Min side
+                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                          <a class="dropdown-item" href="MinAktivitet">Mine Aktiviteter</a>
+                                          <a class="dropdown-item" href="profile.html">Innstillinger</a>
+                                          <div class="dropdown-divider"></div>
+                                          <a class="dropdown-item" href="#">Logg ut</a>
+                                          
+                                        </div>
+                                </li>
+                                
+                        </ul>
+                </div>
+        </div>
+</nav>-->
+
+    <div class="container">
+      <div class="header">
+        <h1>Mine aktiviteter</h1>
+        
+      </div><h4>I dag: </h4>
+
+      <div class="circles">
+        <div class="circle-container">
+          <div class="status-circle aktive">
+            <h1>2300</h1>
+          </div>
+          <h4>Total kalorier</h4>
+        </div>
+        <div class="circle-container">
+        <div class="status-circle opplastet">
+          <h1>5</h1>
+        </div>
+        <h4>Antall Måltider</h4>
+        </div>
+        <div class="circle-container">
+        <div class="status-circle opplastet">
+          <h1>15</h1>
+        </div>
+        <h4>bilder opplastet</h4>
+        </div>
+      </div>
+     <!-- Her begynner uken ---> 
+      <div class="container">
+        <div class="header">
+          <h2>Ukesoppdatering</h2>
+        </div>
+          <h4>Mandag:</h4>
+          <div class="circles01">
+            <div class="circle-container-uke">
+              <div class="status-circle aktive">
+                <h1>0</h1>
+              </div>
+              <h4>Totale kalorier</h4>
+            </div>
+            <div class="circle-container-uke">
+            <div class="status-circle opplastet">
+              <h1>0</h1>
+            </div>
+            <h4>Antall måltider</h4>
+            </div>
+            <div class="circle-container-uke">
+            <div class="status-circle visitors">
+              <h1>0</h1>
+            </div>
+            <h4>Bilder opplastet</h4>
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+            <div class="header">
+              <h2> </h2>
+            </div>
+              <h4>Tirsdag: </h4>
+              <div class="circles01">
+                <div class="circle-container-uke">
+                  <div class="status-circle aktive">
+                    <h1>0</h1>
+                  </div>
+                  <h4>Total kalorier</h4>
+                </div>
+                <div class="circle-container-uke">
+                <div class="status-circle opplastet">
+                  <h1>0</h1>
+                </div>
+                <h4>Antall måltider</h4>
+                </div>
+                <div class="circle-container-uke">
+                <div class="status-circle visitors">
+                  <h1>0</h1>
+                </div>
+                <h4>Bilder opplastet</h4>
+                </div>
+              </div>
+            </div>
+            <div class="container">
+                <div class="header">
+                  <h2> </h2>
+                </div>
+                  <h4>Onsdag: </h4>
+                  <div class="circles01">
+                    <div class="circle-container-uke">
+                      <div class="status-circle aktive">
+                        <h1>0</h1>
+                      </div>
+                      <h4>Total kalorier</h4>
+                    </div>
+                    <div class="circle-container-uke">
+                    <div class="status-circle opplastet">
+                      <h1>0</h1>
+                    </div>
+                    <h4>Antall måltider</h4>
+                    </div>
+                    <div class="circle-container-uke">
+                    <div class="status-circle visitors">
+                      <h1>0</h1>
+                    </div>
+                    <h4>Bilder opplastet</h4>
+                    </div>
+                  </div>
+                </div>
+
+    <!--<script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script> -->
+
+    </div>
+  </body>
+</html>
