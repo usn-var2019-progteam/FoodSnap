@@ -7,7 +7,7 @@ ta bilde eller laste opp bilde av et matrett og
 applikasjonen skal kunne gjennkenne matretten og vise næringsinnholdet.
 Bruker kan selv styre mengden av matretten for å kunne få den mest riktige næringsinnholds mengde.
 
-Built With:
+Built With
 ----------------
 Bootstrap 4,
 JavaScript,
@@ -16,7 +16,7 @@ SQL,
 HTML5,
 CSS
 
-Authors:
+Authors
 ----------------
 Mirsa Ficori, 			
 Finn S. Gundersen, 	
@@ -27,7 +27,7 @@ Nicole Bendu,
 John-Berge Grimaas,  	
 Tone Kostveit Rogne 
 
-Acknowledgement:
+Acknowledgement
 ----------------
 Matvaretabellen.no,
 Loading.io,
