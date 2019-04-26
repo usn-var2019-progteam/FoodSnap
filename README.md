@@ -32,4 +32,4 @@ Acknowledgement
 Matvaretabellen.no,
 Loading.io,
 Bootsnipp,
-Faricly API
+Fariclai API
