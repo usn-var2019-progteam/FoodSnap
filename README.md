@@ -29,7 +29,7 @@ Tone Kostveit Rogne
 
 Acknowledgement:
 ----------------
-Matvaretabellen.no
-Loading.io
-Boostrap Funkyradio
+Matvaretabellen.no,
+Loading.io,
+Bootsnipp,
 Faricly API
