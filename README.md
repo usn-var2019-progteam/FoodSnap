@@ -18,13 +18,13 @@ CSS
 
 Authors:
 ----------------
-Mirsa Ficori 			
-Finn S. Gundersen 	
-Farhad Ahmadhadi 	
-Mathilde Stange 		
-Linda Loftsgarden 	
-Nicole Bendu 		
-John-Berge Grimaas  	
+Mirsa Ficori, 			
+Finn S. Gundersen, 	
+Farhad Ahmadhadi, 	
+Mathilde Stange, 		
+Linda Loftsgarden, 	
+Nicole Bendu, 		
+John-Berge Grimaas,  	
 Tone Kostveit Rogne 
 
 Acknowledgement:
