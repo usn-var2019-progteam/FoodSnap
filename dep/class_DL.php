@@ -2,7 +2,8 @@
 if ( !class_exists("class_DL"))
 {
     require_once "../dep/class_dbpdo.php";
-    require_once "../dep/class_log.php";
+    require_once "../dep/class_log.php"; 
+	 
     
     class class_DL
     {
