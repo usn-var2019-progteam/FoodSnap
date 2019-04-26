@@ -30,3 +30,6 @@ Tone Kostveit Rogne
 Acknowledgement:
 ----------------
 Matvaretabellen.no
+Loading.io
+Boostrap Funkyradio
+Faricly API
