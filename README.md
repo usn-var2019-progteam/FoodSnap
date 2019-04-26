@@ -9,11 +9,11 @@ Bruker kan selv styre mengden av matretten for å kunne få den mest riktige næ
 
 Built With:
 ----------------
-Bootstrap 4
-JavaScript
-PHP
-SQL
-HTML5
+Bootstrap 4,
+JavaScript,
+PHP,
+SQL,
+HTML5,
 CSS
 
 Authors:
