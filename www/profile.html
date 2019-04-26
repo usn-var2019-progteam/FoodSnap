@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Profil</title>
+        <link rel="icon" href="img/favicon.PNG" sizes="16x16" type="image/png">
+        
+         <link rel="stylesheet" type="text/css" href="css/profile.css">
+
+        
+        <link rel="stylesheet" type="text/css" href="bootstrap-4.3.1-dist/css/bootstrap.min.css">
+        <script type="text/javascript" src="bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+        
+        <!--script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <!--script type="text/javascript" src="javascript01.js"></script-->
+       
+        <script src="js/profile.js"></script>
+
+
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" id="bootstrap-css">
+        <link rel="stylesheet" type="text/css" href="css/styleaktivitet.css"/>
+    </head>
+    <body>
+        <div class="container snippet" id="profile">
+            <div class="row">
+                <div class="header">
+                    <div class="col-sm-10"><h1>Endre brukerprofil</h1></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-3"><!--left col-->
+                    <div class="text-center">
+                        <div class="status-circle"><h1>12345</h1></div>
+                        <img src="http://ssl.gstatic.com/accounts/ui/avatar_2x.png" class="avatar img-thumbnail" alt="avatar">
+                        <h6 id="navn"></h6>
+                        <h6>Opplast nytt profilbilde</h6>
+                        <!--input type="file" class="text-center file-upload" disabled-->
+                </div>
+                <hr>
+                <br>
+                <ul class="list-group">
+                    <li class="list-group-item text-muted">Mine Aktiviteter<i class="fa fa-dashboard fa-1x"></i></li>
+                    <li class="list-group-item text-right"><span class="pull-left"><strong>Bilder opplastet</strong></span> 13</li>
+                    <!--<li class="list-group-item text-right"><span class="pull-left"><strong>Posts</strong></span> 37</li>
+                    <li class="list-group-item text-right"><span class="pull-left"><strong>Followers</strong></span> 78</li> -->
+                </ul> 
+            </div><!--/col-3-->
+            <div class="col-sm-9">
+                <div class="tab-content">
+                    <div class="tab-pane active" id="home">
+                        <hr>
+                        <form class="form" method="post" id="registrationForm">
+                            <div class="col-xs-12 form-group">
+                                <label for="first_name">Fornavn</label>
+                                <input type="text" class="form-control" name="navn" id="first_name" placeholder="Fornavn" title="Endre fornavn.">
+                            </div>
+                            <div class="col-xs-12 form-group">
+                                <label for="midle_name">Mellomnavn</label>
+                                <input type="text" class="form-control" name="mellomnavn" id="mellomnavn" placeholder="Mellomnavn" title="Endre mellomnavn.">
+                            </div>
+                            <div class="col-xs-12 form-group">
+                                <label for="last_name">Etternavn</label>
+                                <input type="text" class="form-control" name="etternavn" id="etternavn" placeholder="Etternavn" title="Endre etternavn.">
+                            </div>
+                            <div class="col-xs-12 form-group">
+                                <label for="email">Email</label>
+                                <input type="email" class="form-control" name="email" id="email" placeholder="E-post" title="Endre email.">
+                            </div>
+                          
+                            <div class="col-xs-12 form-group">
+                               <label for="mobile">Mobil</label>
+                                <input type="text" class="form-control" name="mobile" id="mobil" placeholder="Mobilnummer" title="Endre mobilnummer.">
+                            </div>
+                            </div>
+                            <!--div class="col-xs-6">
+                                <label for="adresse_name">Adresse</label>
+                                <input type="text" class="form-control" name="adresse_name" id="adresse_name" placeholder="Adresse" title="Endre adresse.">
+                            </div-->
+                            <div class="col-xs-12 form-group">
+                                <br>
+                                <button class="btn btn-lg btn-success pull-right" onclick="updateUser();"><i class="glyphicon glyphicon-ok-sign"></i> Lagre</button>
+                                <button class="btn btn-lg btn-default"><i class="glyphicon glyphicon"></i><a href="main.php" style="color:black">Tilbake</a></button>
+                            </div>
+                            <br>
+                            <div class="col-xs-6">
+                                <br>
+                                <br>
+                                <br>
+                                <label for="password">Endre passord</label>
+                                <input type="password" class="form-control" name="password" id="password" placeholder="Endre passord" title="legg til ny passord.">
+                            </div>
+                            <div class="form-group">
+                                <div class="col-xs-6">
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <label for="password2">Nytt passord</label>
+                                    <input type="password" class="form-control" name="password2" id="password2" placeholder="Nytt passord" title="legg til nytt passord.">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-xs-12">
+                                    <br>
+                                    <button class="btn btn-lg btn-success pull-right"><i class="glyphicon glyphicon-ok-sign"></i> Lagre</button>
+                                    <button class="btn btn-lg btn-danger"><i class="glyphicon glyphicon" style="color:white"></i>Slett bruker</button>	
+                                    <!--<button class="btn btn-lg" type="reset"><i class="glyphicon glyphicon-repeat"></i> Reset</button>-->
+                                </div>
+                            </div>
+                        </form>
+                    </div> 
+                    <hr>
+                </div>        
+            </div><!--/tab-pane-->
+        </div><!--/tab-content-->
+        
+    </body>
+    
+</html>
+                                                      

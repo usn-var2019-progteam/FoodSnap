@@ -1,0 +1,571 @@
+2019-03-28 00:07:14 DEBUG   $2y$10$bGzScvP62yKxX4gufFx26.MZWTOnMOR45yEfa6vkoEKf.mb1k8rC6
+2019-03-28 13:28:25 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 13:28:25 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 13:28:48 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 13:28:48 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 13:40:05 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 13:40:05 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 13:40:05 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 13:40:05 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 13:40:05 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 13:40:05 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 13:40:06 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 13:41:07 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 13:41:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 13:41:13 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 13:41:13 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 13:41:13 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 13:41:15 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 13:41:18 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 13:59:26 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 13:59:28 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 13:59:28 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 13:59:28 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 13:59:28 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 13:59:28 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 13:59:28 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 13:59:36 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 14:00:00 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 14:00:00 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 14:00:00 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 14:00:00 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 14:00:00 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 14:00:00 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 14:00:00 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 14:00:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 14:00:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 14:00:01 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 14:00:01 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 14:00:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 14:00:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 14:00:02 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 14:00:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 14:00:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 14:00:03 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 14:00:03 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 14:00:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 14:00:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 14:00:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 14:00:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 14:00:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 14:00:11 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 14:00:11 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 14:00:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 14:00:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 14:07:44 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 14:07:45 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 14:19:00 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 14:19:00 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:27:08 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 20:27:09 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 20:27:09 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 20:27:09 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:27:09 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:27:09 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 20:27:09 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 20:49:39 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:49:39 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:50:17 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:50:17 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:50:26 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 20:50:26 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 20:50:26 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 20:50:26 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:50:26 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:50:26 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 20:50:27 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 20:51:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 20:51:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 20:51:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 20:51:01 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:51:01 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:51:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 20:51:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 20:51:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 20:51:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 20:51:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 20:51:53 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:51:53 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:51:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 20:51:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 20:52:05 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:52:05 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:52:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 20:52:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 20:52:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 20:52:11 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:52:11 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:52:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 20:52:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 20:52:36 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 20:52:36 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 20:52:36 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 20:52:36 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:52:36 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:52:36 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 20:52:36 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 20:54:24 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 20:54:24 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 20:54:24 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 20:54:24 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:54:24 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:54:24 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 20:54:24 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 20:54:55 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 20:54:55 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 20:54:55 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 20:54:55 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:54:55 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:54:55 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 20:54:55 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 20:55:39 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 20:55:39 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 20:55:39 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 20:55:39 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 20:55:39 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 20:55:39 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 20:55:39 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 21:00:06 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 21:00:06 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 21:00:06 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 21:00:06 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:00:06 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:00:06 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 21:00:06 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 21:02:21 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:02:21 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:07:02 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 21:07:02 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 21:07:02 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 21:07:02 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:07:02 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:07:02 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 21:07:02 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 21:28:38 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 21:28:38 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 21:28:38 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 21:28:38 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:28:38 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:28:38 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 21:28:38 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 21:28:53 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:28:53 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:29:32 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:29:32 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:31:19 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:31:19 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:32:11 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:32:11 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:32:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 21:32:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 21:32:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 21:32:53 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:32:53 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:32:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 21:32:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 21:33:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 21:33:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 21:33:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 21:33:01 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:33:01 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:33:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 21:33:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 21:33:56 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 21:33:56 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 21:33:56 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 21:33:56 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:33:56 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:33:56 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 21:33:56 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 21:36:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 21:36:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 21:36:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 21:36:03 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:36:03 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:36:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 21:36:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 21:36:15 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:36:15 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:36:44 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 21:36:44 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 21:36:44 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 21:36:44 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 21:36:44 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 21:36:44 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 21:36:44 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 22:20:44 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 22:20:44 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 22:21:16 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 22:21:16 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 22:21:16 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 22:21:16 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 22:21:16 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 22:21:16 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 22:21:16 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 22:21:32 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-28 22:21:32 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-28 22:21:32 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-28 22:21:32 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 22:21:32 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 22:21:32 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-28 22:21:32 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-28 22:25:33 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 22:25:33 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-28 22:41:03 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-28 22:41:03 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-29 07:58:31 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-29 07:58:31 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-29 07:59:28 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-29 07:59:28 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-29 07:59:45 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-29 07:59:46 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-29 08:49:29 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-03-29 08:49:29 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-03-29 08:49:29 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-03-29 08:49:29 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-29 08:49:29 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-29 08:49:29 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-03-29 08:49:29 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-03-29 09:17:12 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-29 09:17:12 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-29 09:17:41 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-29 09:17:42 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-03-29 09:18:37 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-03-29 09:18:37 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-04-03 14:12:13 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-04-03 14:12:13 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-04-03 14:12:13 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-04-03 14:12:13 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-04-03 14:12:13 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-04-03 14:12:13 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-04-03 14:12:13 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-04-03 14:12:33 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-04-03 14:12:33 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-04-03 14:12:33 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-04-03 14:12:33 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-04-03 14:12:33 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-04-03 14:12:33 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-04-03 14:12:33 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-04-03 14:16:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-04-03 14:16:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-04-03 14:16:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-04-03 14:16:25 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-04-03 14:16:25 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-04-03 14:16:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-04-03 14:16:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-04-03 14:31:45 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 63
+2019-04-03 14:31:45 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 66
+2019-04-03 14:31:45 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-04-03 14:31:45 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 114
+2019-04-03 14:31:45 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 117
+2019-04-03 14:31:45 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 76
+2019-04-03 14:31:45 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 83
+2019-04-03 15:12:43 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-04-03 15:12:43 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 74
+2019-04-03 15:12:43 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 79
+2019-04-03 15:12:43 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-03 15:12:43 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-03 15:12:43 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 84
+2019-04-03 15:12:43 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 91
+2019-04-03 15:38:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-04-03 15:38:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 74
+2019-04-03 15:38:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 79
+2019-04-03 15:38:03 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-03 15:38:03 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-03 15:38:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 84
+2019-04-03 15:38:03 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 91
+2019-04-04 15:21:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-04-04 15:21:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 74
+2019-04-04 15:21:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 79
+2019-04-04 15:21:25 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-04 15:21:25 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-04 15:21:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 84
+2019-04-04 15:21:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 91
+2019-04-04 15:22:58 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 71
+2019-04-04 15:22:58 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 74
+2019-04-04 15:22:58 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 79
+2019-04-04 15:22:58 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-04 15:22:58 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-04 15:22:58 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 84
+2019-04-04 15:22:58 DEBUG   /home/finn/utv/foodsnap/www/ajax_bruker.php 91
+2019-04-04 15:52:01 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(133): class_dbpdo->query_select('SELECT BrukerId...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(116): class_DL_bruker::get_user_trans(Object(class_dbpdo), 22)
+#3 /home/finn/utv/foodsnap/www/ajax_bruker.php(172): class_DL_bruker->get_user(22)
+#4 /home/finn/utv/foodsnap/www/ajax_bruker.php(32): action_changePassword()
+#5 {main}
+2019-04-04 15:53:17 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(133): class_dbpdo->query_select('SELECT BrukerId...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(116): class_DL_bruker::get_user_trans(Object(class_dbpdo), 22)
+#3 /home/finn/utv/foodsnap/www/ajax_bruker.php(172): class_DL_bruker->get_user(22)
+#4 /home/finn/utv/foodsnap/www/ajax_bruker.php(32): action_changePassword()
+#5 {main}
+2019-04-04 15:53:28 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(133): class_dbpdo->query_select('SELECT BrukerId...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(116): class_DL_bruker::get_user_trans(Object(class_dbpdo), 22)
+#3 /home/finn/utv/foodsnap/www/ajax_bruker.php(172): class_DL_bruker->get_user(22)
+#4 /home/finn/utv/foodsnap/www/ajax_bruker.php(32): action_changePassword()
+#5 {main}
+2019-04-04 15:54:08 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(133): class_dbpdo->query_select('SELECT BrukerId...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(116): class_DL_bruker::get_user_trans(Object(class_dbpdo), 22)
+#3 /home/finn/utv/foodsnap/www/ajax_bruker.php(172): class_DL_bruker->get_user(22)
+#4 /home/finn/utv/foodsnap/www/ajax_bruker.php(32): action_changePassword()
+#5 {main}
+2019-04-04 15:58:17 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(133): class_dbpdo->query_select('SELECT BrukerId...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(116): class_DL_bruker::get_user_trans(Object(class_dbpdo), 22)
+#3 /home/finn/utv/foodsnap/www/ajax_bruker.php(172): class_DL_bruker->get_user(22)
+#4 /home/finn/utv/foodsnap/www/ajax_bruker.php(32): action_changePassword()
+#5 {main}
+2019-04-04 15:59:47 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(133): class_dbpdo->query_select('SELECT BrukerId...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_bruker.php(116): class_DL_bruker::get_user_trans(Object(class_dbpdo), 22)
+#3 /home/finn/utv/foodsnap/www/ajax_bruker.php(172): class_DL_bruker->get_user(22)
+#4 /home/finn/utv/foodsnap/www/ajax_bruker.php(32): action_changePassword()
+#5 {main}
+2019-04-05 11:16:17 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-05 11:16:17 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-21 20:39:20 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_bilde.php(121): class_dbpdo->query_execute('INSERT INTO bil...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_bilde.php(105): class_DL_bilde::save_image_trans(Object(class_dbpdo), 0, '')
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(28): class_DL_bilde->save_image(0, '')
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(12): action_lagre_bilde()
+#5 {main}
+2019-04-21 20:40:11 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Foodsnap.bilde' doesn't exist, code=42S02
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_bilde.php(121): class_dbpdo->query_execute('INSERT INTO bil...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_bilde.php(105): class_DL_bilde::save_image_trans(Object(class_dbpdo), 0, '')
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(28): class_DL_bilde->save_image(0, '')
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(12): action_lagre_bilde()
+#5 {main}
+2019-04-21 20:41:43 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[HY000]: General error: 1364 Field 'BildeId' doesn't have a default value, code=HY000
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_bilde.php(121): class_dbpdo->query_execute('INSERT INTO Bil...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_bilde.php(105): class_DL_bilde::save_image_trans(Object(class_dbpdo), 0, '')
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(28): class_DL_bilde->save_image(0, '')
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(12): action_lagre_bilde()
+#5 {main}
+2019-04-21 20:42:05 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[HY000]: General error: 1364 Field 'BildeId' doesn't have a default value, code=HY000
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_bilde.php(121): class_dbpdo->query_execute('INSERT INTO Bil...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_bilde.php(105): class_DL_bilde::save_image_trans(Object(class_dbpdo), 0, '')
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(28): class_DL_bilde->save_image(0, '')
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(12): action_lagre_bilde()
+#5 {main}
+2019-04-21 20:53:18 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-21 20:53:18 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-21 20:53:59 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-21 20:53:59 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-21 22:26:47 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-21 22:26:47 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-21 22:48:47 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(58): class_dbpdo->query_execute('INSERT INTO inn...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL.php(37): class_DL_innhold::create_trans(Object(class_dbpdo), Object(data_innhold))
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(41): class_DL->create(Object(data_innhold))
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(13): action_lagre_bilde_innhold()
+#5 {main}
+2019-04-21 22:49:30 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(58): class_dbpdo->query_execute('INSERT INTO inn...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL.php(37): class_DL_innhold::create_trans(Object(class_dbpdo), Object(data_innhold))
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(41): class_DL->create(Object(data_innhold))
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(13): action_lagre_bilde_innhold()
+#5 {main}
+2019-04-21 22:50:24 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(58): class_dbpdo->query_execute('INSERT INTO inn...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL.php(37): class_DL_innhold::create_trans(Object(class_dbpdo), Object(data_innhold))
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(41): class_DL->create(Object(data_innhold))
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(13): action_lagre_bilde_innhold()
+#5 {main}
+2019-04-21 22:51:49 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(58): class_dbpdo->query_execute('INSERT INTO Inn...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL.php(37): class_DL_innhold::create_trans(Object(class_dbpdo), Object(data_innhold))
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(41): class_DL->create(Object(data_innhold))
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(13): action_lagre_bilde_innhold()
+#5 {main}
+2019-04-21 22:53:35 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(58): class_dbpdo->query_execute('INSERT INTO Inn...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL.php(37): class_DL_innhold::create_trans(Object(class_dbpdo), Object(data_innhold))
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(41): class_DL->create(Object(data_innhold))
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(13): action_lagre_bilde_innhold()
+#5 {main}
+2019-04-21 22:54:25 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'BildId' in 'field list', code=42S22
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(58): class_dbpdo->query_execute('INSERT INTO Inn...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL.php(37): class_DL_innhold::create_trans(Object(class_dbpdo), Object(data_innhold))
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(41): class_DL->create(Object(data_innhold))
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(13): action_lagre_bilde_innhold()
+#5 {main}
+2019-04-22 20:36:21 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-22 20:36:21 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-22 20:41:46 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-22 20:41:46 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-22 20:44:29 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-22 20:44:29 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-22 20:55:54 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-22 20:55:54 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-22 20:56:23 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-22 20:56:23 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-22 21:06:26 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-22 21:06:26 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-22 22:49:04 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-22 22:49:04 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-22 23:00:51 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': BrukerId' at line 1, code=42000
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(147): class_dbpdo->query_select('SELECT InnholdI...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(131): class_DL_innhold::get_innhold_exist_bilde_trans(Object(class_dbpdo), Object(data_innhold))
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(47): class_DL_innhold->get_innhold_exist_bilde(Object(data_innhold))
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(13): action_lagre_bilde_innhold()
+#5 {main}
+2019-04-22 23:02:10 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Foodsnap.innhold' doesn't exist, code=42S02
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(100): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(149): class_dbpdo->query_select('SELECT * FROM i...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(131): class_DL_innhold::get_innhold_exist_bilde_trans(Object(class_dbpdo), Object(data_innhold))
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(46): class_DL_innhold->get_innhold_exist_bilde(Object(data_innhold))
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(13): action_lagre_bilde_innhold()
+#5 {main}
+2019-04-22 23:04:07 ERROR   SQL ERROR: /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined, code=HY093
+#0 /home/finn/utv/foodsnap/dep/class_dbpdo.php(118): PDOStatement->execute(Array)
+#1 /home/finn/utv/foodsnap/dep/class_DL_innhold.php(70): class_dbpdo->query_execute('UPDATE Innhold ...', Array)
+#2 /home/finn/utv/foodsnap/dep/class_DL.php(53): class_DL_innhold::update_trans(Object(class_dbpdo), Object(data_innhold))
+#3 /home/finn/utv/foodsnap/www/ajax_bilde.php(49): class_DL->update(Object(data_innhold))
+#4 /home/finn/utv/foodsnap/www/ajax_bilde.php(13): action_lagre_bilde_innhold()
+#5 {main}
+2019-04-23 17:08:15 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-23 17:37:20 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-23 17:37:56 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-23 19:00:52 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-23 19:01:37 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-23 19:02:11 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-23 19:04:32 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-23 19:07:20 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-23 19:07:52 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:08:07 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-24 15:08:07 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-24 15:15:13 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:20:32 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:22:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:22:40 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:25:42 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:34:04 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:35:18 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:35:37 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:41:47 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:44:31 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:45:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:47:05 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:47:33 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:48:56 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:49:26 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:49:30 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:51:05 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:51:37 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:52:20 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:53:39 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:55:07 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:56:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:57:14 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:57:33 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:58:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:59:15 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 15:59:37 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:02:49 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:03:33 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:03:36 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:04:39 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:07:53 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:12:28 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:12:56 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:14:15 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:15:00 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:15:56 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:17:40 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:19:04 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:21:57 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:22:49 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:23:32 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:24:33 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:26:59 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:27:15 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:28:08 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:28:31 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:31:00 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:33:37 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:34:33 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:35:35 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:35:48 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:36:24 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:36:42 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:37:31 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:38:22 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:39:18 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:43:19 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 16:44:53 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-24 16:44:53 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-24 23:15:12 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-24 23:29:12 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 00:05:02 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-25 00:05:02 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-25 00:23:05 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 00:27:49 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 00:36:31 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 00:38:34 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 00:41:20 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 00:42:10 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 00:44:22 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 00:44:49 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 00:45:01 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 00:49:24 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 19:56:44 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:00:27 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-25 20:00:27 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-25 20:06:07 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:07:07 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:08:04 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:08:26 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:08:55 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:10:49 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:16:52 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 143
+2019-04-25 20:16:52 DEBUG   /home/finn/utv/foodsnap/dep/class_DL_bruker.php 146
+2019-04-25 20:20:46 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:22:15 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:27:14 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:52:23 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:52:32 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:52:54 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:53:13 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:54:28 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 20:55:38 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 21:00:45 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 21:05:41 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 21:07:22 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 21:09:38 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 21:10:24 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 21:10:35 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 21:10:50 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 21:11:14 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:27:20 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:27:30 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:28:18 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:28:29 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:30:21 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:31:29 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:33:19 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:36:42 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:40:12 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:41:25 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:41:52 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:42:30 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
+2019-04-25 22:43:45 DEBUG   /home/finn/utv/foodsnap/www/ajax_bilde.php 65
